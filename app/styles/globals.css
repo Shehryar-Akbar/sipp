@@ -1,0 +1,115 @@
+@import "tailwindcss";
+/* @import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&display=swap"); */
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../../public/poppins/Poppins-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PoppinsBold";
+  src: url("../../public/poppins/Poppins-Bold.ttf") format("truetype");
+  font-style: normal;
+}
+
+/* Lenis smooth scroll styles */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+.main-hero-heading,
+.bullets {
+  font-family: "PoppinsBold" !important;
+}
+
+/* ================ for the hero right split text ================ */
+.split-text .char {
+  text-shadow: 0 1em 0 #f4f4ed;
+  display: inline-block;
+  transform: translateY(0);
+  transition: transform 300ms cubic-bezier(0.2, 0, 0.5, 1);
+}
+
+.split-text:hover .char {
+  transform: translateY(-1em);
+}
+
+.split-text .char {
+  transition-delay: calc(40ms + var(--char-index, 0) * 20ms);
+}
+
+.group:hover .vibrating-line {
+  animation: vibrate 0.8s cubic-bezier(0.36, 0.07, 0.19, 0.97);
+}
+
+@keyframes vibrate {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  10% {
+    transform: translateY(-2px);
+  }
+  20% {
+    transform: translateY(2px);
+  }
+  30% {
+    transform: translateY(-1.5px);
+  }
+  40% {
+    transform: translateY(1.5px);
+  }
+  50% {
+    transform: translateY(-1px);
+  }
+  60% {
+    transform: translateY(1px);
+  }
+  70% {
+    transform: translateY(-0.5px);
+  }
+  80% {
+    transform: translateY(0.5px);
+  }
+  90% {
+    transform: translateY(-0.25px);
+  }
+}
+
+h1,
+h2 {
+  font-family: "PoppinsBold";
+}
+
+/* @media (max-width: 1300px) {
+  .hero-heading-container {
+    width: 80% !important;
+  }
+} */
+
+@media (max-width: 480px) {
+  body {
+    overflow-x: hidden !important;
+  }
+  section {
+    overflow-x: hidden !important;
+  }
+}

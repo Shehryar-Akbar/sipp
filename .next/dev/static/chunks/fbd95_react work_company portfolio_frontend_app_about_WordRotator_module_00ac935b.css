@@ -1,0 +1,27 @@
+/* [project]/vs_code_workspace/react work/company portfolio/frontend/app/about/WordRotator.module.css [app-client] (css) */
+.WordRotator-module__LsE1YG__letter {
+  transform-origin: top;
+  mix-blend-mode: lighten;
+  margin: 0 2px;
+  font-size: 24vw;
+  font-weight: bold;
+  transition: line-height 1s, filter .5s;
+  animation: 3s ease-in-out infinite WordRotator-module__LsE1YG__rotate;
+  display: inline-block;
+}
+
+.WordRotator-module__LsE1YG__letter:hover {
+  filter: hue-rotate(270deg);
+}
+
+@keyframes WordRotator-module__LsE1YG__rotate {
+  100% {
+    transform: rotateZ(360deg)rotateX(0);
+  }
+
+  50%, 75% {
+    transform: rotateZ(0)rotateX(360deg);
+  }
+}
+
+/*# sourceMappingURL=fbd95_react%20work_company%20portfolio_frontend_app_about_WordRotator_module_00ac935b.css.map*/

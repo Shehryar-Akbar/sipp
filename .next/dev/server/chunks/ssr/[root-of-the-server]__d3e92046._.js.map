@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":["file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/portfolio/page.jsx"],"sourcesContent":["import React from \"react\";\n\nconst PortfolioPage = () => {\n  return <div>PortfolioPage</div>;\n};\n\nexport default PortfolioPage;\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,gBAAgB;IACpB,qBAAO,oTAAC;kBAAI;;;;;;AACd;uCAEe"}}]
+}

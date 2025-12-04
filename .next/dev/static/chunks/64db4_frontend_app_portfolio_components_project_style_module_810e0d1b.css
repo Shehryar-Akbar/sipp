@@ -1,0 +1,41 @@
+/* [project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/project/style.module.css [app-client] (css) */
+.style-module__ffy8wa__project {
+  cursor: pointer;
+  border-top: 1px solid #c9c9c9;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 50px 100px;
+  transition: all .2s;
+  display: flex;
+}
+
+.style-module__ffy8wa__project:last-of-type {
+  border-bottom: 1px solid #c9c9c9;
+}
+
+.style-module__ffy8wa__project:hover {
+  opacity: .5;
+}
+
+.style-module__ffy8wa__project:hover h2 {
+  transform: translateX(-10px);
+}
+
+.style-module__ffy8wa__project:hover p {
+  transform: translateX(10px);
+}
+
+.style-module__ffy8wa__project h2 {
+  margin: 0;
+  font-size: 60px;
+  font-weight: 400;
+  transition: all .4s;
+}
+
+.style-module__ffy8wa__project p {
+  font-weight: 300;
+  transition: all .4s;
+}
+
+/*# sourceMappingURL=64db4_frontend_app_portfolio_components_project_style_module_810e0d1b.css.map*/

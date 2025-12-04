@@ -1,0 +1,40 @@
+/* [project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/style.module.css [app-client] (css) */
+.style-module__4ONXzG__modalContainer {
+  pointer-events: none;
+  background-color: #fff;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 350px;
+  display: flex;
+  position: absolute;
+  overflow: hidden;
+}
+
+.style-module__4ONXzG__modalSlider {
+  width: 100%;
+  height: 100%;
+  transition: top .5s cubic-bezier(.76, 0, .24, 1);
+  position: absolute;
+}
+
+.style-module__4ONXzG__modal {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.style-module__4ONXzG__modal img {
+  height: auto;
+}
+
+@media (max-width: 450px) {
+  .style-module__4ONXzG__modalContainer {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/*# sourceMappingURL=64db4_frontend_app_portfolio_components_modal_style_module_css_bad6b30c._.single.css.map*/

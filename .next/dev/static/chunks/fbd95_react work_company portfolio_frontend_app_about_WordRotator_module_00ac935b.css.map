@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/about/WordRotator.module.css"],"sourcesContent":[".letter {\n  font-size: 24vw;\n  font-weight: bold;\n  margin: 0 2px;\n  display: inline-block;\n  animation: rotate 3s ease-in-out infinite;\n  transition: line-height 1s, filter 0.5s;\n  transform-origin: center top;\n  mix-blend-mode: lighten;\n}\n\n.letter:hover {\n  filter: hue-rotate(270deg);\n}\n\n@keyframes rotate {\n  100% {\n    transform: rotateZ(360deg) rotateX(0deg);\n  }\n  50%,\n  75% {\n    transform: rotateZ(0deg) rotateX(360deg);\n  }\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;AAWA;;;;AAIA"}}]
+}

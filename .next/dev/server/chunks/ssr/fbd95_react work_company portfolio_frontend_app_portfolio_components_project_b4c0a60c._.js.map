@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/project/style.module.css [app-ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"project\": \"style-module__ffy8wa__project\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA"}},
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/portfolio/components/project/index.jsx"],"sourcesContent":["'use client';\nimport React from 'react'\nimport styles from './style.module.css';\n\nexport default function index({index, title, setModal}) {\n\n    return (\n        <div onMouseEnter={() => {setModal({active: true, index})}} onMouseLeave={() => {setModal({active: false, index})}} className={styles.project}>\n            <h2>{title}</h2>\n            <p>Design & Development</p>\n        </div>\n    )\n}\n"],"names":[],"mappings":";;;;;AACA;AACA;AAFA;;;;AAIe,SAAS,MAAM,EAAC,KAAK,EAAE,KAAK,EAAE,QAAQ,EAAC;IAElD,qBACI,oTAAC;QAAI,cAAc;YAAO,SAAS;gBAAC,QAAQ;gBAAM;YAAK;QAAE;QAAG,cAAc;YAAO,SAAS;gBAAC,QAAQ;gBAAO;YAAK;QAAE;QAAG,WAAW,+OAAM,CAAC,OAAO;;0BACzI,oTAAC;0BAAI;;;;;;0BACL,oTAAC;0BAAE;;;;;;;;;;;;AAGf"}}]
+}

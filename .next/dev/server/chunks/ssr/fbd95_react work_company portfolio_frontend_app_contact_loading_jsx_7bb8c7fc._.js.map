@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/contact/loading.jsx"],"sourcesContent":["import React from 'react'\n\nconst loading = () => {\n  return (\n    <div>loading</div>\n  )\n}\n\nexport default loading"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,UAAU;IACd,qBACE,oTAAC;kBAAI;;;;;;AAET;uCAEe"}}]
+}

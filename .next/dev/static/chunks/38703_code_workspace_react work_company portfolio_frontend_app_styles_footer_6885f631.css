@@ -1,0 +1,229 @@
+/* [project]/vs_code_workspace/react work/company portfolio/frontend/app/styles/footer.css [app-client] (css) */
+.site-footer-three {
+  z-index: 1;
+  background-color: #18191b;
+  display: block;
+  position: relative;
+}
+
+.site-footer-three__shape-1 {
+  z-index: -1;
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
+
+.site-footer-three__shape-1 img {
+  width: auto;
+}
+
+.site-footer-three__shape-2 {
+  z-index: -1;
+  position: absolute;
+  bottom: 92px;
+  right: 30px;
+}
+
+.site-footer-three__shape-2 img {
+  width: auto;
+}
+
+.site-footer-three__top {
+  padding: 107px 0 112px;
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__top-left {
+  margin-left: 33px;
+  margin-right: 15px;
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__top-title {
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  border: 1px solid red;
+  margin-bottom: 42px;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 52px;
+}
+
+.footer-widget-three__read-more {
+  display: inline-block;
+  position: relative;
+}
+
+.footer-widget-three__read-more a {
+  color: var(--nexin-base);
+  align-items: center;
+  gap: 5px;
+  font-weight: 500;
+  display: inline-flex;
+  position: relative;
+}
+
+.footer-widget-three__read-more a:hover {
+  color: var(--nexin-white);
+}
+
+.footer-widget-three__link-box {
+  border-top: 1px solid #2a2a2a;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 31px;
+  padding-top: 33px;
+  display: flex;
+  position: relative;
+}
+
+.footer-widget-three__link, .footer-widget-three__link li {
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__link li + li {
+  margin-top: 9px;
+}
+
+.footer-widget-three__link li a {
+  color: var(--nexin-gray);
+  font-weight: 500;
+}
+
+.footer-widget-three__link li a:hover {
+  color: var(--nexin-base);
+}
+
+.footer-widget-three__top-right {
+  margin-top: 4px;
+  margin-left: 60px;
+  margin-right: 33px;
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__top-right-title {
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 34px;
+}
+
+.footer-widget-three__top-right-text {
+  margin: 13px 0 42px;
+}
+
+.footer-widget-three__newsletter-form-input-box {
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__newsletter-form-input-box input[type="email"] {
+  width: 100%;
+  height: 52px;
+  color: var(--nexin-gray);
+  background-color: #2a2a2a;
+  border: none;
+  outline: none;
+  padding-left: 30px;
+  padding-right: 55px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.footer-widget-three__newsletter-btn {
+  background-color: #0000;
+  border: none;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  transition: all .5s;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+}
+
+.footer-widget-three__newsletter-btn > span:hover {
+  color: var(--nexin-white);
+}
+
+.footer-widget-three__newsletter-btn > span {
+  color: var(--nexin-base);
+  font-size: 16px;
+  display: inline-block;
+  position: relative;
+}
+
+.footer-widget-three__contact-list {
+  margin-top: 23px;
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__contact-list li {
+  align-items: center;
+  gap: 20px;
+  display: flex;
+  position: relative;
+}
+
+.footer-widget-three__contact-list li + li {
+  margin-top: 16px;
+}
+
+.footer-widget-three__contact-list li span {
+  width: 100%;
+  max-width: 70px;
+  color: var(--nexin-white);
+  font-size: 16px;
+  font-weight: 600;
+  display: block;
+  position: relative;
+}
+
+.footer-widget-three__contact-list li p a {
+  color: var(--nexin-gray);
+}
+
+.footer-widget-three__contact-list li p {
+  border-bottom: 1px solid #2a2a2a;
+  line-height: 19px;
+  transition: all .5s;
+}
+
+.footer-widget-three__contact-list li p a:hover {
+  color: var(--nexin-base);
+}
+
+.site-footer-three__bottom {
+  border-top: 1px solid #2a2a2a;
+  padding: 33px 0 32px;
+}
+
+.site-footer-three__bottom-inner {
+  text-align: center;
+  display: block;
+  position: relative;
+}
+
+.site-footer-three__bottom-text {
+  color: var(--nexin-white);
+}
+
+.site-footer-three__bottom-text a {
+  color: var(--nexin-base);
+}
+
+.site-footer-three__bottom-text a:hover {
+  color: var(--nexin-white);
+}
+
+/*# sourceMappingURL=38703_code_workspace_react%20work_company%20portfolio_frontend_app_styles_footer_6885f631.css.map*/

@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: light dark;
+  --bg-dark: rgb(255, 255, 255);
+  --bg-light: rgb(255, 237, 212);
+  --txt-light: rgb(10, 10, 10);
+  --txt-dark: rgb(245, 245, 245);
+  --line-light: rgba(0, 0, 0, 0.25);
+  --line-dark: rgba(255, 255, 255, 0.25);
+  --clr-bg: var(--bg-light);
+  --clr-txt: var(--txt-light);
+  --clr-lines: var(--line-light);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --clr-bg: var(--bg-dark);
+    --clr-txt: var(--txt-dark);
+    --clr-lines: var(--line-dark);
+  }
+}
+
+.word {
+  --translate-distance: -1lh;
+  --trans-duration: 3000ms;
+  --trans-delay-factor: 20ms;
+  --trans-timimg-function: linear(
+    0,
+    0.011 0.6%,
+    0.041 1.2%,
+    0.173 2.6%,
+    0.894 7.4%,
+    1.128 9.3%,
+    1.271 11.1%,
+    1.311 12%,
+    1.333 13%,
+    1.328 14.4%,
+    1.286 15.9%,
+    1.031 21%,
+    0.95 23%,
+    0.907 24.7%,
+    0.888 26.5%,
+    0.89 27.9%,
+    0.904 29.4%,
+    1.034 42.5%,
+    0.997 49.3%,
+    0.987 53.3%,
+    1.004 66.5%,
+    1
+  );
+  --text-color-hover: rgb(255, 255, 255);
+  --font-size: clamp(3rem, 8.5vw + 0.045rem, 8rem);
+
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--clr-txt);
+  line-height: 1;
+  display: flex;
+  overflow: hidden;
+}
+
+.word:visited {
+  color: var(--clr-txt);
+}
+
+.word::selection {
+  background: transparent;
+}
+
+.word > span {
+  text-shadow: 0 1lh var(--text-color-hover);
+  display: inline-block;
+  transition: translate var(--trans-duration) var(--trans-timimg-function);
+}
+
+/* Individual span delays */
+.word > span:nth-child(1) {
+  transition-delay: calc(1 * var(--trans-delay-factor));
+}
+.word > span:nth-child(2) {
+  transition-delay: calc(2 * var(--trans-delay-factor));
+}
+.word > span:nth-child(3) {
+  transition-delay: calc(3 * var(--trans-delay-factor));
+}
+.word > span:nth-child(4) {
+  transition-delay: calc(4 * var(--trans-delay-factor));
+}
+.word > span:nth-child(5) {
+  transition-delay: calc(5 * var(--trans-delay-factor));
+}
+.word > span:nth-child(6) {
+  transition-delay: calc(6 * var(--trans-delay-factor));
+}
+.word > span:nth-child(7) {
+  transition-delay: calc(7 * var(--trans-delay-factor));
+}
+.word > span:nth-child(8) {
+  transition-delay: calc(8 * var(--trans-delay-factor));
+}
+.word > span:nth-child(9) {
+  transition-delay: calc(9 * var(--trans-delay-factor));
+}
+
+.word:hover > span {
+  translate: 0 var(--translate-distance);
+}
+
+@media (max-width: 1440px) {
+  .word {
+    font-size: 3rem;
+  }
+}

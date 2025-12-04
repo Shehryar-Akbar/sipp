@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/portfolio/components/project/style.module.css"],"sourcesContent":[".project{\n    display: flex;\n    width: 100%;\n    justify-content: space-between;\n    align-items: center;\n    padding: 50px 100px 50px 100px;\n    border-top: 1px solid rgb(201, 201, 201);\n    cursor: pointer;\n    transition: all 0.2s;\n}\n.project:last-of-type{\n    border-bottom: 1px solid rgb(201, 201, 201);\n}\n\n.project:hover{\n    opacity: 0.5;\n}\n\n.project:hover h2{\n    transform: translateX(-10px);\n}\n\n.project:hover p{\n    transform: translateX(10px);\n}\n\n.project h2{\n    font-size: 60px;\n    margin: 0px;\n    font-weight: 400;\n    transition: all 0.4s;\n}\n\n.project p{\n    transition: all 0.4s;\n    font-weight: 300;\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;AAUA;;;;AAIA;;;;AAIA;;;;AAIA;;;;AAIA;;;;;;;AAOA"}}]
+}

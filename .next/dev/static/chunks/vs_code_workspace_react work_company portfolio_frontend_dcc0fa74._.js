@@ -1,0 +1,4751 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img1.ba7190e4.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCgvi2afXoNS86bbFD5bN3B5A9jyRRqqduo9OY//9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img2.d98772ec.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwBv2r7HaWcxsmneU5WUgsjp3Ax9Ki7Tu9jJN3uz/9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img3.7ebb19d8.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDk9P125uYliN1OJy3B8w4I9MetdSlQ5dd7eZyuNbm0enyP/9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img4.0d95eca1.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlb66/tLVLuW4ADvIzZkYdOwFc97I6mlY//9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img5.f2a2af2e.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCaPxLLFN562KIbYu0UYRl3A4GOmDUT1saQsk7M/9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img6.6c2496c4.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmYdU0Sa2VZlZZ41ONy/Kx967udWObldz/2Q=="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img7.6b18ddc3.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDZTVvEWoan59stybXzflyFWMpk+vJ4+lJaobVnY//Z"
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img8.49562424.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDAt9QubLVZplaWSSN2UbtxTjOPauTWx09T/9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img9.4498e1c8.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDTlvLyG8kktoWnK5BhKjKr+BH9a0k7RM4r3j//2Q=="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/img10.123c2df1.jpg");}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg.mjs { IMAGE => \"[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 1024,
+    height: 1024,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAgDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCRdQeXxIqbZpraJApCcqPl/wAafQXU/9k="
+};
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/InfiniteMenu.jsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>InfiniteMenu
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img1.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img2.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img3.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img4.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img5.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img6.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img7.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img8.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img9.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/portfolio/img10.jpg (static in ecmascript, tag client)" } [app-client] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat4.js [app-client] (ecmascript) <export * as mat4>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/quat.js [app-client] (ecmascript) <export * as quat>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec2.js [app-client] (ecmascript) <export * as vec2>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec3.js [app-client] (ecmascript) <export * as vec3>");
+;
+var _s = __turbopack_context__.k.signature();
+"use client";
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+const discVertShaderSource = `#version 300 es
+
+uniform mat4 uWorldMatrix;
+uniform mat4 uViewMatrix;
+uniform mat4 uProjectionMatrix;
+uniform vec3 uCameraPosition;
+uniform vec4 uRotationAxisVelocity;
+
+in vec3 aModelPosition;
+in vec3 aModelNormal;
+in vec2 aModelUvs;
+in mat4 aInstanceMatrix;
+
+out vec2 vUvs;
+out float vAlpha;
+flat out int vInstanceId;
+
+#define PI 3.141593
+
+void main() {
+    vec4 worldPosition = uWorldMatrix * aInstanceMatrix * vec4(aModelPosition, 1.);
+
+    vec3 centerPos = (uWorldMatrix * aInstanceMatrix * vec4(0., 0., 0., 1.)).xyz;
+    float radius = length(centerPos.xyz);
+
+    if (gl_VertexID > 0) {
+        vec3 rotationAxis = uRotationAxisVelocity.xyz;
+        float rotationVelocity = min(.15, uRotationAxisVelocity.w * 15.);
+        vec3 stretchDir = normalize(cross(centerPos, rotationAxis));
+        vec3 relativeVertexPos = normalize(worldPosition.xyz - centerPos);
+        float strength = dot(stretchDir, relativeVertexPos);
+        float invAbsStrength = min(0., abs(strength) - 1.);
+        strength = rotationVelocity * sign(strength) * abs(invAbsStrength * invAbsStrength * invAbsStrength + 1.);
+        worldPosition.xyz += stretchDir * strength;
+    }
+
+    worldPosition.xyz = radius * normalize(worldPosition.xyz);
+
+    gl_Position = uProjectionMatrix * uViewMatrix * worldPosition;
+
+    vAlpha = smoothstep(0.5, 1., normalize(worldPosition.xyz).z) * .9 + .1;
+    vUvs = aModelUvs;
+    vInstanceId = gl_InstanceID;
+}
+`;
+const discFragShaderSource = `#version 300 es
+precision highp float;
+
+uniform sampler2D uTex;
+uniform int uItemCount;
+uniform int uAtlasSize;
+
+out vec4 outColor;
+
+in vec2 vUvs;
+in float vAlpha;
+flat in int vInstanceId;
+
+void main() {
+    int itemIndex = vInstanceId % uItemCount;
+    int cellsPerRow = uAtlasSize;
+    int cellX = itemIndex % cellsPerRow;
+    int cellY = itemIndex / cellsPerRow;
+    vec2 cellSize = vec2(1.0) / vec2(float(cellsPerRow));
+    vec2 cellOffset = vec2(float(cellX), float(cellY)) * cellSize;
+
+    ivec2 texSize = textureSize(uTex, 0);
+    float imageAspect = float(texSize.x) / float(texSize.y);
+    float containerAspect = 1.0;
+    
+    float scale = max(imageAspect / containerAspect, 
+                     containerAspect / imageAspect);
+    
+    vec2 st = vec2(vUvs.x, 1.0 - vUvs.y);
+    st = (st - 0.5) * scale + 0.5;
+    
+    st = clamp(st, 0.0, 1.0);
+    
+    st = st * cellSize + cellOffset;
+    
+    outColor = texture(uTex, st);
+    outColor.a *= vAlpha;
+}
+`;
+class Face {
+    constructor(a, b, c){
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+}
+class Vertex {
+    constructor(x, y, z){
+        this.position = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(x, y, z);
+        this.normal = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create();
+        this.uv = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].create();
+    }
+}
+class Geometry {
+    constructor(){
+        this.vertices = [];
+        this.faces = [];
+    }
+    addVertex(...args) {
+        for(let i = 0; i < args.length; i += 3){
+            this.vertices.push(new Vertex(args[i], args[i + 1], args[i + 2]));
+        }
+        return this;
+    }
+    addFace(...args) {
+        for(let i = 0; i < args.length; i += 3){
+            this.faces.push(new Face(args[i], args[i + 1], args[i + 2]));
+        }
+        return this;
+    }
+    get lastVertex() {
+        return this.vertices[this.vertices.length - 1];
+    }
+    subdivide(divisions = 1) {
+        const midPointCache = {};
+        let f = this.faces;
+        for(let div = 0; div < divisions; ++div){
+            const newFaces = new Array(f.length * 4);
+            f.forEach((face, ndx)=>{
+                const mAB = this.getMidPoint(face.a, face.b, midPointCache);
+                const mBC = this.getMidPoint(face.b, face.c, midPointCache);
+                const mCA = this.getMidPoint(face.c, face.a, midPointCache);
+                const i = ndx * 4;
+                newFaces[i + 0] = new Face(face.a, mAB, mCA);
+                newFaces[i + 1] = new Face(face.b, mBC, mAB);
+                newFaces[i + 2] = new Face(face.c, mCA, mBC);
+                newFaces[i + 3] = new Face(mAB, mBC, mCA);
+            });
+            f = newFaces;
+        }
+        this.faces = f;
+        return this;
+    }
+    spherize(radius = 1) {
+        this.vertices.forEach((vertex)=>{
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].normalize(vertex.normal, vertex.position);
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].scale(vertex.position, vertex.normal, radius);
+        });
+        return this;
+    }
+    get data() {
+        return {
+            vertices: this.vertexData,
+            indices: this.indexData,
+            normals: this.normalData,
+            uvs: this.uvData
+        };
+    }
+    get vertexData() {
+        return new Float32Array(this.vertices.flatMap((v)=>Array.from(v.position)));
+    }
+    get normalData() {
+        return new Float32Array(this.vertices.flatMap((v)=>Array.from(v.normal)));
+    }
+    get uvData() {
+        return new Float32Array(this.vertices.flatMap((v)=>Array.from(v.uv)));
+    }
+    get indexData() {
+        return new Uint16Array(this.faces.flatMap((f)=>[
+                f.a,
+                f.b,
+                f.c
+            ]));
+    }
+    getMidPoint(ndxA, ndxB, cache) {
+        const cacheKey = ndxA < ndxB ? `k_${ndxB}_${ndxA}` : `k_${ndxA}_${ndxB}`;
+        if (Object.prototype.hasOwnProperty.call(cache, cacheKey)) {
+            return cache[cacheKey];
+        }
+        const a = this.vertices[ndxA].position;
+        const b = this.vertices[ndxB].position;
+        const ndx = this.vertices.length;
+        cache[cacheKey] = ndx;
+        this.addVertex((a[0] + b[0]) * 0.5, (a[1] + b[1]) * 0.5, (a[2] + b[2]) * 0.5);
+        return ndx;
+    }
+}
+class IcosahedronGeometry extends Geometry {
+    constructor(){
+        super();
+        const t = Math.sqrt(5) * 0.5 + 0.5;
+        this.addVertex(-1, t, 0, 1, t, 0, -1, -t, 0, 1, -t, 0, 0, -1, t, 0, 1, t, 0, -1, -t, 0, 1, -t, t, 0, -1, t, 0, 1, -t, 0, -1, -t, 0, 1).addFace(0, 11, 5, 0, 5, 1, 0, 1, 7, 0, 7, 10, 0, 10, 11, 1, 5, 9, 5, 11, 4, 11, 10, 2, 10, 7, 6, 7, 1, 8, 3, 9, 4, 3, 4, 2, 3, 2, 6, 3, 6, 8, 3, 8, 9, 4, 9, 5, 2, 4, 11, 6, 2, 10, 8, 6, 7, 9, 8, 1);
+    }
+}
+class DiscGeometry extends Geometry {
+    constructor(steps = 4, radius = 1){
+        super();
+        steps = Math.max(4, steps);
+        const alpha = 2 * Math.PI / steps;
+        this.addVertex(0, 0, 0);
+        this.lastVertex.uv[0] = 0.5;
+        this.lastVertex.uv[1] = 0.5;
+        for(let i = 0; i < steps; ++i){
+            const x = Math.cos(alpha * i);
+            const y = Math.sin(alpha * i);
+            this.addVertex(radius * x, radius * y, 0);
+            this.lastVertex.uv[0] = x * 0.5 + 0.5;
+            this.lastVertex.uv[1] = y * 0.5 + 0.5;
+            if (i > 0) {
+                this.addFace(0, i, i + 1);
+            }
+        }
+        this.addFace(0, steps, 1);
+    }
+}
+function createShader(gl, type, source) {
+    const shader = gl.createShader(type);
+    gl.shaderSource(shader, source);
+    gl.compileShader(shader);
+    const success = gl.getShaderParameter(shader, gl.COMPILE_STATUS);
+    if (success) {
+        return shader;
+    }
+    console.error(gl.getShaderInfoLog(shader));
+    gl.deleteShader(shader);
+    return null;
+}
+function createProgram(gl, shaderSources, transformFeedbackVaryings, attribLocations) {
+    const program = gl.createProgram();
+    [
+        gl.VERTEX_SHADER,
+        gl.FRAGMENT_SHADER
+    ].forEach((type, ndx)=>{
+        const shader = createShader(gl, type, shaderSources[ndx]);
+        if (shader) gl.attachShader(program, shader);
+    });
+    if (transformFeedbackVaryings) {
+        gl.transformFeedbackVaryings(program, transformFeedbackVaryings, gl.SEPARATE_ATTRIBS);
+    }
+    if (attribLocations) {
+        for(const attrib in attribLocations){
+            gl.bindAttribLocation(program, attribLocations[attrib], attrib);
+        }
+    }
+    gl.linkProgram(program);
+    const success = gl.getProgramParameter(program, gl.LINK_STATUS);
+    if (success) {
+        return program;
+    }
+    console.error(gl.getProgramInfoLog(program));
+    gl.deleteProgram(program);
+    return null;
+}
+function makeVertexArray(gl, bufLocNumElmPairs, indices) {
+    const va = gl.createVertexArray();
+    gl.bindVertexArray(va);
+    for (const [buffer, loc, numElem] of bufLocNumElmPairs){
+        if (loc === -1) continue;
+        gl.bindBuffer(gl.ARRAY_BUFFER, buffer);
+        gl.enableVertexAttribArray(loc);
+        gl.vertexAttribPointer(loc, numElem, gl.FLOAT, false, 0, 0);
+    }
+    if (indices) {
+        const indexBuffer = gl.createBuffer();
+        gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, indexBuffer);
+        gl.bufferData(gl.ELEMENT_ARRAY_BUFFER, new Uint16Array(indices), gl.STATIC_DRAW);
+    }
+    gl.bindVertexArray(null);
+    return va;
+}
+function resizeCanvasToDisplaySize(canvas) {
+    const dpr = Math.min(2, window.devicePixelRatio);
+    const displayWidth = Math.round(canvas.clientWidth * dpr);
+    const displayHeight = Math.round(canvas.clientHeight * dpr);
+    const needResize = canvas.width !== displayWidth || canvas.height !== displayHeight;
+    if (needResize) {
+        canvas.width = displayWidth;
+        canvas.height = displayHeight;
+    }
+    return needResize;
+}
+function makeBuffer(gl, sizeOrData, usage) {
+    const buf = gl.createBuffer();
+    gl.bindBuffer(gl.ARRAY_BUFFER, buf);
+    gl.bufferData(gl.ARRAY_BUFFER, sizeOrData, usage);
+    gl.bindBuffer(gl.ARRAY_BUFFER, null);
+    return buf;
+}
+function createAndSetupTexture(gl, minFilter, magFilter, wrapS, wrapT) {
+    const texture = gl.createTexture();
+    gl.bindTexture(gl.TEXTURE_2D, texture);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, wrapS);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, wrapT);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, minFilter);
+    gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, magFilter);
+    return texture;
+}
+class ArcballControl {
+    isPointerDown = false;
+    orientation = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create();
+    pointerRotation = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create();
+    rotationVelocity = 0;
+    rotationAxis = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(1, 0, 0);
+    snapDirection = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(0, 0, -1);
+    snapTargetDirection;
+    EPSILON = 0.1;
+    IDENTITY_QUAT = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create();
+    constructor(canvas, updateCallback){
+        this.canvas = canvas;
+        this.updateCallback = updateCallback || (()=>null);
+        this.pointerPos = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].create();
+        this.previousPointerPos = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].create();
+        this._rotationVelocity = 0;
+        this._combinedQuat = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create();
+        canvas.addEventListener("pointerdown", (e)=>{
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].set(this.pointerPos, e.clientX, e.clientY);
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].copy(this.previousPointerPos, this.pointerPos);
+            this.isPointerDown = true;
+        });
+        canvas.addEventListener("pointerup", ()=>{
+            this.isPointerDown = false;
+        });
+        canvas.addEventListener("pointerleave", ()=>{
+            this.isPointerDown = false;
+        });
+        canvas.addEventListener("pointermove", (e)=>{
+            if (this.isPointerDown) {
+                __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].set(this.pointerPos, e.clientX, e.clientY);
+            }
+        });
+        canvas.style.touchAction = "none";
+    }
+    update(deltaTime, targetFrameDuration = 16) {
+        const timeScale = deltaTime / targetFrameDuration + 0.00001;
+        let angleFactor = timeScale;
+        let snapRotation = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create();
+        if (this.isPointerDown) {
+            const INTENSITY = 0.3 * timeScale;
+            const ANGLE_AMPLIFICATION = 5 / timeScale;
+            const midPointerPos = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].sub(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].create(), this.pointerPos, this.previousPointerPos);
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].scale(midPointerPos, midPointerPos, INTENSITY);
+            if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].sqrLen(midPointerPos) > this.EPSILON) {
+                __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].add(midPointerPos, this.previousPointerPos, midPointerPos);
+                const p = this.#project(midPointerPos);
+                const q = this.#project(this.previousPointerPos);
+                const a = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].normalize(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), p);
+                const b = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].normalize(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), q);
+                __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].copy(this.previousPointerPos, midPointerPos);
+                angleFactor *= ANGLE_AMPLIFICATION;
+                this.quatFromVectors(a, b, this.pointerRotation, angleFactor);
+            } else {
+                __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].slerp(this.pointerRotation, this.pointerRotation, this.IDENTITY_QUAT, INTENSITY);
+            }
+        } else {
+            const INTENSITY = 0.1 * timeScale;
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].slerp(this.pointerRotation, this.pointerRotation, this.IDENTITY_QUAT, INTENSITY);
+            if (this.snapTargetDirection) {
+                const SNAPPING_INTENSITY = 0.2;
+                const a = this.snapTargetDirection;
+                const b = this.snapDirection;
+                const sqrDist = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].squaredDistance(a, b);
+                const distanceFactor = Math.max(0.1, 1 - sqrDist * 10);
+                angleFactor *= SNAPPING_INTENSITY * distanceFactor;
+                this.quatFromVectors(a, b, snapRotation, angleFactor);
+            }
+        }
+        const combinedQuat = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].multiply(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create(), snapRotation, this.pointerRotation);
+        this.orientation = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].multiply(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create(), combinedQuat, this.orientation);
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].normalize(this.orientation, this.orientation);
+        const RA_INTENSITY = 0.8 * timeScale;
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].slerp(this._combinedQuat, this._combinedQuat, combinedQuat, RA_INTENSITY);
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].normalize(this._combinedQuat, this._combinedQuat);
+        const rad = Math.acos(this._combinedQuat[3]) * 2.0;
+        const s = Math.sin(rad / 2.0);
+        let rv = 0;
+        if (s > 0.000001) {
+            rv = rad / (2 * Math.PI);
+            this.rotationAxis[0] = this._combinedQuat[0] / s;
+            this.rotationAxis[1] = this._combinedQuat[1] / s;
+            this.rotationAxis[2] = this._combinedQuat[2] / s;
+        }
+        const RV_INTENSITY = 0.5 * timeScale;
+        this._rotationVelocity += (rv - this._rotationVelocity) * RV_INTENSITY;
+        this.rotationVelocity = this._rotationVelocity / timeScale;
+        this.updateCallback(deltaTime);
+    }
+    quatFromVectors(a, b, out, angleFactor = 1) {
+        const axis = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].cross(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), a, b);
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].normalize(axis, axis);
+        const d = Math.max(-1, Math.min(1, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].dot(a, b)));
+        const angle = Math.acos(d) * angleFactor;
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].setAxisAngle(out, axis, angle);
+        return {
+            q: out,
+            axis,
+            angle
+        };
+    }
+    #project(pos) {
+        const r = 2;
+        const w = this.canvas.clientWidth;
+        const h = this.canvas.clientHeight;
+        const s = Math.max(w, h) - 1;
+        const x = (2 * pos[0] - w - 1) / s;
+        const y = (2 * pos[1] - h - 1) / s;
+        let z = 0;
+        const xySq = x * x + y * y;
+        const rSq = r * r;
+        if (xySq <= rSq / 2.0) {
+            z = Math.sqrt(rSq - xySq);
+        } else {
+            z = rSq / Math.sqrt(xySq);
+        }
+        return __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(-x, y, z);
+    }
+}
+class InfiniteGridMenu {
+    TARGET_FRAME_DURATION = 1000 / 60;
+    SPHERE_RADIUS = 2;
+    #time = 0;
+    #deltaTime = 0;
+    #deltaFrames = 0;
+    #frames = 0;
+    camera = {
+        matrix: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(),
+        near: 0.1,
+        far: 40,
+        fov: Math.PI / 4,
+        aspect: 1,
+        position: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(0, 0, 3),
+        up: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].fromValues(0, 1, 0),
+        matrices: {
+            view: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(),
+            projection: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(),
+            inversProjection: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create()
+        }
+    };
+    nearestVertexIndex = null;
+    smoothRotationVelocity = 0;
+    scaleFactor = 1.0;
+    movementActive = false;
+    constructor(canvas, items, onActiveItemChange, onMovementChange, onInit = null){
+        this.canvas = canvas;
+        this.items = items || [];
+        this.onActiveItemChange = onActiveItemChange || (()=>{});
+        this.onMovementChange = onMovementChange || (()=>{});
+        this.#init(onInit);
+    }
+    resize() {
+        this.viewportSize = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].set(this.viewportSize || __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].create(), this.canvas.clientWidth, this.canvas.clientHeight);
+        const gl = this.gl;
+        const needsResize = resizeCanvasToDisplaySize(gl.canvas);
+        if (needsResize) {
+            gl.viewport(0, 0, gl.drawingBufferWidth, gl.drawingBufferHeight);
+        }
+        this.#updateProjectionMatrix(gl);
+    }
+    run(time = 0) {
+        this.#deltaTime = Math.min(32, time - this.#time);
+        this.#time = time;
+        this.#deltaFrames = this.#deltaTime / this.TARGET_FRAME_DURATION;
+        this.#frames += this.#deltaFrames;
+        this.#animate(this.#deltaTime);
+        this.#render();
+        requestAnimationFrame((t)=>this.run(t));
+    }
+    #init(onInit) {
+        this.gl = this.canvas.getContext("webgl2", {
+            antialias: true,
+            alpha: false
+        });
+        const gl = this.gl;
+        if (!gl) {
+            throw new Error("No WebGL 2 context!");
+        }
+        this.viewportSize = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].fromValues(this.canvas.clientWidth, this.canvas.clientHeight);
+        this.drawBufferSize = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec2$3e$__["vec2"].clone(this.viewportSize);
+        this.discProgram = createProgram(gl, [
+            discVertShaderSource,
+            discFragShaderSource
+        ], null, {
+            aModelPosition: 0,
+            aModelNormal: 1,
+            aModelUvs: 2,
+            aInstanceMatrix: 3
+        });
+        this.discLocations = {
+            aModelPosition: gl.getAttribLocation(this.discProgram, "aModelPosition"),
+            aModelUvs: gl.getAttribLocation(this.discProgram, "aModelUvs"),
+            aInstanceMatrix: gl.getAttribLocation(this.discProgram, "aInstanceMatrix"),
+            uWorldMatrix: gl.getUniformLocation(this.discProgram, "uWorldMatrix"),
+            uViewMatrix: gl.getUniformLocation(this.discProgram, "uViewMatrix"),
+            uProjectionMatrix: gl.getUniformLocation(this.discProgram, "uProjectionMatrix"),
+            uCameraPosition: gl.getUniformLocation(this.discProgram, "uCameraPosition"),
+            uScaleFactor: gl.getUniformLocation(this.discProgram, "uScaleFactor"),
+            uRotationAxisVelocity: gl.getUniformLocation(this.discProgram, "uRotationAxisVelocity"),
+            uTex: gl.getUniformLocation(this.discProgram, "uTex"),
+            uFrames: gl.getUniformLocation(this.discProgram, "uFrames"),
+            uItemCount: gl.getUniformLocation(this.discProgram, "uItemCount"),
+            uAtlasSize: gl.getUniformLocation(this.discProgram, "uAtlasSize")
+        };
+        this.discGeo = new DiscGeometry(56, 1);
+        this.discBuffers = this.discGeo.data;
+        this.discVAO = makeVertexArray(gl, [
+            [
+                makeBuffer(gl, this.discBuffers.vertices, gl.STATIC_DRAW),
+                this.discLocations.aModelPosition,
+                3
+            ],
+            [
+                makeBuffer(gl, this.discBuffers.uvs, gl.STATIC_DRAW),
+                this.discLocations.aModelUvs,
+                2
+            ]
+        ], this.discBuffers.indices);
+        this.icoGeo = new IcosahedronGeometry();
+        this.icoGeo.subdivide(1).spherize(this.SPHERE_RADIUS);
+        this.instancePositions = this.icoGeo.vertices.map((v)=>v.position);
+        this.DISC_INSTANCE_COUNT = this.icoGeo.vertices.length;
+        this.#initDiscInstances(this.DISC_INSTANCE_COUNT);
+        this.worldMatrix = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create();
+        this.#initTexture();
+        this.control = new ArcballControl(this.canvas, (deltaTime)=>this.#onControlUpdate(deltaTime));
+        this.#updateCameraMatrix();
+        this.#updateProjectionMatrix(gl);
+        this.resize();
+        if (onInit) onInit(this);
+    }
+    #initTexture() {
+        const gl = this.gl;
+        this.tex = createAndSetupTexture(gl, gl.LINEAR, gl.LINEAR, gl.CLAMP_TO_EDGE, gl.CLAMP_TO_EDGE);
+        const itemCount = Math.max(1, this.items.length);
+        this.atlasSize = Math.ceil(Math.sqrt(itemCount));
+        const canvas = document.createElement("canvas");
+        const ctx = canvas.getContext("2d");
+        const cellSize = 512;
+        canvas.width = this.atlasSize * cellSize;
+        canvas.height = this.atlasSize * cellSize;
+        Promise.all(this.items.map((item)=>new Promise((resolve)=>{
+                const img = new Image();
+                img.crossOrigin = "anonymous";
+                img.onload = ()=>resolve(img);
+                // Handle both Next.js imported images (objects) and string URLs
+                img.src = typeof item.image === "string" ? item.image : item.image.src || item.image;
+            }))).then((images)=>{
+            images.forEach((img, i)=>{
+                const x = i % this.atlasSize * cellSize;
+                const y = Math.floor(i / this.atlasSize) * cellSize;
+                ctx.drawImage(img, x, y, cellSize, cellSize);
+            });
+            gl.bindTexture(gl.TEXTURE_2D, this.tex);
+            gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, canvas);
+            gl.generateMipmap(gl.TEXTURE_2D);
+        });
+    }
+    #initDiscInstances(count) {
+        const gl = this.gl;
+        this.discInstances = {
+            matricesArray: new Float32Array(count * 16),
+            matrices: [],
+            buffer: gl.createBuffer()
+        };
+        for(let i = 0; i < count; ++i){
+            const instanceMatrixArray = new Float32Array(this.discInstances.matricesArray.buffer, i * 16 * 4, 16);
+            instanceMatrixArray.set(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create());
+            this.discInstances.matrices.push(instanceMatrixArray);
+        }
+        gl.bindVertexArray(this.discVAO);
+        gl.bindBuffer(gl.ARRAY_BUFFER, this.discInstances.buffer);
+        gl.bufferData(gl.ARRAY_BUFFER, this.discInstances.matricesArray.byteLength, gl.DYNAMIC_DRAW);
+        const mat4AttribSlotCount = 4;
+        const bytesPerMatrix = 16 * 4;
+        for(let j = 0; j < mat4AttribSlotCount; ++j){
+            const loc = this.discLocations.aInstanceMatrix + j;
+            gl.enableVertexAttribArray(loc);
+            gl.vertexAttribPointer(loc, 4, gl.FLOAT, false, bytesPerMatrix, j * 4 * 4);
+            gl.vertexAttribDivisor(loc, 1);
+        }
+        gl.bindBuffer(gl.ARRAY_BUFFER, null);
+        gl.bindVertexArray(null);
+    }
+    #animate(deltaTime) {
+        const gl = this.gl;
+        this.control.update(deltaTime, this.TARGET_FRAME_DURATION);
+        let positions = this.instancePositions.map((p)=>__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].transformQuat(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), p, this.control.orientation));
+        const scale = 0.25;
+        const SCALE_INTENSITY = 0.6;
+        positions.forEach((p, ndx)=>{
+            const s = Math.abs(p[2]) / this.SPHERE_RADIUS * SCALE_INTENSITY + (1 - SCALE_INTENSITY);
+            const finalScale = s * scale;
+            const matrix = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create();
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].multiply(matrix, matrix, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].fromTranslation(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(), __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].negate(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), p)));
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].multiply(matrix, matrix, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].targetTo(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(), [
+                0,
+                0,
+                0
+            ], p, [
+                0,
+                1,
+                0
+            ]));
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].multiply(matrix, matrix, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].fromScaling(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(), [
+                finalScale,
+                finalScale,
+                finalScale
+            ]));
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].multiply(matrix, matrix, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].fromTranslation(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].create(), [
+                0,
+                0,
+                -this.SPHERE_RADIUS
+            ]));
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].copy(this.discInstances.matrices[ndx], matrix);
+        });
+        gl.bindBuffer(gl.ARRAY_BUFFER, this.discInstances.buffer);
+        gl.bufferSubData(gl.ARRAY_BUFFER, 0, this.discInstances.matricesArray);
+        gl.bindBuffer(gl.ARRAY_BUFFER, null);
+        this.smoothRotationVelocity = this.control.rotationVelocity;
+    }
+    #render() {
+        const gl = this.gl;
+        gl.useProgram(this.discProgram);
+        gl.enable(gl.CULL_FACE);
+        gl.enable(gl.DEPTH_TEST);
+        gl.clearColor(1, 1, 1, 1);
+        gl.clear(gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT);
+        gl.uniformMatrix4fv(this.discLocations.uWorldMatrix, false, this.worldMatrix);
+        gl.uniformMatrix4fv(this.discLocations.uViewMatrix, false, this.camera.matrices.view);
+        gl.uniformMatrix4fv(this.discLocations.uProjectionMatrix, false, this.camera.matrices.projection);
+        gl.uniform3f(this.discLocations.uCameraPosition, this.camera.position[0], this.camera.position[1], this.camera.position[2]);
+        gl.uniform4f(this.discLocations.uRotationAxisVelocity, this.control.rotationAxis[0], this.control.rotationAxis[1], this.control.rotationAxis[2], this.smoothRotationVelocity * 1.1);
+        gl.uniform1i(this.discLocations.uItemCount, this.items.length);
+        gl.uniform1i(this.discLocations.uAtlasSize, this.atlasSize);
+        gl.uniform1f(this.discLocations.uFrames, this.#frames);
+        gl.uniform1f(this.discLocations.uScaleFactor, this.scaleFactor);
+        gl.uniform1i(this.discLocations.uTex, 0);
+        gl.activeTexture(gl.TEXTURE0);
+        gl.bindTexture(gl.TEXTURE_2D, this.tex);
+        gl.bindVertexArray(this.discVAO);
+        gl.drawElementsInstanced(gl.TRIANGLES, this.discBuffers.indices.length, gl.UNSIGNED_SHORT, 0, this.DISC_INSTANCE_COUNT);
+    }
+    #updateCameraMatrix() {
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].targetTo(this.camera.matrix, this.camera.position, [
+            0,
+            0,
+            0
+        ], this.camera.up);
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].invert(this.camera.matrices.view, this.camera.matrix);
+    }
+    #updateProjectionMatrix(gl) {
+        this.camera.aspect = gl.canvas.clientWidth / gl.canvas.clientHeight;
+        const height = this.SPHERE_RADIUS * 0.35;
+        const distance = this.camera.position[2];
+        if (this.camera.aspect > 1) {
+            this.camera.fov = 2 * Math.atan(height / distance);
+        } else {
+            this.camera.fov = 2 * Math.atan(height / this.camera.aspect / distance);
+        }
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].perspective(this.camera.matrices.projection, this.camera.fov, this.camera.aspect, this.camera.near, this.camera.far);
+        __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__mat4$3e$__["mat4"].invert(this.camera.matrices.inversProjection, this.camera.matrices.projection);
+    }
+    #onControlUpdate(deltaTime) {
+        const timeScale = deltaTime / this.TARGET_FRAME_DURATION + 0.0001;
+        let damping = 5 / timeScale;
+        let cameraTargetZ = 3;
+        const isMoving = this.control.isPointerDown || Math.abs(this.smoothRotationVelocity) > 0.01;
+        if (isMoving !== this.movementActive) {
+            this.movementActive = isMoving;
+            this.onMovementChange(isMoving);
+        }
+        if (!this.control.isPointerDown) {
+            const nearestVertexIndex = this.#findNearestVertexIndex();
+            const itemIndex = nearestVertexIndex % Math.max(1, this.items.length);
+            this.onActiveItemChange(itemIndex);
+            const snapDirection = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].normalize(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), this.#getVertexWorldPosition(nearestVertexIndex));
+            this.control.snapTargetDirection = snapDirection;
+        } else {
+            cameraTargetZ += this.control.rotationVelocity * 80 + 2.5;
+            damping = 7 / timeScale;
+        }
+        this.camera.position[2] += (cameraTargetZ - this.camera.position[2]) / damping;
+        this.#updateCameraMatrix();
+    }
+    #findNearestVertexIndex() {
+        const n = this.control.snapDirection;
+        const inversOrientation = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].conjugate(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__quat$3e$__["quat"].create(), this.control.orientation);
+        const nt = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].transformQuat(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), n, inversOrientation);
+        let maxD = -1;
+        let nearestVertexIndex;
+        for(let i = 0; i < this.instancePositions.length; ++i){
+            const d = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].dot(nt, this.instancePositions[i]);
+            if (d > maxD) {
+                maxD = d;
+                nearestVertexIndex = i;
+            }
+        }
+        return nearestVertexIndex;
+    }
+    #getVertexWorldPosition(index) {
+        const nearestVertexPos = this.instancePositions[index];
+        return __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].transformQuat(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__$2a$__as__vec3$3e$__["vec3"].create(), nearestVertexPos, this.control.orientation);
+    }
+}
+const defaultItems = [
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img1$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 1",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img2$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 2",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img3$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 3",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img4$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img5$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img6$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img7$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img8$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img9$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    },
+    {
+        image: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$portfolio$2f$img10$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        link: "https://google.com/",
+        title: "Item 4",
+        description: "This is pretty cool, right?"
+    }
+];
+function InfiniteMenu({ items = [] }) {
+    _s();
+    const canvasRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
+    const [activeItem, setActiveItem] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(null);
+    const [isMoving, setIsMoving] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "InfiniteMenu.useEffect": ()=>{
+            const canvas = canvasRef.current;
+            let sketch;
+            const handleActiveItem = {
+                "InfiniteMenu.useEffect.handleActiveItem": (index)=>{
+                    const itemIndex = index % items.length;
+                    setActiveItem(items[itemIndex]);
+                }
+            }["InfiniteMenu.useEffect.handleActiveItem"];
+            if (canvas) {
+                sketch = new InfiniteGridMenu(canvas, items.length ? items : defaultItems, handleActiveItem, setIsMoving, {
+                    "InfiniteMenu.useEffect": (sk)=>sk.run()
+                }["InfiniteMenu.useEffect"]);
+            }
+            const handleResize = {
+                "InfiniteMenu.useEffect.handleResize": ()=>{
+                    if (sketch) {
+                        sketch.resize();
+                    }
+                }
+            }["InfiniteMenu.useEffect.handleResize"];
+            window.addEventListener("resize", handleResize);
+            handleResize();
+            return ({
+                "InfiniteMenu.useEffect": ()=>{
+                    window.removeEventListener("resize", handleResize);
+                }
+            })["InfiniteMenu.useEffect"];
+        }
+    }["InfiniteMenu.useEffect"], [
+        items
+    ]);
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "relative w-full h-full bg-white flex flex-col",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("canvas", {
+                id: "infinite-grid-menu-canvas",
+                ref: canvasRef,
+                className: "cursor-grab w-full h-full overflow-hidden relative outline-none active:cursor-grabbing flex-1"
+            }, void 0, false, {
+                fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/InfiniteMenu.jsx",
+                lineNumber: 1191,
+                columnNumber: 7
+            }, this),
+            activeItem && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: `
+        select-none
+        absolute
+        font-black
+        text-3xl
+        sm:text-4xl
+        md:text-6xl
+        lg:text-8xl
+        xl:text-[9rem]
+        top-34
+        left-1/2
+        -translate-x-1/2
+        md:left-[8em]
+        md:top-1/2
+        md:-translate-y-1/2
+        md:translate-x-[20%]
+        text-center
+        md:text-left
+        px-4
+        md:px-0
+        transition-all
+        ease-[cubic-bezier(0.25,0.1,0.25,1.0)]
+        ${isMoving ? "opacity-0 pointer-events-none duration-100ms" : "opacity-100 pointer-events-auto duration-500"}
+      `,
+                        children: activeItem.title
+                    }, void 0, false, {
+                        fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/InfiniteMenu.jsx",
+                        lineNumber: 1200,
+                        columnNumber: 11
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: `
+        select-none
+        absolute
+        max-w-[90%]
+        md:max-w-[16ch]
+        text-lg
+        sm:text-xl
+        md:text-2xl
+        lg:text-3xl
+        xl:text-4xl
+        2xl:text-5xl
+        bottom-34
+        left-1/2
+        -translate-x-1/2
+        md:left-auto
+        md:right-[10%]
+        md:top-1/2
+        md:-translate-y-1/2
+        md:translate-x-[-60%]
+        text-center
+        md:text-left
+        px-4
+        md:px-0
+        transition-all
+        ease-[cubic-bezier(0.25,0.1,0.25,1.0)]
+        ${isMoving ? "opacity-0 pointer-events-none duration-100 md:translate-x-[-40%]" : "opacity-100 pointer-events-auto duration-500 md:translate-x-[-60%]"}
+      `,
+                        children: activeItem.description
+                    }, void 0, false, {
+                        fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/InfiniteMenu.jsx",
+                        lineNumber: 1234,
+                        columnNumber: 11
+                    }, this)
+                ]
+            }, void 0, true)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/InfiniteMenu.jsx",
+        lineNumber: 1190,
+        columnNumber: 5
+    }, this);
+}
+_s(InfiniteMenu, "bqii/3nPo3QmIYtF64MiyG8ePAM=");
+_c = InfiniteMenu;
+var _c;
+__turbopack_context__.k.register(_c, "InfiniteMenu");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * Common utilities
+ * @module glMatrix
+ */ // Configuration Constants
+__turbopack_context__.s([
+    "ANGLE_ORDER",
+    ()=>ANGLE_ORDER,
+    "ARRAY_TYPE",
+    ()=>ARRAY_TYPE,
+    "EPSILON",
+    ()=>EPSILON,
+    "RANDOM",
+    ()=>RANDOM,
+    "equals",
+    ()=>equals,
+    "round",
+    ()=>round,
+    "setMatrixArrayType",
+    ()=>setMatrixArrayType,
+    "toDegree",
+    ()=>toDegree,
+    "toRadian",
+    ()=>toRadian
+]);
+var EPSILON = 0.000001;
+var ARRAY_TYPE = typeof Float32Array !== "undefined" ? Float32Array : Array;
+var RANDOM = Math.random;
+var ANGLE_ORDER = "zyx";
+function round(a) {
+    if (a >= 0) return Math.round(a);
+    return a % 0.5 === 0 ? Math.floor(a) : Math.round(a);
+}
+function setMatrixArrayType(type) {
+    ARRAY_TYPE = type;
+}
+var degree = Math.PI / 180;
+var radian = 180 / Math.PI;
+function toRadian(a) {
+    return a * degree;
+}
+function toDegree(a) {
+    return a * radian;
+}
+function equals(a, b) {
+    var tolerance = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : EPSILON;
+    return Math.abs(a - b) <= tolerance * Math.max(1, Math.abs(a), Math.abs(b));
+}
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat4.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "adjoint",
+    ()=>adjoint,
+    "clone",
+    ()=>clone,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "decompose",
+    ()=>decompose,
+    "determinant",
+    ()=>determinant,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "frob",
+    ()=>frob,
+    "fromQuat",
+    ()=>fromQuat,
+    "fromQuat2",
+    ()=>fromQuat2,
+    "fromRotation",
+    ()=>fromRotation,
+    "fromRotationTranslation",
+    ()=>fromRotationTranslation,
+    "fromRotationTranslationScale",
+    ()=>fromRotationTranslationScale,
+    "fromRotationTranslationScaleOrigin",
+    ()=>fromRotationTranslationScaleOrigin,
+    "fromScaling",
+    ()=>fromScaling,
+    "fromTranslation",
+    ()=>fromTranslation,
+    "fromValues",
+    ()=>fromValues,
+    "fromXRotation",
+    ()=>fromXRotation,
+    "fromYRotation",
+    ()=>fromYRotation,
+    "fromZRotation",
+    ()=>fromZRotation,
+    "frustum",
+    ()=>frustum,
+    "getRotation",
+    ()=>getRotation,
+    "getScaling",
+    ()=>getScaling,
+    "getTranslation",
+    ()=>getTranslation,
+    "identity",
+    ()=>identity,
+    "invert",
+    ()=>invert,
+    "lookAt",
+    ()=>lookAt,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "multiplyScalar",
+    ()=>multiplyScalar,
+    "multiplyScalarAndAdd",
+    ()=>multiplyScalarAndAdd,
+    "ortho",
+    ()=>ortho,
+    "orthoNO",
+    ()=>orthoNO,
+    "orthoZO",
+    ()=>orthoZO,
+    "perspective",
+    ()=>perspective,
+    "perspectiveFromFieldOfView",
+    ()=>perspectiveFromFieldOfView,
+    "perspectiveNO",
+    ()=>perspectiveNO,
+    "perspectiveZO",
+    ()=>perspectiveZO,
+    "rotate",
+    ()=>rotate,
+    "rotateX",
+    ()=>rotateX,
+    "rotateY",
+    ()=>rotateY,
+    "rotateZ",
+    ()=>rotateZ,
+    "scale",
+    ()=>scale,
+    "set",
+    ()=>set,
+    "str",
+    ()=>str,
+    "sub",
+    ()=>sub,
+    "subtract",
+    ()=>subtract,
+    "targetTo",
+    ()=>targetTo,
+    "translate",
+    ()=>translate,
+    "transpose",
+    ()=>transpose
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](16);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[1] = 0;
+        out[2] = 0;
+        out[3] = 0;
+        out[4] = 0;
+        out[6] = 0;
+        out[7] = 0;
+        out[8] = 0;
+        out[9] = 0;
+        out[11] = 0;
+        out[12] = 0;
+        out[13] = 0;
+        out[14] = 0;
+    }
+    out[0] = 1;
+    out[5] = 1;
+    out[10] = 1;
+    out[15] = 1;
+    return out;
+}
+function clone(a) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](16);
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    out[4] = a[4];
+    out[5] = a[5];
+    out[6] = a[6];
+    out[7] = a[7];
+    out[8] = a[8];
+    out[9] = a[9];
+    out[10] = a[10];
+    out[11] = a[11];
+    out[12] = a[12];
+    out[13] = a[13];
+    out[14] = a[14];
+    out[15] = a[15];
+    return out;
+}
+function copy(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    out[4] = a[4];
+    out[5] = a[5];
+    out[6] = a[6];
+    out[7] = a[7];
+    out[8] = a[8];
+    out[9] = a[9];
+    out[10] = a[10];
+    out[11] = a[11];
+    out[12] = a[12];
+    out[13] = a[13];
+    out[14] = a[14];
+    out[15] = a[15];
+    return out;
+}
+function fromValues(m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](16);
+    out[0] = m00;
+    out[1] = m01;
+    out[2] = m02;
+    out[3] = m03;
+    out[4] = m10;
+    out[5] = m11;
+    out[6] = m12;
+    out[7] = m13;
+    out[8] = m20;
+    out[9] = m21;
+    out[10] = m22;
+    out[11] = m23;
+    out[12] = m30;
+    out[13] = m31;
+    out[14] = m32;
+    out[15] = m33;
+    return out;
+}
+function set(out, m00, m01, m02, m03, m10, m11, m12, m13, m20, m21, m22, m23, m30, m31, m32, m33) {
+    out[0] = m00;
+    out[1] = m01;
+    out[2] = m02;
+    out[3] = m03;
+    out[4] = m10;
+    out[5] = m11;
+    out[6] = m12;
+    out[7] = m13;
+    out[8] = m20;
+    out[9] = m21;
+    out[10] = m22;
+    out[11] = m23;
+    out[12] = m30;
+    out[13] = m31;
+    out[14] = m32;
+    out[15] = m33;
+    return out;
+}
+function identity(out) {
+    out[0] = 1;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = 1;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = 1;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function transpose(out, a) {
+    // If we are transposing ourselves we can skip a few steps but have to cache some values
+    if (out === a) {
+        var a01 = a[1], a02 = a[2], a03 = a[3];
+        var a12 = a[6], a13 = a[7];
+        var a23 = a[11];
+        out[1] = a[4];
+        out[2] = a[8];
+        out[3] = a[12];
+        out[4] = a01;
+        out[6] = a[9];
+        out[7] = a[13];
+        out[8] = a02;
+        out[9] = a12;
+        out[11] = a[14];
+        out[12] = a03;
+        out[13] = a13;
+        out[14] = a23;
+    } else {
+        out[0] = a[0];
+        out[1] = a[4];
+        out[2] = a[8];
+        out[3] = a[12];
+        out[4] = a[1];
+        out[5] = a[5];
+        out[6] = a[9];
+        out[7] = a[13];
+        out[8] = a[2];
+        out[9] = a[6];
+        out[10] = a[10];
+        out[11] = a[14];
+        out[12] = a[3];
+        out[13] = a[7];
+        out[14] = a[11];
+        out[15] = a[15];
+    }
+    return out;
+}
+function invert(out, a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a03 = a[3];
+    var a10 = a[4], a11 = a[5], a12 = a[6], a13 = a[7];
+    var a20 = a[8], a21 = a[9], a22 = a[10], a23 = a[11];
+    var a30 = a[12], a31 = a[13], a32 = a[14], a33 = a[15];
+    var b00 = a00 * a11 - a01 * a10;
+    var b01 = a00 * a12 - a02 * a10;
+    var b02 = a00 * a13 - a03 * a10;
+    var b03 = a01 * a12 - a02 * a11;
+    var b04 = a01 * a13 - a03 * a11;
+    var b05 = a02 * a13 - a03 * a12;
+    var b06 = a20 * a31 - a21 * a30;
+    var b07 = a20 * a32 - a22 * a30;
+    var b08 = a20 * a33 - a23 * a30;
+    var b09 = a21 * a32 - a22 * a31;
+    var b10 = a21 * a33 - a23 * a31;
+    var b11 = a22 * a33 - a23 * a32;
+    // Calculate the determinant
+    var det = b00 * b11 - b01 * b10 + b02 * b09 + b03 * b08 - b04 * b07 + b05 * b06;
+    if (!det) {
+        return null;
+    }
+    det = 1.0 / det;
+    out[0] = (a11 * b11 - a12 * b10 + a13 * b09) * det;
+    out[1] = (a02 * b10 - a01 * b11 - a03 * b09) * det;
+    out[2] = (a31 * b05 - a32 * b04 + a33 * b03) * det;
+    out[3] = (a22 * b04 - a21 * b05 - a23 * b03) * det;
+    out[4] = (a12 * b08 - a10 * b11 - a13 * b07) * det;
+    out[5] = (a00 * b11 - a02 * b08 + a03 * b07) * det;
+    out[6] = (a32 * b02 - a30 * b05 - a33 * b01) * det;
+    out[7] = (a20 * b05 - a22 * b02 + a23 * b01) * det;
+    out[8] = (a10 * b10 - a11 * b08 + a13 * b06) * det;
+    out[9] = (a01 * b08 - a00 * b10 - a03 * b06) * det;
+    out[10] = (a30 * b04 - a31 * b02 + a33 * b00) * det;
+    out[11] = (a21 * b02 - a20 * b04 - a23 * b00) * det;
+    out[12] = (a11 * b07 - a10 * b09 - a12 * b06) * det;
+    out[13] = (a00 * b09 - a01 * b07 + a02 * b06) * det;
+    out[14] = (a31 * b01 - a30 * b03 - a32 * b00) * det;
+    out[15] = (a20 * b03 - a21 * b01 + a22 * b00) * det;
+    return out;
+}
+function adjoint(out, a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a03 = a[3];
+    var a10 = a[4], a11 = a[5], a12 = a[6], a13 = a[7];
+    var a20 = a[8], a21 = a[9], a22 = a[10], a23 = a[11];
+    var a30 = a[12], a31 = a[13], a32 = a[14], a33 = a[15];
+    var b00 = a00 * a11 - a01 * a10;
+    var b01 = a00 * a12 - a02 * a10;
+    var b02 = a00 * a13 - a03 * a10;
+    var b03 = a01 * a12 - a02 * a11;
+    var b04 = a01 * a13 - a03 * a11;
+    var b05 = a02 * a13 - a03 * a12;
+    var b06 = a20 * a31 - a21 * a30;
+    var b07 = a20 * a32 - a22 * a30;
+    var b08 = a20 * a33 - a23 * a30;
+    var b09 = a21 * a32 - a22 * a31;
+    var b10 = a21 * a33 - a23 * a31;
+    var b11 = a22 * a33 - a23 * a32;
+    out[0] = a11 * b11 - a12 * b10 + a13 * b09;
+    out[1] = a02 * b10 - a01 * b11 - a03 * b09;
+    out[2] = a31 * b05 - a32 * b04 + a33 * b03;
+    out[3] = a22 * b04 - a21 * b05 - a23 * b03;
+    out[4] = a12 * b08 - a10 * b11 - a13 * b07;
+    out[5] = a00 * b11 - a02 * b08 + a03 * b07;
+    out[6] = a32 * b02 - a30 * b05 - a33 * b01;
+    out[7] = a20 * b05 - a22 * b02 + a23 * b01;
+    out[8] = a10 * b10 - a11 * b08 + a13 * b06;
+    out[9] = a01 * b08 - a00 * b10 - a03 * b06;
+    out[10] = a30 * b04 - a31 * b02 + a33 * b00;
+    out[11] = a21 * b02 - a20 * b04 - a23 * b00;
+    out[12] = a11 * b07 - a10 * b09 - a12 * b06;
+    out[13] = a00 * b09 - a01 * b07 + a02 * b06;
+    out[14] = a31 * b01 - a30 * b03 - a32 * b00;
+    out[15] = a20 * b03 - a21 * b01 + a22 * b00;
+    return out;
+}
+function determinant(a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a03 = a[3];
+    var a10 = a[4], a11 = a[5], a12 = a[6], a13 = a[7];
+    var a20 = a[8], a21 = a[9], a22 = a[10], a23 = a[11];
+    var a30 = a[12], a31 = a[13], a32 = a[14], a33 = a[15];
+    var b0 = a00 * a11 - a01 * a10;
+    var b1 = a00 * a12 - a02 * a10;
+    var b2 = a01 * a12 - a02 * a11;
+    var b3 = a20 * a31 - a21 * a30;
+    var b4 = a20 * a32 - a22 * a30;
+    var b5 = a21 * a32 - a22 * a31;
+    var b6 = a00 * b5 - a01 * b4 + a02 * b3;
+    var b7 = a10 * b5 - a11 * b4 + a12 * b3;
+    var b8 = a20 * b2 - a21 * b1 + a22 * b0;
+    var b9 = a30 * b2 - a31 * b1 + a32 * b0;
+    // Calculate the determinant
+    return a13 * b6 - a03 * b7 + a33 * b8 - a23 * b9;
+}
+function multiply(out, a, b) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a03 = a[3];
+    var a10 = a[4], a11 = a[5], a12 = a[6], a13 = a[7];
+    var a20 = a[8], a21 = a[9], a22 = a[10], a23 = a[11];
+    var a30 = a[12], a31 = a[13], a32 = a[14], a33 = a[15];
+    // Cache only the current line of the second matrix
+    var b0 = b[0], b1 = b[1], b2 = b[2], b3 = b[3];
+    out[0] = b0 * a00 + b1 * a10 + b2 * a20 + b3 * a30;
+    out[1] = b0 * a01 + b1 * a11 + b2 * a21 + b3 * a31;
+    out[2] = b0 * a02 + b1 * a12 + b2 * a22 + b3 * a32;
+    out[3] = b0 * a03 + b1 * a13 + b2 * a23 + b3 * a33;
+    b0 = b[4];
+    b1 = b[5];
+    b2 = b[6];
+    b3 = b[7];
+    out[4] = b0 * a00 + b1 * a10 + b2 * a20 + b3 * a30;
+    out[5] = b0 * a01 + b1 * a11 + b2 * a21 + b3 * a31;
+    out[6] = b0 * a02 + b1 * a12 + b2 * a22 + b3 * a32;
+    out[7] = b0 * a03 + b1 * a13 + b2 * a23 + b3 * a33;
+    b0 = b[8];
+    b1 = b[9];
+    b2 = b[10];
+    b3 = b[11];
+    out[8] = b0 * a00 + b1 * a10 + b2 * a20 + b3 * a30;
+    out[9] = b0 * a01 + b1 * a11 + b2 * a21 + b3 * a31;
+    out[10] = b0 * a02 + b1 * a12 + b2 * a22 + b3 * a32;
+    out[11] = b0 * a03 + b1 * a13 + b2 * a23 + b3 * a33;
+    b0 = b[12];
+    b1 = b[13];
+    b2 = b[14];
+    b3 = b[15];
+    out[12] = b0 * a00 + b1 * a10 + b2 * a20 + b3 * a30;
+    out[13] = b0 * a01 + b1 * a11 + b2 * a21 + b3 * a31;
+    out[14] = b0 * a02 + b1 * a12 + b2 * a22 + b3 * a32;
+    out[15] = b0 * a03 + b1 * a13 + b2 * a23 + b3 * a33;
+    return out;
+}
+function translate(out, a, v) {
+    var x = v[0], y = v[1], z = v[2];
+    var a00, a01, a02, a03;
+    var a10, a11, a12, a13;
+    var a20, a21, a22, a23;
+    if (a === out) {
+        out[12] = a[0] * x + a[4] * y + a[8] * z + a[12];
+        out[13] = a[1] * x + a[5] * y + a[9] * z + a[13];
+        out[14] = a[2] * x + a[6] * y + a[10] * z + a[14];
+        out[15] = a[3] * x + a[7] * y + a[11] * z + a[15];
+    } else {
+        a00 = a[0];
+        a01 = a[1];
+        a02 = a[2];
+        a03 = a[3];
+        a10 = a[4];
+        a11 = a[5];
+        a12 = a[6];
+        a13 = a[7];
+        a20 = a[8];
+        a21 = a[9];
+        a22 = a[10];
+        a23 = a[11];
+        out[0] = a00;
+        out[1] = a01;
+        out[2] = a02;
+        out[3] = a03;
+        out[4] = a10;
+        out[5] = a11;
+        out[6] = a12;
+        out[7] = a13;
+        out[8] = a20;
+        out[9] = a21;
+        out[10] = a22;
+        out[11] = a23;
+        out[12] = a00 * x + a10 * y + a20 * z + a[12];
+        out[13] = a01 * x + a11 * y + a21 * z + a[13];
+        out[14] = a02 * x + a12 * y + a22 * z + a[14];
+        out[15] = a03 * x + a13 * y + a23 * z + a[15];
+    }
+    return out;
+}
+function scale(out, a, v) {
+    var x = v[0], y = v[1], z = v[2];
+    out[0] = a[0] * x;
+    out[1] = a[1] * x;
+    out[2] = a[2] * x;
+    out[3] = a[3] * x;
+    out[4] = a[4] * y;
+    out[5] = a[5] * y;
+    out[6] = a[6] * y;
+    out[7] = a[7] * y;
+    out[8] = a[8] * z;
+    out[9] = a[9] * z;
+    out[10] = a[10] * z;
+    out[11] = a[11] * z;
+    out[12] = a[12];
+    out[13] = a[13];
+    out[14] = a[14];
+    out[15] = a[15];
+    return out;
+}
+function rotate(out, a, rad, axis) {
+    var x = axis[0], y = axis[1], z = axis[2];
+    var len = Math.sqrt(x * x + y * y + z * z);
+    var s, c, t;
+    var a00, a01, a02, a03;
+    var a10, a11, a12, a13;
+    var a20, a21, a22, a23;
+    var b00, b01, b02;
+    var b10, b11, b12;
+    var b20, b21, b22;
+    if (len < __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"]) {
+        return null;
+    }
+    len = 1 / len;
+    x *= len;
+    y *= len;
+    z *= len;
+    s = Math.sin(rad);
+    c = Math.cos(rad);
+    t = 1 - c;
+    a00 = a[0];
+    a01 = a[1];
+    a02 = a[2];
+    a03 = a[3];
+    a10 = a[4];
+    a11 = a[5];
+    a12 = a[6];
+    a13 = a[7];
+    a20 = a[8];
+    a21 = a[9];
+    a22 = a[10];
+    a23 = a[11];
+    // Construct the elements of the rotation matrix
+    b00 = x * x * t + c;
+    b01 = y * x * t + z * s;
+    b02 = z * x * t - y * s;
+    b10 = x * y * t - z * s;
+    b11 = y * y * t + c;
+    b12 = z * y * t + x * s;
+    b20 = x * z * t + y * s;
+    b21 = y * z * t - x * s;
+    b22 = z * z * t + c;
+    // Perform rotation-specific matrix multiplication
+    out[0] = a00 * b00 + a10 * b01 + a20 * b02;
+    out[1] = a01 * b00 + a11 * b01 + a21 * b02;
+    out[2] = a02 * b00 + a12 * b01 + a22 * b02;
+    out[3] = a03 * b00 + a13 * b01 + a23 * b02;
+    out[4] = a00 * b10 + a10 * b11 + a20 * b12;
+    out[5] = a01 * b10 + a11 * b11 + a21 * b12;
+    out[6] = a02 * b10 + a12 * b11 + a22 * b12;
+    out[7] = a03 * b10 + a13 * b11 + a23 * b12;
+    out[8] = a00 * b20 + a10 * b21 + a20 * b22;
+    out[9] = a01 * b20 + a11 * b21 + a21 * b22;
+    out[10] = a02 * b20 + a12 * b21 + a22 * b22;
+    out[11] = a03 * b20 + a13 * b21 + a23 * b22;
+    if (a !== out) {
+        // If the source and destination differ, copy the unchanged last row
+        out[12] = a[12];
+        out[13] = a[13];
+        out[14] = a[14];
+        out[15] = a[15];
+    }
+    return out;
+}
+function rotateX(out, a, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    var a10 = a[4];
+    var a11 = a[5];
+    var a12 = a[6];
+    var a13 = a[7];
+    var a20 = a[8];
+    var a21 = a[9];
+    var a22 = a[10];
+    var a23 = a[11];
+    if (a !== out) {
+        // If the source and destination differ, copy the unchanged rows
+        out[0] = a[0];
+        out[1] = a[1];
+        out[2] = a[2];
+        out[3] = a[3];
+        out[12] = a[12];
+        out[13] = a[13];
+        out[14] = a[14];
+        out[15] = a[15];
+    }
+    // Perform axis-specific matrix multiplication
+    out[4] = a10 * c + a20 * s;
+    out[5] = a11 * c + a21 * s;
+    out[6] = a12 * c + a22 * s;
+    out[7] = a13 * c + a23 * s;
+    out[8] = a20 * c - a10 * s;
+    out[9] = a21 * c - a11 * s;
+    out[10] = a22 * c - a12 * s;
+    out[11] = a23 * c - a13 * s;
+    return out;
+}
+function rotateY(out, a, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    var a00 = a[0];
+    var a01 = a[1];
+    var a02 = a[2];
+    var a03 = a[3];
+    var a20 = a[8];
+    var a21 = a[9];
+    var a22 = a[10];
+    var a23 = a[11];
+    if (a !== out) {
+        // If the source and destination differ, copy the unchanged rows
+        out[4] = a[4];
+        out[5] = a[5];
+        out[6] = a[6];
+        out[7] = a[7];
+        out[12] = a[12];
+        out[13] = a[13];
+        out[14] = a[14];
+        out[15] = a[15];
+    }
+    // Perform axis-specific matrix multiplication
+    out[0] = a00 * c - a20 * s;
+    out[1] = a01 * c - a21 * s;
+    out[2] = a02 * c - a22 * s;
+    out[3] = a03 * c - a23 * s;
+    out[8] = a00 * s + a20 * c;
+    out[9] = a01 * s + a21 * c;
+    out[10] = a02 * s + a22 * c;
+    out[11] = a03 * s + a23 * c;
+    return out;
+}
+function rotateZ(out, a, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    var a00 = a[0];
+    var a01 = a[1];
+    var a02 = a[2];
+    var a03 = a[3];
+    var a10 = a[4];
+    var a11 = a[5];
+    var a12 = a[6];
+    var a13 = a[7];
+    if (a !== out) {
+        // If the source and destination differ, copy the unchanged last row
+        out[8] = a[8];
+        out[9] = a[9];
+        out[10] = a[10];
+        out[11] = a[11];
+        out[12] = a[12];
+        out[13] = a[13];
+        out[14] = a[14];
+        out[15] = a[15];
+    }
+    // Perform axis-specific matrix multiplication
+    out[0] = a00 * c + a10 * s;
+    out[1] = a01 * c + a11 * s;
+    out[2] = a02 * c + a12 * s;
+    out[3] = a03 * c + a13 * s;
+    out[4] = a10 * c - a00 * s;
+    out[5] = a11 * c - a01 * s;
+    out[6] = a12 * c - a02 * s;
+    out[7] = a13 * c - a03 * s;
+    return out;
+}
+function fromTranslation(out, v) {
+    out[0] = 1;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = 1;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = 1;
+    out[11] = 0;
+    out[12] = v[0];
+    out[13] = v[1];
+    out[14] = v[2];
+    out[15] = 1;
+    return out;
+}
+function fromScaling(out, v) {
+    out[0] = v[0];
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = v[1];
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = v[2];
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function fromRotation(out, rad, axis) {
+    var x = axis[0], y = axis[1], z = axis[2];
+    var len = Math.sqrt(x * x + y * y + z * z);
+    var s, c, t;
+    if (len < __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"]) {
+        return null;
+    }
+    len = 1 / len;
+    x *= len;
+    y *= len;
+    z *= len;
+    s = Math.sin(rad);
+    c = Math.cos(rad);
+    t = 1 - c;
+    // Perform rotation-specific matrix multiplication
+    out[0] = x * x * t + c;
+    out[1] = y * x * t + z * s;
+    out[2] = z * x * t - y * s;
+    out[3] = 0;
+    out[4] = x * y * t - z * s;
+    out[5] = y * y * t + c;
+    out[6] = z * y * t + x * s;
+    out[7] = 0;
+    out[8] = x * z * t + y * s;
+    out[9] = y * z * t - x * s;
+    out[10] = z * z * t + c;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function fromXRotation(out, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    // Perform axis-specific matrix multiplication
+    out[0] = 1;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = c;
+    out[6] = s;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = -s;
+    out[10] = c;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function fromYRotation(out, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    // Perform axis-specific matrix multiplication
+    out[0] = c;
+    out[1] = 0;
+    out[2] = -s;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = 1;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = s;
+    out[9] = 0;
+    out[10] = c;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function fromZRotation(out, rad) {
+    var s = Math.sin(rad);
+    var c = Math.cos(rad);
+    // Perform axis-specific matrix multiplication
+    out[0] = c;
+    out[1] = s;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = -s;
+    out[5] = c;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = 1;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function fromRotationTranslation(out, q, v) {
+    // Quaternion math
+    var x = q[0], y = q[1], z = q[2], w = q[3];
+    var x2 = x + x;
+    var y2 = y + y;
+    var z2 = z + z;
+    var xx = x * x2;
+    var xy = x * y2;
+    var xz = x * z2;
+    var yy = y * y2;
+    var yz = y * z2;
+    var zz = z * z2;
+    var wx = w * x2;
+    var wy = w * y2;
+    var wz = w * z2;
+    out[0] = 1 - (yy + zz);
+    out[1] = xy + wz;
+    out[2] = xz - wy;
+    out[3] = 0;
+    out[4] = xy - wz;
+    out[5] = 1 - (xx + zz);
+    out[6] = yz + wx;
+    out[7] = 0;
+    out[8] = xz + wy;
+    out[9] = yz - wx;
+    out[10] = 1 - (xx + yy);
+    out[11] = 0;
+    out[12] = v[0];
+    out[13] = v[1];
+    out[14] = v[2];
+    out[15] = 1;
+    return out;
+}
+function fromQuat2(out, a) {
+    var translation = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](3);
+    var bx = -a[0], by = -a[1], bz = -a[2], bw = a[3], ax = a[4], ay = a[5], az = a[6], aw = a[7];
+    var magnitude = bx * bx + by * by + bz * bz + bw * bw;
+    //Only scale if it makes sense
+    if (magnitude > 0) {
+        translation[0] = (ax * bw + aw * bx + ay * bz - az * by) * 2 / magnitude;
+        translation[1] = (ay * bw + aw * by + az * bx - ax * bz) * 2 / magnitude;
+        translation[2] = (az * bw + aw * bz + ax * by - ay * bx) * 2 / magnitude;
+    } else {
+        translation[0] = (ax * bw + aw * bx + ay * bz - az * by) * 2;
+        translation[1] = (ay * bw + aw * by + az * bx - ax * bz) * 2;
+        translation[2] = (az * bw + aw * bz + ax * by - ay * bx) * 2;
+    }
+    fromRotationTranslation(out, a, translation);
+    return out;
+}
+function getTranslation(out, mat) {
+    out[0] = mat[12];
+    out[1] = mat[13];
+    out[2] = mat[14];
+    return out;
+}
+function getScaling(out, mat) {
+    var m11 = mat[0];
+    var m12 = mat[1];
+    var m13 = mat[2];
+    var m21 = mat[4];
+    var m22 = mat[5];
+    var m23 = mat[6];
+    var m31 = mat[8];
+    var m32 = mat[9];
+    var m33 = mat[10];
+    out[0] = Math.sqrt(m11 * m11 + m12 * m12 + m13 * m13);
+    out[1] = Math.sqrt(m21 * m21 + m22 * m22 + m23 * m23);
+    out[2] = Math.sqrt(m31 * m31 + m32 * m32 + m33 * m33);
+    return out;
+}
+function getRotation(out, mat) {
+    var scaling = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](3);
+    getScaling(scaling, mat);
+    var is1 = 1 / scaling[0];
+    var is2 = 1 / scaling[1];
+    var is3 = 1 / scaling[2];
+    var sm11 = mat[0] * is1;
+    var sm12 = mat[1] * is2;
+    var sm13 = mat[2] * is3;
+    var sm21 = mat[4] * is1;
+    var sm22 = mat[5] * is2;
+    var sm23 = mat[6] * is3;
+    var sm31 = mat[8] * is1;
+    var sm32 = mat[9] * is2;
+    var sm33 = mat[10] * is3;
+    var trace = sm11 + sm22 + sm33;
+    var S = 0;
+    if (trace > 0) {
+        S = Math.sqrt(trace + 1.0) * 2;
+        out[3] = 0.25 * S;
+        out[0] = (sm23 - sm32) / S;
+        out[1] = (sm31 - sm13) / S;
+        out[2] = (sm12 - sm21) / S;
+    } else if (sm11 > sm22 && sm11 > sm33) {
+        S = Math.sqrt(1.0 + sm11 - sm22 - sm33) * 2;
+        out[3] = (sm23 - sm32) / S;
+        out[0] = 0.25 * S;
+        out[1] = (sm12 + sm21) / S;
+        out[2] = (sm31 + sm13) / S;
+    } else if (sm22 > sm33) {
+        S = Math.sqrt(1.0 + sm22 - sm11 - sm33) * 2;
+        out[3] = (sm31 - sm13) / S;
+        out[0] = (sm12 + sm21) / S;
+        out[1] = 0.25 * S;
+        out[2] = (sm23 + sm32) / S;
+    } else {
+        S = Math.sqrt(1.0 + sm33 - sm11 - sm22) * 2;
+        out[3] = (sm12 - sm21) / S;
+        out[0] = (sm31 + sm13) / S;
+        out[1] = (sm23 + sm32) / S;
+        out[2] = 0.25 * S;
+    }
+    return out;
+}
+function decompose(out_r, out_t, out_s, mat) {
+    out_t[0] = mat[12];
+    out_t[1] = mat[13];
+    out_t[2] = mat[14];
+    var m11 = mat[0];
+    var m12 = mat[1];
+    var m13 = mat[2];
+    var m21 = mat[4];
+    var m22 = mat[5];
+    var m23 = mat[6];
+    var m31 = mat[8];
+    var m32 = mat[9];
+    var m33 = mat[10];
+    out_s[0] = Math.sqrt(m11 * m11 + m12 * m12 + m13 * m13);
+    out_s[1] = Math.sqrt(m21 * m21 + m22 * m22 + m23 * m23);
+    out_s[2] = Math.sqrt(m31 * m31 + m32 * m32 + m33 * m33);
+    var is1 = 1 / out_s[0];
+    var is2 = 1 / out_s[1];
+    var is3 = 1 / out_s[2];
+    var sm11 = m11 * is1;
+    var sm12 = m12 * is2;
+    var sm13 = m13 * is3;
+    var sm21 = m21 * is1;
+    var sm22 = m22 * is2;
+    var sm23 = m23 * is3;
+    var sm31 = m31 * is1;
+    var sm32 = m32 * is2;
+    var sm33 = m33 * is3;
+    var trace = sm11 + sm22 + sm33;
+    var S = 0;
+    if (trace > 0) {
+        S = Math.sqrt(trace + 1.0) * 2;
+        out_r[3] = 0.25 * S;
+        out_r[0] = (sm23 - sm32) / S;
+        out_r[1] = (sm31 - sm13) / S;
+        out_r[2] = (sm12 - sm21) / S;
+    } else if (sm11 > sm22 && sm11 > sm33) {
+        S = Math.sqrt(1.0 + sm11 - sm22 - sm33) * 2;
+        out_r[3] = (sm23 - sm32) / S;
+        out_r[0] = 0.25 * S;
+        out_r[1] = (sm12 + sm21) / S;
+        out_r[2] = (sm31 + sm13) / S;
+    } else if (sm22 > sm33) {
+        S = Math.sqrt(1.0 + sm22 - sm11 - sm33) * 2;
+        out_r[3] = (sm31 - sm13) / S;
+        out_r[0] = (sm12 + sm21) / S;
+        out_r[1] = 0.25 * S;
+        out_r[2] = (sm23 + sm32) / S;
+    } else {
+        S = Math.sqrt(1.0 + sm33 - sm11 - sm22) * 2;
+        out_r[3] = (sm12 - sm21) / S;
+        out_r[0] = (sm31 + sm13) / S;
+        out_r[1] = (sm23 + sm32) / S;
+        out_r[2] = 0.25 * S;
+    }
+    return out_r;
+}
+function fromRotationTranslationScale(out, q, v, s) {
+    // Quaternion math
+    var x = q[0], y = q[1], z = q[2], w = q[3];
+    var x2 = x + x;
+    var y2 = y + y;
+    var z2 = z + z;
+    var xx = x * x2;
+    var xy = x * y2;
+    var xz = x * z2;
+    var yy = y * y2;
+    var yz = y * z2;
+    var zz = z * z2;
+    var wx = w * x2;
+    var wy = w * y2;
+    var wz = w * z2;
+    var sx = s[0];
+    var sy = s[1];
+    var sz = s[2];
+    out[0] = (1 - (yy + zz)) * sx;
+    out[1] = (xy + wz) * sx;
+    out[2] = (xz - wy) * sx;
+    out[3] = 0;
+    out[4] = (xy - wz) * sy;
+    out[5] = (1 - (xx + zz)) * sy;
+    out[6] = (yz + wx) * sy;
+    out[7] = 0;
+    out[8] = (xz + wy) * sz;
+    out[9] = (yz - wx) * sz;
+    out[10] = (1 - (xx + yy)) * sz;
+    out[11] = 0;
+    out[12] = v[0];
+    out[13] = v[1];
+    out[14] = v[2];
+    out[15] = 1;
+    return out;
+}
+function fromRotationTranslationScaleOrigin(out, q, v, s, o) {
+    // Quaternion math
+    var x = q[0], y = q[1], z = q[2], w = q[3];
+    var x2 = x + x;
+    var y2 = y + y;
+    var z2 = z + z;
+    var xx = x * x2;
+    var xy = x * y2;
+    var xz = x * z2;
+    var yy = y * y2;
+    var yz = y * z2;
+    var zz = z * z2;
+    var wx = w * x2;
+    var wy = w * y2;
+    var wz = w * z2;
+    var sx = s[0];
+    var sy = s[1];
+    var sz = s[2];
+    var ox = o[0];
+    var oy = o[1];
+    var oz = o[2];
+    var out0 = (1 - (yy + zz)) * sx;
+    var out1 = (xy + wz) * sx;
+    var out2 = (xz - wy) * sx;
+    var out4 = (xy - wz) * sy;
+    var out5 = (1 - (xx + zz)) * sy;
+    var out6 = (yz + wx) * sy;
+    var out8 = (xz + wy) * sz;
+    var out9 = (yz - wx) * sz;
+    var out10 = (1 - (xx + yy)) * sz;
+    out[0] = out0;
+    out[1] = out1;
+    out[2] = out2;
+    out[3] = 0;
+    out[4] = out4;
+    out[5] = out5;
+    out[6] = out6;
+    out[7] = 0;
+    out[8] = out8;
+    out[9] = out9;
+    out[10] = out10;
+    out[11] = 0;
+    out[12] = v[0] + ox - (out0 * ox + out4 * oy + out8 * oz);
+    out[13] = v[1] + oy - (out1 * ox + out5 * oy + out9 * oz);
+    out[14] = v[2] + oz - (out2 * ox + out6 * oy + out10 * oz);
+    out[15] = 1;
+    return out;
+}
+function fromQuat(out, q) {
+    var x = q[0], y = q[1], z = q[2], w = q[3];
+    var x2 = x + x;
+    var y2 = y + y;
+    var z2 = z + z;
+    var xx = x * x2;
+    var yx = y * x2;
+    var yy = y * y2;
+    var zx = z * x2;
+    var zy = z * y2;
+    var zz = z * z2;
+    var wx = w * x2;
+    var wy = w * y2;
+    var wz = w * z2;
+    out[0] = 1 - yy - zz;
+    out[1] = yx + wz;
+    out[2] = zx - wy;
+    out[3] = 0;
+    out[4] = yx - wz;
+    out[5] = 1 - xx - zz;
+    out[6] = zy + wx;
+    out[7] = 0;
+    out[8] = zx + wy;
+    out[9] = zy - wx;
+    out[10] = 1 - xx - yy;
+    out[11] = 0;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = 0;
+    out[15] = 1;
+    return out;
+}
+function frustum(out, left, right, bottom, top, near, far) {
+    var rl = 1 / (right - left);
+    var tb = 1 / (top - bottom);
+    var nf = 1 / (near - far);
+    out[0] = near * 2 * rl;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = near * 2 * tb;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = (right + left) * rl;
+    out[9] = (top + bottom) * tb;
+    out[10] = (far + near) * nf;
+    out[11] = -1;
+    out[12] = 0;
+    out[13] = 0;
+    out[14] = far * near * 2 * nf;
+    out[15] = 0;
+    return out;
+}
+function perspectiveNO(out, fovy, aspect, near, far) {
+    var f = 1.0 / Math.tan(fovy / 2);
+    out[0] = f / aspect;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = f;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[11] = -1;
+    out[12] = 0;
+    out[13] = 0;
+    out[15] = 0;
+    if (far != null && far !== Infinity) {
+        var nf = 1 / (near - far);
+        out[10] = (far + near) * nf;
+        out[14] = 2 * far * near * nf;
+    } else {
+        out[10] = -1;
+        out[14] = -2 * near;
+    }
+    return out;
+}
+var perspective = perspectiveNO;
+function perspectiveZO(out, fovy, aspect, near, far) {
+    var f = 1.0 / Math.tan(fovy / 2);
+    out[0] = f / aspect;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = f;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[11] = -1;
+    out[12] = 0;
+    out[13] = 0;
+    out[15] = 0;
+    if (far != null && far !== Infinity) {
+        var nf = 1 / (near - far);
+        out[10] = far * nf;
+        out[14] = far * near * nf;
+    } else {
+        out[10] = -1;
+        out[14] = -near;
+    }
+    return out;
+}
+function perspectiveFromFieldOfView(out, fov, near, far) {
+    var upTan = Math.tan(fov.upDegrees * Math.PI / 180.0);
+    var downTan = Math.tan(fov.downDegrees * Math.PI / 180.0);
+    var leftTan = Math.tan(fov.leftDegrees * Math.PI / 180.0);
+    var rightTan = Math.tan(fov.rightDegrees * Math.PI / 180.0);
+    var xScale = 2.0 / (leftTan + rightTan);
+    var yScale = 2.0 / (upTan + downTan);
+    out[0] = xScale;
+    out[1] = 0.0;
+    out[2] = 0.0;
+    out[3] = 0.0;
+    out[4] = 0.0;
+    out[5] = yScale;
+    out[6] = 0.0;
+    out[7] = 0.0;
+    out[8] = -((leftTan - rightTan) * xScale * 0.5);
+    out[9] = (upTan - downTan) * yScale * 0.5;
+    out[10] = far / (near - far);
+    out[11] = -1.0;
+    out[12] = 0.0;
+    out[13] = 0.0;
+    out[14] = far * near / (near - far);
+    out[15] = 0.0;
+    return out;
+}
+function orthoNO(out, left, right, bottom, top, near, far) {
+    var lr = 1 / (left - right);
+    var bt = 1 / (bottom - top);
+    var nf = 1 / (near - far);
+    out[0] = -2 * lr;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = -2 * bt;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = 2 * nf;
+    out[11] = 0;
+    out[12] = (left + right) * lr;
+    out[13] = (top + bottom) * bt;
+    out[14] = (far + near) * nf;
+    out[15] = 1;
+    return out;
+}
+var ortho = orthoNO;
+function orthoZO(out, left, right, bottom, top, near, far) {
+    var lr = 1 / (left - right);
+    var bt = 1 / (bottom - top);
+    var nf = 1 / (near - far);
+    out[0] = -2 * lr;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 0;
+    out[5] = -2 * bt;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 0;
+    out[9] = 0;
+    out[10] = nf;
+    out[11] = 0;
+    out[12] = (left + right) * lr;
+    out[13] = (top + bottom) * bt;
+    out[14] = near * nf;
+    out[15] = 1;
+    return out;
+}
+function lookAt(out, eye, center, up) {
+    var x0, x1, x2, y0, y1, y2, z0, z1, z2, len;
+    var eyex = eye[0];
+    var eyey = eye[1];
+    var eyez = eye[2];
+    var upx = up[0];
+    var upy = up[1];
+    var upz = up[2];
+    var centerx = center[0];
+    var centery = center[1];
+    var centerz = center[2];
+    if (Math.abs(eyex - centerx) < __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] && Math.abs(eyey - centery) < __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] && Math.abs(eyez - centerz) < __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"]) {
+        return identity(out);
+    }
+    z0 = eyex - centerx;
+    z1 = eyey - centery;
+    z2 = eyez - centerz;
+    len = 1 / Math.sqrt(z0 * z0 + z1 * z1 + z2 * z2);
+    z0 *= len;
+    z1 *= len;
+    z2 *= len;
+    x0 = upy * z2 - upz * z1;
+    x1 = upz * z0 - upx * z2;
+    x2 = upx * z1 - upy * z0;
+    len = Math.sqrt(x0 * x0 + x1 * x1 + x2 * x2);
+    if (!len) {
+        x0 = 0;
+        x1 = 0;
+        x2 = 0;
+    } else {
+        len = 1 / len;
+        x0 *= len;
+        x1 *= len;
+        x2 *= len;
+    }
+    y0 = z1 * x2 - z2 * x1;
+    y1 = z2 * x0 - z0 * x2;
+    y2 = z0 * x1 - z1 * x0;
+    len = Math.sqrt(y0 * y0 + y1 * y1 + y2 * y2);
+    if (!len) {
+        y0 = 0;
+        y1 = 0;
+        y2 = 0;
+    } else {
+        len = 1 / len;
+        y0 *= len;
+        y1 *= len;
+        y2 *= len;
+    }
+    out[0] = x0;
+    out[1] = y0;
+    out[2] = z0;
+    out[3] = 0;
+    out[4] = x1;
+    out[5] = y1;
+    out[6] = z1;
+    out[7] = 0;
+    out[8] = x2;
+    out[9] = y2;
+    out[10] = z2;
+    out[11] = 0;
+    out[12] = -(x0 * eyex + x1 * eyey + x2 * eyez);
+    out[13] = -(y0 * eyex + y1 * eyey + y2 * eyez);
+    out[14] = -(z0 * eyex + z1 * eyey + z2 * eyez);
+    out[15] = 1;
+    return out;
+}
+function targetTo(out, eye, target, up) {
+    var eyex = eye[0], eyey = eye[1], eyez = eye[2], upx = up[0], upy = up[1], upz = up[2];
+    var z0 = eyex - target[0], z1 = eyey - target[1], z2 = eyez - target[2];
+    var len = z0 * z0 + z1 * z1 + z2 * z2;
+    if (len > 0) {
+        len = 1 / Math.sqrt(len);
+        z0 *= len;
+        z1 *= len;
+        z2 *= len;
+    }
+    var x0 = upy * z2 - upz * z1, x1 = upz * z0 - upx * z2, x2 = upx * z1 - upy * z0;
+    len = x0 * x0 + x1 * x1 + x2 * x2;
+    if (len > 0) {
+        len = 1 / Math.sqrt(len);
+        x0 *= len;
+        x1 *= len;
+        x2 *= len;
+    }
+    out[0] = x0;
+    out[1] = x1;
+    out[2] = x2;
+    out[3] = 0;
+    out[4] = z1 * x2 - z2 * x1;
+    out[5] = z2 * x0 - z0 * x2;
+    out[6] = z0 * x1 - z1 * x0;
+    out[7] = 0;
+    out[8] = z0;
+    out[9] = z1;
+    out[10] = z2;
+    out[11] = 0;
+    out[12] = eyex;
+    out[13] = eyey;
+    out[14] = eyez;
+    out[15] = 1;
+    return out;
+}
+function str(a) {
+    return "mat4(" + a[0] + ", " + a[1] + ", " + a[2] + ", " + a[3] + ", " + a[4] + ", " + a[5] + ", " + a[6] + ", " + a[7] + ", " + a[8] + ", " + a[9] + ", " + a[10] + ", " + a[11] + ", " + a[12] + ", " + a[13] + ", " + a[14] + ", " + a[15] + ")";
+}
+function frob(a) {
+    return Math.sqrt(a[0] * a[0] + a[1] * a[1] + a[2] * a[2] + a[3] * a[3] + a[4] * a[4] + a[5] * a[5] + a[6] * a[6] + a[7] * a[7] + a[8] * a[8] + a[9] * a[9] + a[10] * a[10] + a[11] * a[11] + a[12] * a[12] + a[13] * a[13] + a[14] * a[14] + a[15] * a[15]);
+}
+function add(out, a, b) {
+    out[0] = a[0] + b[0];
+    out[1] = a[1] + b[1];
+    out[2] = a[2] + b[2];
+    out[3] = a[3] + b[3];
+    out[4] = a[4] + b[4];
+    out[5] = a[5] + b[5];
+    out[6] = a[6] + b[6];
+    out[7] = a[7] + b[7];
+    out[8] = a[8] + b[8];
+    out[9] = a[9] + b[9];
+    out[10] = a[10] + b[10];
+    out[11] = a[11] + b[11];
+    out[12] = a[12] + b[12];
+    out[13] = a[13] + b[13];
+    out[14] = a[14] + b[14];
+    out[15] = a[15] + b[15];
+    return out;
+}
+function subtract(out, a, b) {
+    out[0] = a[0] - b[0];
+    out[1] = a[1] - b[1];
+    out[2] = a[2] - b[2];
+    out[3] = a[3] - b[3];
+    out[4] = a[4] - b[4];
+    out[5] = a[5] - b[5];
+    out[6] = a[6] - b[6];
+    out[7] = a[7] - b[7];
+    out[8] = a[8] - b[8];
+    out[9] = a[9] - b[9];
+    out[10] = a[10] - b[10];
+    out[11] = a[11] - b[11];
+    out[12] = a[12] - b[12];
+    out[13] = a[13] - b[13];
+    out[14] = a[14] - b[14];
+    out[15] = a[15] - b[15];
+    return out;
+}
+function multiplyScalar(out, a, b) {
+    out[0] = a[0] * b;
+    out[1] = a[1] * b;
+    out[2] = a[2] * b;
+    out[3] = a[3] * b;
+    out[4] = a[4] * b;
+    out[5] = a[5] * b;
+    out[6] = a[6] * b;
+    out[7] = a[7] * b;
+    out[8] = a[8] * b;
+    out[9] = a[9] * b;
+    out[10] = a[10] * b;
+    out[11] = a[11] * b;
+    out[12] = a[12] * b;
+    out[13] = a[13] * b;
+    out[14] = a[14] * b;
+    out[15] = a[15] * b;
+    return out;
+}
+function multiplyScalarAndAdd(out, a, b, scale) {
+    out[0] = a[0] + b[0] * scale;
+    out[1] = a[1] + b[1] * scale;
+    out[2] = a[2] + b[2] * scale;
+    out[3] = a[3] + b[3] * scale;
+    out[4] = a[4] + b[4] * scale;
+    out[5] = a[5] + b[5] * scale;
+    out[6] = a[6] + b[6] * scale;
+    out[7] = a[7] + b[7] * scale;
+    out[8] = a[8] + b[8] * scale;
+    out[9] = a[9] + b[9] * scale;
+    out[10] = a[10] + b[10] * scale;
+    out[11] = a[11] + b[11] * scale;
+    out[12] = a[12] + b[12] * scale;
+    out[13] = a[13] + b[13] * scale;
+    out[14] = a[14] + b[14] * scale;
+    out[15] = a[15] + b[15] * scale;
+    return out;
+}
+function exactEquals(a, b) {
+    return a[0] === b[0] && a[1] === b[1] && a[2] === b[2] && a[3] === b[3] && a[4] === b[4] && a[5] === b[5] && a[6] === b[6] && a[7] === b[7] && a[8] === b[8] && a[9] === b[9] && a[10] === b[10] && a[11] === b[11] && a[12] === b[12] && a[13] === b[13] && a[14] === b[14] && a[15] === b[15];
+}
+function equals(a, b) {
+    var a0 = a[0], a1 = a[1], a2 = a[2], a3 = a[3];
+    var a4 = a[4], a5 = a[5], a6 = a[6], a7 = a[7];
+    var a8 = a[8], a9 = a[9], a10 = a[10], a11 = a[11];
+    var a12 = a[12], a13 = a[13], a14 = a[14], a15 = a[15];
+    var b0 = b[0], b1 = b[1], b2 = b[2], b3 = b[3];
+    var b4 = b[4], b5 = b[5], b6 = b[6], b7 = b[7];
+    var b8 = b[8], b9 = b[9], b10 = b[10], b11 = b[11];
+    var b12 = b[12], b13 = b[13], b14 = b[14], b15 = b[15];
+    return Math.abs(a0 - b0) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a0), Math.abs(b0)) && Math.abs(a1 - b1) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a1), Math.abs(b1)) && Math.abs(a2 - b2) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a2), Math.abs(b2)) && Math.abs(a3 - b3) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a3), Math.abs(b3)) && Math.abs(a4 - b4) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a4), Math.abs(b4)) && Math.abs(a5 - b5) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a5), Math.abs(b5)) && Math.abs(a6 - b6) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a6), Math.abs(b6)) && Math.abs(a7 - b7) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a7), Math.abs(b7)) && Math.abs(a8 - b8) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a8), Math.abs(b8)) && Math.abs(a9 - b9) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a9), Math.abs(b9)) && Math.abs(a10 - b10) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a10), Math.abs(b10)) && Math.abs(a11 - b11) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a11), Math.abs(b11)) && Math.abs(a12 - b12) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a12), Math.abs(b12)) && Math.abs(a13 - b13) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a13), Math.abs(b13)) && Math.abs(a14 - b14) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a14), Math.abs(b14)) && Math.abs(a15 - b15) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a15), Math.abs(b15));
+}
+var mul = multiply;
+var sub = subtract;
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat4.js [app-client] (ecmascript) <export * as mat4>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "mat4",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat4.js [app-client] (ecmascript)");
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat3.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "adjoint",
+    ()=>adjoint,
+    "clone",
+    ()=>clone,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "determinant",
+    ()=>determinant,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "frob",
+    ()=>frob,
+    "fromMat2d",
+    ()=>fromMat2d,
+    "fromMat4",
+    ()=>fromMat4,
+    "fromQuat",
+    ()=>fromQuat,
+    "fromRotation",
+    ()=>fromRotation,
+    "fromScaling",
+    ()=>fromScaling,
+    "fromTranslation",
+    ()=>fromTranslation,
+    "fromValues",
+    ()=>fromValues,
+    "identity",
+    ()=>identity,
+    "invert",
+    ()=>invert,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "multiplyScalar",
+    ()=>multiplyScalar,
+    "multiplyScalarAndAdd",
+    ()=>multiplyScalarAndAdd,
+    "normalFromMat4",
+    ()=>normalFromMat4,
+    "projection",
+    ()=>projection,
+    "rotate",
+    ()=>rotate,
+    "scale",
+    ()=>scale,
+    "set",
+    ()=>set,
+    "str",
+    ()=>str,
+    "sub",
+    ()=>sub,
+    "subtract",
+    ()=>subtract,
+    "translate",
+    ()=>translate,
+    "transpose",
+    ()=>transpose
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](9);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[1] = 0;
+        out[2] = 0;
+        out[3] = 0;
+        out[5] = 0;
+        out[6] = 0;
+        out[7] = 0;
+    }
+    out[0] = 1;
+    out[4] = 1;
+    out[8] = 1;
+    return out;
+}
+function fromMat4(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[4];
+    out[4] = a[5];
+    out[5] = a[6];
+    out[6] = a[8];
+    out[7] = a[9];
+    out[8] = a[10];
+    return out;
+}
+function clone(a) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](9);
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    out[4] = a[4];
+    out[5] = a[5];
+    out[6] = a[6];
+    out[7] = a[7];
+    out[8] = a[8];
+    return out;
+}
+function copy(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    out[4] = a[4];
+    out[5] = a[5];
+    out[6] = a[6];
+    out[7] = a[7];
+    out[8] = a[8];
+    return out;
+}
+function fromValues(m00, m01, m02, m10, m11, m12, m20, m21, m22) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](9);
+    out[0] = m00;
+    out[1] = m01;
+    out[2] = m02;
+    out[3] = m10;
+    out[4] = m11;
+    out[5] = m12;
+    out[6] = m20;
+    out[7] = m21;
+    out[8] = m22;
+    return out;
+}
+function set(out, m00, m01, m02, m10, m11, m12, m20, m21, m22) {
+    out[0] = m00;
+    out[1] = m01;
+    out[2] = m02;
+    out[3] = m10;
+    out[4] = m11;
+    out[5] = m12;
+    out[6] = m20;
+    out[7] = m21;
+    out[8] = m22;
+    return out;
+}
+function identity(out) {
+    out[0] = 1;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 1;
+    out[5] = 0;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 1;
+    return out;
+}
+function transpose(out, a) {
+    // If we are transposing ourselves we can skip a few steps but have to cache some values
+    if (out === a) {
+        var a01 = a[1], a02 = a[2], a12 = a[5];
+        out[1] = a[3];
+        out[2] = a[6];
+        out[3] = a01;
+        out[5] = a[7];
+        out[6] = a02;
+        out[7] = a12;
+    } else {
+        out[0] = a[0];
+        out[1] = a[3];
+        out[2] = a[6];
+        out[3] = a[1];
+        out[4] = a[4];
+        out[5] = a[7];
+        out[6] = a[2];
+        out[7] = a[5];
+        out[8] = a[8];
+    }
+    return out;
+}
+function invert(out, a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2];
+    var a10 = a[3], a11 = a[4], a12 = a[5];
+    var a20 = a[6], a21 = a[7], a22 = a[8];
+    var b01 = a22 * a11 - a12 * a21;
+    var b11 = -a22 * a10 + a12 * a20;
+    var b21 = a21 * a10 - a11 * a20;
+    // Calculate the determinant
+    var det = a00 * b01 + a01 * b11 + a02 * b21;
+    if (!det) {
+        return null;
+    }
+    det = 1.0 / det;
+    out[0] = b01 * det;
+    out[1] = (-a22 * a01 + a02 * a21) * det;
+    out[2] = (a12 * a01 - a02 * a11) * det;
+    out[3] = b11 * det;
+    out[4] = (a22 * a00 - a02 * a20) * det;
+    out[5] = (-a12 * a00 + a02 * a10) * det;
+    out[6] = b21 * det;
+    out[7] = (-a21 * a00 + a01 * a20) * det;
+    out[8] = (a11 * a00 - a01 * a10) * det;
+    return out;
+}
+function adjoint(out, a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2];
+    var a10 = a[3], a11 = a[4], a12 = a[5];
+    var a20 = a[6], a21 = a[7], a22 = a[8];
+    out[0] = a11 * a22 - a12 * a21;
+    out[1] = a02 * a21 - a01 * a22;
+    out[2] = a01 * a12 - a02 * a11;
+    out[3] = a12 * a20 - a10 * a22;
+    out[4] = a00 * a22 - a02 * a20;
+    out[5] = a02 * a10 - a00 * a12;
+    out[6] = a10 * a21 - a11 * a20;
+    out[7] = a01 * a20 - a00 * a21;
+    out[8] = a00 * a11 - a01 * a10;
+    return out;
+}
+function determinant(a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2];
+    var a10 = a[3], a11 = a[4], a12 = a[5];
+    var a20 = a[6], a21 = a[7], a22 = a[8];
+    return a00 * (a22 * a11 - a12 * a21) + a01 * (-a22 * a10 + a12 * a20) + a02 * (a21 * a10 - a11 * a20);
+}
+function multiply(out, a, b) {
+    var a00 = a[0], a01 = a[1], a02 = a[2];
+    var a10 = a[3], a11 = a[4], a12 = a[5];
+    var a20 = a[6], a21 = a[7], a22 = a[8];
+    var b00 = b[0], b01 = b[1], b02 = b[2];
+    var b10 = b[3], b11 = b[4], b12 = b[5];
+    var b20 = b[6], b21 = b[7], b22 = b[8];
+    out[0] = b00 * a00 + b01 * a10 + b02 * a20;
+    out[1] = b00 * a01 + b01 * a11 + b02 * a21;
+    out[2] = b00 * a02 + b01 * a12 + b02 * a22;
+    out[3] = b10 * a00 + b11 * a10 + b12 * a20;
+    out[4] = b10 * a01 + b11 * a11 + b12 * a21;
+    out[5] = b10 * a02 + b11 * a12 + b12 * a22;
+    out[6] = b20 * a00 + b21 * a10 + b22 * a20;
+    out[7] = b20 * a01 + b21 * a11 + b22 * a21;
+    out[8] = b20 * a02 + b21 * a12 + b22 * a22;
+    return out;
+}
+function translate(out, a, v) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a10 = a[3], a11 = a[4], a12 = a[5], a20 = a[6], a21 = a[7], a22 = a[8], x = v[0], y = v[1];
+    out[0] = a00;
+    out[1] = a01;
+    out[2] = a02;
+    out[3] = a10;
+    out[4] = a11;
+    out[5] = a12;
+    out[6] = x * a00 + y * a10 + a20;
+    out[7] = x * a01 + y * a11 + a21;
+    out[8] = x * a02 + y * a12 + a22;
+    return out;
+}
+function rotate(out, a, rad) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a10 = a[3], a11 = a[4], a12 = a[5], a20 = a[6], a21 = a[7], a22 = a[8], s = Math.sin(rad), c = Math.cos(rad);
+    out[0] = c * a00 + s * a10;
+    out[1] = c * a01 + s * a11;
+    out[2] = c * a02 + s * a12;
+    out[3] = c * a10 - s * a00;
+    out[4] = c * a11 - s * a01;
+    out[5] = c * a12 - s * a02;
+    out[6] = a20;
+    out[7] = a21;
+    out[8] = a22;
+    return out;
+}
+function scale(out, a, v) {
+    var x = v[0], y = v[1];
+    out[0] = x * a[0];
+    out[1] = x * a[1];
+    out[2] = x * a[2];
+    out[3] = y * a[3];
+    out[4] = y * a[4];
+    out[5] = y * a[5];
+    out[6] = a[6];
+    out[7] = a[7];
+    out[8] = a[8];
+    return out;
+}
+function fromTranslation(out, v) {
+    out[0] = 1;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = 1;
+    out[5] = 0;
+    out[6] = v[0];
+    out[7] = v[1];
+    out[8] = 1;
+    return out;
+}
+function fromRotation(out, rad) {
+    var s = Math.sin(rad), c = Math.cos(rad);
+    out[0] = c;
+    out[1] = s;
+    out[2] = 0;
+    out[3] = -s;
+    out[4] = c;
+    out[5] = 0;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 1;
+    return out;
+}
+function fromScaling(out, v) {
+    out[0] = v[0];
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = v[1];
+    out[5] = 0;
+    out[6] = 0;
+    out[7] = 0;
+    out[8] = 1;
+    return out;
+}
+function fromMat2d(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = 0;
+    out[3] = a[2];
+    out[4] = a[3];
+    out[5] = 0;
+    out[6] = a[4];
+    out[7] = a[5];
+    out[8] = 1;
+    return out;
+}
+function fromQuat(out, q) {
+    var x = q[0], y = q[1], z = q[2], w = q[3];
+    var x2 = x + x;
+    var y2 = y + y;
+    var z2 = z + z;
+    var xx = x * x2;
+    var yx = y * x2;
+    var yy = y * y2;
+    var zx = z * x2;
+    var zy = z * y2;
+    var zz = z * z2;
+    var wx = w * x2;
+    var wy = w * y2;
+    var wz = w * z2;
+    out[0] = 1 - yy - zz;
+    out[3] = yx - wz;
+    out[6] = zx + wy;
+    out[1] = yx + wz;
+    out[4] = 1 - xx - zz;
+    out[7] = zy - wx;
+    out[2] = zx - wy;
+    out[5] = zy + wx;
+    out[8] = 1 - xx - yy;
+    return out;
+}
+function normalFromMat4(out, a) {
+    var a00 = a[0], a01 = a[1], a02 = a[2], a03 = a[3];
+    var a10 = a[4], a11 = a[5], a12 = a[6], a13 = a[7];
+    var a20 = a[8], a21 = a[9], a22 = a[10], a23 = a[11];
+    var a30 = a[12], a31 = a[13], a32 = a[14], a33 = a[15];
+    var b00 = a00 * a11 - a01 * a10;
+    var b01 = a00 * a12 - a02 * a10;
+    var b02 = a00 * a13 - a03 * a10;
+    var b03 = a01 * a12 - a02 * a11;
+    var b04 = a01 * a13 - a03 * a11;
+    var b05 = a02 * a13 - a03 * a12;
+    var b06 = a20 * a31 - a21 * a30;
+    var b07 = a20 * a32 - a22 * a30;
+    var b08 = a20 * a33 - a23 * a30;
+    var b09 = a21 * a32 - a22 * a31;
+    var b10 = a21 * a33 - a23 * a31;
+    var b11 = a22 * a33 - a23 * a32;
+    // Calculate the determinant
+    var det = b00 * b11 - b01 * b10 + b02 * b09 + b03 * b08 - b04 * b07 + b05 * b06;
+    if (!det) {
+        return null;
+    }
+    det = 1.0 / det;
+    out[0] = (a11 * b11 - a12 * b10 + a13 * b09) * det;
+    out[1] = (a12 * b08 - a10 * b11 - a13 * b07) * det;
+    out[2] = (a10 * b10 - a11 * b08 + a13 * b06) * det;
+    out[3] = (a02 * b10 - a01 * b11 - a03 * b09) * det;
+    out[4] = (a00 * b11 - a02 * b08 + a03 * b07) * det;
+    out[5] = (a01 * b08 - a00 * b10 - a03 * b06) * det;
+    out[6] = (a31 * b05 - a32 * b04 + a33 * b03) * det;
+    out[7] = (a32 * b02 - a30 * b05 - a33 * b01) * det;
+    out[8] = (a30 * b04 - a31 * b02 + a33 * b00) * det;
+    return out;
+}
+function projection(out, width, height) {
+    out[0] = 2 / width;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 0;
+    out[4] = -2 / height;
+    out[5] = 0;
+    out[6] = -1;
+    out[7] = 1;
+    out[8] = 1;
+    return out;
+}
+function str(a) {
+    return "mat3(" + a[0] + ", " + a[1] + ", " + a[2] + ", " + a[3] + ", " + a[4] + ", " + a[5] + ", " + a[6] + ", " + a[7] + ", " + a[8] + ")";
+}
+function frob(a) {
+    return Math.sqrt(a[0] * a[0] + a[1] * a[1] + a[2] * a[2] + a[3] * a[3] + a[4] * a[4] + a[5] * a[5] + a[6] * a[6] + a[7] * a[7] + a[8] * a[8]);
+}
+function add(out, a, b) {
+    out[0] = a[0] + b[0];
+    out[1] = a[1] + b[1];
+    out[2] = a[2] + b[2];
+    out[3] = a[3] + b[3];
+    out[4] = a[4] + b[4];
+    out[5] = a[5] + b[5];
+    out[6] = a[6] + b[6];
+    out[7] = a[7] + b[7];
+    out[8] = a[8] + b[8];
+    return out;
+}
+function subtract(out, a, b) {
+    out[0] = a[0] - b[0];
+    out[1] = a[1] - b[1];
+    out[2] = a[2] - b[2];
+    out[3] = a[3] - b[3];
+    out[4] = a[4] - b[4];
+    out[5] = a[5] - b[5];
+    out[6] = a[6] - b[6];
+    out[7] = a[7] - b[7];
+    out[8] = a[8] - b[8];
+    return out;
+}
+function multiplyScalar(out, a, b) {
+    out[0] = a[0] * b;
+    out[1] = a[1] * b;
+    out[2] = a[2] * b;
+    out[3] = a[3] * b;
+    out[4] = a[4] * b;
+    out[5] = a[5] * b;
+    out[6] = a[6] * b;
+    out[7] = a[7] * b;
+    out[8] = a[8] * b;
+    return out;
+}
+function multiplyScalarAndAdd(out, a, b, scale) {
+    out[0] = a[0] + b[0] * scale;
+    out[1] = a[1] + b[1] * scale;
+    out[2] = a[2] + b[2] * scale;
+    out[3] = a[3] + b[3] * scale;
+    out[4] = a[4] + b[4] * scale;
+    out[5] = a[5] + b[5] * scale;
+    out[6] = a[6] + b[6] * scale;
+    out[7] = a[7] + b[7] * scale;
+    out[8] = a[8] + b[8] * scale;
+    return out;
+}
+function exactEquals(a, b) {
+    return a[0] === b[0] && a[1] === b[1] && a[2] === b[2] && a[3] === b[3] && a[4] === b[4] && a[5] === b[5] && a[6] === b[6] && a[7] === b[7] && a[8] === b[8];
+}
+function equals(a, b) {
+    var a0 = a[0], a1 = a[1], a2 = a[2], a3 = a[3], a4 = a[4], a5 = a[5], a6 = a[6], a7 = a[7], a8 = a[8];
+    var b0 = b[0], b1 = b[1], b2 = b[2], b3 = b[3], b4 = b[4], b5 = b[5], b6 = b[6], b7 = b[7], b8 = b[8];
+    return Math.abs(a0 - b0) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a0), Math.abs(b0)) && Math.abs(a1 - b1) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a1), Math.abs(b1)) && Math.abs(a2 - b2) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a2), Math.abs(b2)) && Math.abs(a3 - b3) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a3), Math.abs(b3)) && Math.abs(a4 - b4) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a4), Math.abs(b4)) && Math.abs(a5 - b5) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a5), Math.abs(b5)) && Math.abs(a6 - b6) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a6), Math.abs(b6)) && Math.abs(a7 - b7) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a7), Math.abs(b7)) && Math.abs(a8 - b8) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a8), Math.abs(b8));
+}
+var mul = multiply;
+var sub = subtract;
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec3.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "angle",
+    ()=>angle,
+    "bezier",
+    ()=>bezier,
+    "ceil",
+    ()=>ceil,
+    "clone",
+    ()=>clone,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "cross",
+    ()=>cross,
+    "dist",
+    ()=>dist,
+    "distance",
+    ()=>distance,
+    "div",
+    ()=>div,
+    "divide",
+    ()=>divide,
+    "dot",
+    ()=>dot,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "floor",
+    ()=>floor,
+    "forEach",
+    ()=>forEach,
+    "fromValues",
+    ()=>fromValues,
+    "hermite",
+    ()=>hermite,
+    "inverse",
+    ()=>inverse,
+    "len",
+    ()=>len,
+    "length",
+    ()=>length,
+    "lerp",
+    ()=>lerp,
+    "max",
+    ()=>max,
+    "min",
+    ()=>min,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "negate",
+    ()=>negate,
+    "normalize",
+    ()=>normalize,
+    "random",
+    ()=>random,
+    "rotateX",
+    ()=>rotateX,
+    "rotateY",
+    ()=>rotateY,
+    "rotateZ",
+    ()=>rotateZ,
+    "round",
+    ()=>round,
+    "scale",
+    ()=>scale,
+    "scaleAndAdd",
+    ()=>scaleAndAdd,
+    "set",
+    ()=>set,
+    "slerp",
+    ()=>slerp,
+    "sqrDist",
+    ()=>sqrDist,
+    "sqrLen",
+    ()=>sqrLen,
+    "squaredDistance",
+    ()=>squaredDistance,
+    "squaredLength",
+    ()=>squaredLength,
+    "str",
+    ()=>str,
+    "sub",
+    ()=>sub,
+    "subtract",
+    ()=>subtract,
+    "transformMat3",
+    ()=>transformMat3,
+    "transformMat4",
+    ()=>transformMat4,
+    "transformQuat",
+    ()=>transformQuat,
+    "zero",
+    ()=>zero
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](3);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[0] = 0;
+        out[1] = 0;
+        out[2] = 0;
+    }
+    return out;
+}
+function clone(a) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](3);
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    return out;
+}
+function length(a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    return Math.sqrt(x * x + y * y + z * z);
+}
+function fromValues(x, y, z) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](3);
+    out[0] = x;
+    out[1] = y;
+    out[2] = z;
+    return out;
+}
+function copy(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    return out;
+}
+function set(out, x, y, z) {
+    out[0] = x;
+    out[1] = y;
+    out[2] = z;
+    return out;
+}
+function add(out, a, b) {
+    out[0] = a[0] + b[0];
+    out[1] = a[1] + b[1];
+    out[2] = a[2] + b[2];
+    return out;
+}
+function subtract(out, a, b) {
+    out[0] = a[0] - b[0];
+    out[1] = a[1] - b[1];
+    out[2] = a[2] - b[2];
+    return out;
+}
+function multiply(out, a, b) {
+    out[0] = a[0] * b[0];
+    out[1] = a[1] * b[1];
+    out[2] = a[2] * b[2];
+    return out;
+}
+function divide(out, a, b) {
+    out[0] = a[0] / b[0];
+    out[1] = a[1] / b[1];
+    out[2] = a[2] / b[2];
+    return out;
+}
+function ceil(out, a) {
+    out[0] = Math.ceil(a[0]);
+    out[1] = Math.ceil(a[1]);
+    out[2] = Math.ceil(a[2]);
+    return out;
+}
+function floor(out, a) {
+    out[0] = Math.floor(a[0]);
+    out[1] = Math.floor(a[1]);
+    out[2] = Math.floor(a[2]);
+    return out;
+}
+function min(out, a, b) {
+    out[0] = Math.min(a[0], b[0]);
+    out[1] = Math.min(a[1], b[1]);
+    out[2] = Math.min(a[2], b[2]);
+    return out;
+}
+function max(out, a, b) {
+    out[0] = Math.max(a[0], b[0]);
+    out[1] = Math.max(a[1], b[1]);
+    out[2] = Math.max(a[2], b[2]);
+    return out;
+}
+function round(out, a) {
+    out[0] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[0]);
+    out[1] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[1]);
+    out[2] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[2]);
+    return out;
+}
+function scale(out, a, b) {
+    out[0] = a[0] * b;
+    out[1] = a[1] * b;
+    out[2] = a[2] * b;
+    return out;
+}
+function scaleAndAdd(out, a, b, scale) {
+    out[0] = a[0] + b[0] * scale;
+    out[1] = a[1] + b[1] * scale;
+    out[2] = a[2] + b[2] * scale;
+    return out;
+}
+function distance(a, b) {
+    var x = b[0] - a[0];
+    var y = b[1] - a[1];
+    var z = b[2] - a[2];
+    return Math.sqrt(x * x + y * y + z * z);
+}
+function squaredDistance(a, b) {
+    var x = b[0] - a[0];
+    var y = b[1] - a[1];
+    var z = b[2] - a[2];
+    return x * x + y * y + z * z;
+}
+function squaredLength(a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    return x * x + y * y + z * z;
+}
+function negate(out, a) {
+    out[0] = -a[0];
+    out[1] = -a[1];
+    out[2] = -a[2];
+    return out;
+}
+function inverse(out, a) {
+    out[0] = 1.0 / a[0];
+    out[1] = 1.0 / a[1];
+    out[2] = 1.0 / a[2];
+    return out;
+}
+function normalize(out, a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    var len = x * x + y * y + z * z;
+    if (len > 0) {
+        //TODO: evaluate use of glm_invsqrt here?
+        len = 1 / Math.sqrt(len);
+    }
+    out[0] = a[0] * len;
+    out[1] = a[1] * len;
+    out[2] = a[2] * len;
+    return out;
+}
+function dot(a, b) {
+    return a[0] * b[0] + a[1] * b[1] + a[2] * b[2];
+}
+function cross(out, a, b) {
+    var ax = a[0], ay = a[1], az = a[2];
+    var bx = b[0], by = b[1], bz = b[2];
+    out[0] = ay * bz - az * by;
+    out[1] = az * bx - ax * bz;
+    out[2] = ax * by - ay * bx;
+    return out;
+}
+function lerp(out, a, b, t) {
+    var ax = a[0];
+    var ay = a[1];
+    var az = a[2];
+    out[0] = ax + t * (b[0] - ax);
+    out[1] = ay + t * (b[1] - ay);
+    out[2] = az + t * (b[2] - az);
+    return out;
+}
+function slerp(out, a, b, t) {
+    var angle = Math.acos(Math.min(Math.max(dot(a, b), -1), 1));
+    var sinTotal = Math.sin(angle);
+    var ratioA = Math.sin((1 - t) * angle) / sinTotal;
+    var ratioB = Math.sin(t * angle) / sinTotal;
+    out[0] = ratioA * a[0] + ratioB * b[0];
+    out[1] = ratioA * a[1] + ratioB * b[1];
+    out[2] = ratioA * a[2] + ratioB * b[2];
+    return out;
+}
+function hermite(out, a, b, c, d, t) {
+    var factorTimes2 = t * t;
+    var factor1 = factorTimes2 * (2 * t - 3) + 1;
+    var factor2 = factorTimes2 * (t - 2) + t;
+    var factor3 = factorTimes2 * (t - 1);
+    var factor4 = factorTimes2 * (3 - 2 * t);
+    out[0] = a[0] * factor1 + b[0] * factor2 + c[0] * factor3 + d[0] * factor4;
+    out[1] = a[1] * factor1 + b[1] * factor2 + c[1] * factor3 + d[1] * factor4;
+    out[2] = a[2] * factor1 + b[2] * factor2 + c[2] * factor3 + d[2] * factor4;
+    return out;
+}
+function bezier(out, a, b, c, d, t) {
+    var inverseFactor = 1 - t;
+    var inverseFactorTimesTwo = inverseFactor * inverseFactor;
+    var factorTimes2 = t * t;
+    var factor1 = inverseFactorTimesTwo * inverseFactor;
+    var factor2 = 3 * t * inverseFactorTimesTwo;
+    var factor3 = 3 * factorTimes2 * inverseFactor;
+    var factor4 = factorTimes2 * t;
+    out[0] = a[0] * factor1 + b[0] * factor2 + c[0] * factor3 + d[0] * factor4;
+    out[1] = a[1] * factor1 + b[1] * factor2 + c[1] * factor3 + d[1] * factor4;
+    out[2] = a[2] * factor1 + b[2] * factor2 + c[2] * factor3 + d[2] * factor4;
+    return out;
+}
+function random(out, scale) {
+    scale = scale === undefined ? 1.0 : scale;
+    var r = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]() * 2.0 * Math.PI;
+    var z = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]() * 2.0 - 1.0;
+    var zScale = Math.sqrt(1.0 - z * z) * scale;
+    out[0] = Math.cos(r) * zScale;
+    out[1] = Math.sin(r) * zScale;
+    out[2] = z * scale;
+    return out;
+}
+function transformMat4(out, a, m) {
+    var x = a[0], y = a[1], z = a[2];
+    var w = m[3] * x + m[7] * y + m[11] * z + m[15];
+    w = w || 1.0;
+    out[0] = (m[0] * x + m[4] * y + m[8] * z + m[12]) / w;
+    out[1] = (m[1] * x + m[5] * y + m[9] * z + m[13]) / w;
+    out[2] = (m[2] * x + m[6] * y + m[10] * z + m[14]) / w;
+    return out;
+}
+function transformMat3(out, a, m) {
+    var x = a[0], y = a[1], z = a[2];
+    out[0] = x * m[0] + y * m[3] + z * m[6];
+    out[1] = x * m[1] + y * m[4] + z * m[7];
+    out[2] = x * m[2] + y * m[5] + z * m[8];
+    return out;
+}
+function transformQuat(out, a, q) {
+    // Fast Vector Rotation using Quaternions by Robert Eisele
+    // https://raw.org/proof/vector-rotation-using-quaternions/
+    var qx = q[0], qy = q[1], qz = q[2], qw = q[3];
+    var vx = a[0], vy = a[1], vz = a[2];
+    // t = q x v
+    var tx = qy * vz - qz * vy;
+    var ty = qz * vx - qx * vz;
+    var tz = qx * vy - qy * vx;
+    // t = 2t
+    tx = tx + tx;
+    ty = ty + ty;
+    tz = tz + tz;
+    // v + w t + q x t
+    out[0] = vx + qw * tx + qy * tz - qz * ty;
+    out[1] = vy + qw * ty + qz * tx - qx * tz;
+    out[2] = vz + qw * tz + qx * ty - qy * tx;
+    return out;
+}
+function rotateX(out, a, b, rad) {
+    var p = [], r = [];
+    //Translate point to the origin
+    p[0] = a[0] - b[0];
+    p[1] = a[1] - b[1];
+    p[2] = a[2] - b[2];
+    //perform rotation
+    r[0] = p[0];
+    r[1] = p[1] * Math.cos(rad) - p[2] * Math.sin(rad);
+    r[2] = p[1] * Math.sin(rad) + p[2] * Math.cos(rad);
+    //translate to correct position
+    out[0] = r[0] + b[0];
+    out[1] = r[1] + b[1];
+    out[2] = r[2] + b[2];
+    return out;
+}
+function rotateY(out, a, b, rad) {
+    var p = [], r = [];
+    //Translate point to the origin
+    p[0] = a[0] - b[0];
+    p[1] = a[1] - b[1];
+    p[2] = a[2] - b[2];
+    //perform rotation
+    r[0] = p[2] * Math.sin(rad) + p[0] * Math.cos(rad);
+    r[1] = p[1];
+    r[2] = p[2] * Math.cos(rad) - p[0] * Math.sin(rad);
+    //translate to correct position
+    out[0] = r[0] + b[0];
+    out[1] = r[1] + b[1];
+    out[2] = r[2] + b[2];
+    return out;
+}
+function rotateZ(out, a, b, rad) {
+    var p = [], r = [];
+    //Translate point to the origin
+    p[0] = a[0] - b[0];
+    p[1] = a[1] - b[1];
+    p[2] = a[2] - b[2];
+    //perform rotation
+    r[0] = p[0] * Math.cos(rad) - p[1] * Math.sin(rad);
+    r[1] = p[0] * Math.sin(rad) + p[1] * Math.cos(rad);
+    r[2] = p[2];
+    //translate to correct position
+    out[0] = r[0] + b[0];
+    out[1] = r[1] + b[1];
+    out[2] = r[2] + b[2];
+    return out;
+}
+function angle(a, b) {
+    var ax = a[0], ay = a[1], az = a[2], bx = b[0], by = b[1], bz = b[2], mag = Math.sqrt((ax * ax + ay * ay + az * az) * (bx * bx + by * by + bz * bz)), cosine = mag && dot(a, b) / mag;
+    return Math.acos(Math.min(Math.max(cosine, -1), 1));
+}
+function zero(out) {
+    out[0] = 0.0;
+    out[1] = 0.0;
+    out[2] = 0.0;
+    return out;
+}
+function str(a) {
+    return "vec3(" + a[0] + ", " + a[1] + ", " + a[2] + ")";
+}
+function exactEquals(a, b) {
+    return a[0] === b[0] && a[1] === b[1] && a[2] === b[2];
+}
+function equals(a, b) {
+    var a0 = a[0], a1 = a[1], a2 = a[2];
+    var b0 = b[0], b1 = b[1], b2 = b[2];
+    return Math.abs(a0 - b0) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a0), Math.abs(b0)) && Math.abs(a1 - b1) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a1), Math.abs(b1)) && Math.abs(a2 - b2) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a2), Math.abs(b2));
+}
+var sub = subtract;
+var mul = multiply;
+var div = divide;
+var dist = distance;
+var sqrDist = squaredDistance;
+var len = length;
+var sqrLen = squaredLength;
+var forEach = function() {
+    var vec = create();
+    return function(a, stride, offset, count, fn, arg) {
+        var i, l;
+        if (!stride) {
+            stride = 3;
+        }
+        if (!offset) {
+            offset = 0;
+        }
+        if (count) {
+            l = Math.min(count * stride + offset, a.length);
+        } else {
+            l = a.length;
+        }
+        for(i = offset; i < l; i += stride){
+            vec[0] = a[i];
+            vec[1] = a[i + 1];
+            vec[2] = a[i + 2];
+            fn(vec, vec, arg);
+            a[i] = vec[0];
+            a[i + 1] = vec[1];
+            a[i + 2] = vec[2];
+        }
+        return a;
+    };
+}();
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec4.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "ceil",
+    ()=>ceil,
+    "clone",
+    ()=>clone,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "cross",
+    ()=>cross,
+    "dist",
+    ()=>dist,
+    "distance",
+    ()=>distance,
+    "div",
+    ()=>div,
+    "divide",
+    ()=>divide,
+    "dot",
+    ()=>dot,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "floor",
+    ()=>floor,
+    "forEach",
+    ()=>forEach,
+    "fromValues",
+    ()=>fromValues,
+    "inverse",
+    ()=>inverse,
+    "len",
+    ()=>len,
+    "length",
+    ()=>length,
+    "lerp",
+    ()=>lerp,
+    "max",
+    ()=>max,
+    "min",
+    ()=>min,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "negate",
+    ()=>negate,
+    "normalize",
+    ()=>normalize,
+    "random",
+    ()=>random,
+    "round",
+    ()=>round,
+    "scale",
+    ()=>scale,
+    "scaleAndAdd",
+    ()=>scaleAndAdd,
+    "set",
+    ()=>set,
+    "sqrDist",
+    ()=>sqrDist,
+    "sqrLen",
+    ()=>sqrLen,
+    "squaredDistance",
+    ()=>squaredDistance,
+    "squaredLength",
+    ()=>squaredLength,
+    "str",
+    ()=>str,
+    "sub",
+    ()=>sub,
+    "subtract",
+    ()=>subtract,
+    "transformMat4",
+    ()=>transformMat4,
+    "transformQuat",
+    ()=>transformQuat,
+    "zero",
+    ()=>zero
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](4);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[0] = 0;
+        out[1] = 0;
+        out[2] = 0;
+        out[3] = 0;
+    }
+    return out;
+}
+function clone(a) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](4);
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    return out;
+}
+function fromValues(x, y, z, w) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](4);
+    out[0] = x;
+    out[1] = y;
+    out[2] = z;
+    out[3] = w;
+    return out;
+}
+function copy(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    out[2] = a[2];
+    out[3] = a[3];
+    return out;
+}
+function set(out, x, y, z, w) {
+    out[0] = x;
+    out[1] = y;
+    out[2] = z;
+    out[3] = w;
+    return out;
+}
+function add(out, a, b) {
+    out[0] = a[0] + b[0];
+    out[1] = a[1] + b[1];
+    out[2] = a[2] + b[2];
+    out[3] = a[3] + b[3];
+    return out;
+}
+function subtract(out, a, b) {
+    out[0] = a[0] - b[0];
+    out[1] = a[1] - b[1];
+    out[2] = a[2] - b[2];
+    out[3] = a[3] - b[3];
+    return out;
+}
+function multiply(out, a, b) {
+    out[0] = a[0] * b[0];
+    out[1] = a[1] * b[1];
+    out[2] = a[2] * b[2];
+    out[3] = a[3] * b[3];
+    return out;
+}
+function divide(out, a, b) {
+    out[0] = a[0] / b[0];
+    out[1] = a[1] / b[1];
+    out[2] = a[2] / b[2];
+    out[3] = a[3] / b[3];
+    return out;
+}
+function ceil(out, a) {
+    out[0] = Math.ceil(a[0]);
+    out[1] = Math.ceil(a[1]);
+    out[2] = Math.ceil(a[2]);
+    out[3] = Math.ceil(a[3]);
+    return out;
+}
+function floor(out, a) {
+    out[0] = Math.floor(a[0]);
+    out[1] = Math.floor(a[1]);
+    out[2] = Math.floor(a[2]);
+    out[3] = Math.floor(a[3]);
+    return out;
+}
+function min(out, a, b) {
+    out[0] = Math.min(a[0], b[0]);
+    out[1] = Math.min(a[1], b[1]);
+    out[2] = Math.min(a[2], b[2]);
+    out[3] = Math.min(a[3], b[3]);
+    return out;
+}
+function max(out, a, b) {
+    out[0] = Math.max(a[0], b[0]);
+    out[1] = Math.max(a[1], b[1]);
+    out[2] = Math.max(a[2], b[2]);
+    out[3] = Math.max(a[3], b[3]);
+    return out;
+}
+function round(out, a) {
+    out[0] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[0]);
+    out[1] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[1]);
+    out[2] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[2]);
+    out[3] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[3]);
+    return out;
+}
+function scale(out, a, b) {
+    out[0] = a[0] * b;
+    out[1] = a[1] * b;
+    out[2] = a[2] * b;
+    out[3] = a[3] * b;
+    return out;
+}
+function scaleAndAdd(out, a, b, scale) {
+    out[0] = a[0] + b[0] * scale;
+    out[1] = a[1] + b[1] * scale;
+    out[2] = a[2] + b[2] * scale;
+    out[3] = a[3] + b[3] * scale;
+    return out;
+}
+function distance(a, b) {
+    var x = b[0] - a[0];
+    var y = b[1] - a[1];
+    var z = b[2] - a[2];
+    var w = b[3] - a[3];
+    return Math.sqrt(x * x + y * y + z * z + w * w);
+}
+function squaredDistance(a, b) {
+    var x = b[0] - a[0];
+    var y = b[1] - a[1];
+    var z = b[2] - a[2];
+    var w = b[3] - a[3];
+    return x * x + y * y + z * z + w * w;
+}
+function length(a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    var w = a[3];
+    return Math.sqrt(x * x + y * y + z * z + w * w);
+}
+function squaredLength(a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    var w = a[3];
+    return x * x + y * y + z * z + w * w;
+}
+function negate(out, a) {
+    out[0] = -a[0];
+    out[1] = -a[1];
+    out[2] = -a[2];
+    out[3] = -a[3];
+    return out;
+}
+function inverse(out, a) {
+    out[0] = 1.0 / a[0];
+    out[1] = 1.0 / a[1];
+    out[2] = 1.0 / a[2];
+    out[3] = 1.0 / a[3];
+    return out;
+}
+function normalize(out, a) {
+    var x = a[0];
+    var y = a[1];
+    var z = a[2];
+    var w = a[3];
+    var len = x * x + y * y + z * z + w * w;
+    if (len > 0) {
+        len = 1 / Math.sqrt(len);
+    }
+    out[0] = x * len;
+    out[1] = y * len;
+    out[2] = z * len;
+    out[3] = w * len;
+    return out;
+}
+function dot(a, b) {
+    return a[0] * b[0] + a[1] * b[1] + a[2] * b[2] + a[3] * b[3];
+}
+function cross(out, u, v, w) {
+    var A = v[0] * w[1] - v[1] * w[0], B = v[0] * w[2] - v[2] * w[0], C = v[0] * w[3] - v[3] * w[0], D = v[1] * w[2] - v[2] * w[1], E = v[1] * w[3] - v[3] * w[1], F = v[2] * w[3] - v[3] * w[2];
+    var G = u[0];
+    var H = u[1];
+    var I = u[2];
+    var J = u[3];
+    out[0] = H * F - I * E + J * D;
+    out[1] = -(G * F) + I * C - J * B;
+    out[2] = G * E - H * C + J * A;
+    out[3] = -(G * D) + H * B - I * A;
+    return out;
+}
+function lerp(out, a, b, t) {
+    var ax = a[0];
+    var ay = a[1];
+    var az = a[2];
+    var aw = a[3];
+    out[0] = ax + t * (b[0] - ax);
+    out[1] = ay + t * (b[1] - ay);
+    out[2] = az + t * (b[2] - az);
+    out[3] = aw + t * (b[3] - aw);
+    return out;
+}
+function random(out, scale) {
+    scale = scale === undefined ? 1.0 : scale;
+    // Marsaglia, George. Choosing a Point from the Surface of a
+    // Sphere. Ann. Math. Statist. 43 (1972), no. 2, 645--646.
+    // http://projecteuclid.org/euclid.aoms/1177692644;
+    var v1, v2, v3, v4;
+    var s1, s2;
+    var rand;
+    rand = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]();
+    v1 = rand * 2 - 1;
+    v2 = (4 * __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]() - 2) * Math.sqrt(rand * -rand + rand);
+    s1 = v1 * v1 + v2 * v2;
+    rand = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]();
+    v3 = rand * 2 - 1;
+    v4 = (4 * __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]() - 2) * Math.sqrt(rand * -rand + rand);
+    s2 = v3 * v3 + v4 * v4;
+    var d = Math.sqrt((1 - s1) / s2);
+    out[0] = scale * v1;
+    out[1] = scale * v2;
+    out[2] = scale * v3 * d;
+    out[3] = scale * v4 * d;
+    return out;
+}
+function transformMat4(out, a, m) {
+    var x = a[0], y = a[1], z = a[2], w = a[3];
+    out[0] = m[0] * x + m[4] * y + m[8] * z + m[12] * w;
+    out[1] = m[1] * x + m[5] * y + m[9] * z + m[13] * w;
+    out[2] = m[2] * x + m[6] * y + m[10] * z + m[14] * w;
+    out[3] = m[3] * x + m[7] * y + m[11] * z + m[15] * w;
+    return out;
+}
+function transformQuat(out, a, q) {
+    // Fast Vector Rotation using Quaternions by Robert Eisele
+    // https://raw.org/proof/vector-rotation-using-quaternions/
+    var qx = q[0], qy = q[1], qz = q[2], qw = q[3];
+    var vx = a[0], vy = a[1], vz = a[2];
+    // t = q x v
+    var tx = qy * vz - qz * vy;
+    var ty = qz * vx - qx * vz;
+    var tz = qx * vy - qy * vx;
+    // t = 2t
+    tx = tx + tx;
+    ty = ty + ty;
+    tz = tz + tz;
+    // v + w t + q x t
+    out[0] = vx + qw * tx + qy * tz - qz * ty;
+    out[1] = vy + qw * ty + qz * tx - qx * tz;
+    out[2] = vz + qw * tz + qx * ty - qy * tx;
+    out[3] = a[3];
+    return out;
+}
+function zero(out) {
+    out[0] = 0.0;
+    out[1] = 0.0;
+    out[2] = 0.0;
+    out[3] = 0.0;
+    return out;
+}
+function str(a) {
+    return "vec4(" + a[0] + ", " + a[1] + ", " + a[2] + ", " + a[3] + ")";
+}
+function exactEquals(a, b) {
+    return a[0] === b[0] && a[1] === b[1] && a[2] === b[2] && a[3] === b[3];
+}
+function equals(a, b) {
+    var a0 = a[0], a1 = a[1], a2 = a[2], a3 = a[3];
+    var b0 = b[0], b1 = b[1], b2 = b[2], b3 = b[3];
+    return Math.abs(a0 - b0) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a0), Math.abs(b0)) && Math.abs(a1 - b1) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a1), Math.abs(b1)) && Math.abs(a2 - b2) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a2), Math.abs(b2)) && Math.abs(a3 - b3) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a3), Math.abs(b3));
+}
+var sub = subtract;
+var mul = multiply;
+var div = divide;
+var dist = distance;
+var sqrDist = squaredDistance;
+var len = length;
+var sqrLen = squaredLength;
+var forEach = function() {
+    var vec = create();
+    return function(a, stride, offset, count, fn, arg) {
+        var i, l;
+        if (!stride) {
+            stride = 4;
+        }
+        if (!offset) {
+            offset = 0;
+        }
+        if (count) {
+            l = Math.min(count * stride + offset, a.length);
+        } else {
+            l = a.length;
+        }
+        for(i = offset; i < l; i += stride){
+            vec[0] = a[i];
+            vec[1] = a[i + 1];
+            vec[2] = a[i + 2];
+            vec[3] = a[i + 3];
+            fn(vec, vec, arg);
+            a[i] = vec[0];
+            a[i + 1] = vec[1];
+            a[i + 2] = vec[2];
+            a[i + 3] = vec[3];
+        }
+        return a;
+    };
+}();
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/quat.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "calculateW",
+    ()=>calculateW,
+    "clone",
+    ()=>clone,
+    "conjugate",
+    ()=>conjugate,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "dot",
+    ()=>dot,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "exp",
+    ()=>exp,
+    "fromEuler",
+    ()=>fromEuler,
+    "fromMat3",
+    ()=>fromMat3,
+    "fromValues",
+    ()=>fromValues,
+    "getAngle",
+    ()=>getAngle,
+    "getAxisAngle",
+    ()=>getAxisAngle,
+    "identity",
+    ()=>identity,
+    "invert",
+    ()=>invert,
+    "len",
+    ()=>len,
+    "length",
+    ()=>length,
+    "lerp",
+    ()=>lerp,
+    "ln",
+    ()=>ln,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "normalize",
+    ()=>normalize,
+    "pow",
+    ()=>pow,
+    "random",
+    ()=>random,
+    "rotateX",
+    ()=>rotateX,
+    "rotateY",
+    ()=>rotateY,
+    "rotateZ",
+    ()=>rotateZ,
+    "rotationTo",
+    ()=>rotationTo,
+    "scale",
+    ()=>scale,
+    "set",
+    ()=>set,
+    "setAxes",
+    ()=>setAxes,
+    "setAxisAngle",
+    ()=>setAxisAngle,
+    "slerp",
+    ()=>slerp,
+    "sqlerp",
+    ()=>sqlerp,
+    "sqrLen",
+    ()=>sqrLen,
+    "squaredLength",
+    ()=>squaredLength,
+    "str",
+    ()=>str
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/mat3.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec3.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec4.js [app-client] (ecmascript)");
+;
+;
+;
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](4);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[0] = 0;
+        out[1] = 0;
+        out[2] = 0;
+    }
+    out[3] = 1;
+    return out;
+}
+function identity(out) {
+    out[0] = 0;
+    out[1] = 0;
+    out[2] = 0;
+    out[3] = 1;
+    return out;
+}
+function setAxisAngle(out, axis, rad) {
+    rad = rad * 0.5;
+    var s = Math.sin(rad);
+    out[0] = s * axis[0];
+    out[1] = s * axis[1];
+    out[2] = s * axis[2];
+    out[3] = Math.cos(rad);
+    return out;
+}
+function getAxisAngle(out_axis, q) {
+    var rad = Math.acos(q[3]) * 2.0;
+    var s = Math.sin(rad / 2.0);
+    if (s > __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"]) {
+        out_axis[0] = q[0] / s;
+        out_axis[1] = q[1] / s;
+        out_axis[2] = q[2] / s;
+    } else {
+        // If s is zero, return any axis (no rotation - axis does not matter)
+        out_axis[0] = 1;
+        out_axis[1] = 0;
+        out_axis[2] = 0;
+    }
+    return rad;
+}
+function getAngle(a, b) {
+    var dotproduct = dot(a, b);
+    return Math.acos(2 * dotproduct * dotproduct - 1);
+}
+function multiply(out, a, b) {
+    var ax = a[0], ay = a[1], az = a[2], aw = a[3];
+    var bx = b[0], by = b[1], bz = b[2], bw = b[3];
+    out[0] = ax * bw + aw * bx + ay * bz - az * by;
+    out[1] = ay * bw + aw * by + az * bx - ax * bz;
+    out[2] = az * bw + aw * bz + ax * by - ay * bx;
+    out[3] = aw * bw - ax * bx - ay * by - az * bz;
+    return out;
+}
+function rotateX(out, a, rad) {
+    rad *= 0.5;
+    var ax = a[0], ay = a[1], az = a[2], aw = a[3];
+    var bx = Math.sin(rad), bw = Math.cos(rad);
+    out[0] = ax * bw + aw * bx;
+    out[1] = ay * bw + az * bx;
+    out[2] = az * bw - ay * bx;
+    out[3] = aw * bw - ax * bx;
+    return out;
+}
+function rotateY(out, a, rad) {
+    rad *= 0.5;
+    var ax = a[0], ay = a[1], az = a[2], aw = a[3];
+    var by = Math.sin(rad), bw = Math.cos(rad);
+    out[0] = ax * bw - az * by;
+    out[1] = ay * bw + aw * by;
+    out[2] = az * bw + ax * by;
+    out[3] = aw * bw - ay * by;
+    return out;
+}
+function rotateZ(out, a, rad) {
+    rad *= 0.5;
+    var ax = a[0], ay = a[1], az = a[2], aw = a[3];
+    var bz = Math.sin(rad), bw = Math.cos(rad);
+    out[0] = ax * bw + ay * bz;
+    out[1] = ay * bw - ax * bz;
+    out[2] = az * bw + aw * bz;
+    out[3] = aw * bw - az * bz;
+    return out;
+}
+function calculateW(out, a) {
+    var x = a[0], y = a[1], z = a[2];
+    out[0] = x;
+    out[1] = y;
+    out[2] = z;
+    out[3] = Math.sqrt(Math.abs(1.0 - x * x - y * y - z * z));
+    return out;
+}
+function exp(out, a) {
+    var x = a[0], y = a[1], z = a[2], w = a[3];
+    var r = Math.sqrt(x * x + y * y + z * z);
+    var et = Math.exp(w);
+    var s = r > 0 ? et * Math.sin(r) / r : 0;
+    out[0] = x * s;
+    out[1] = y * s;
+    out[2] = z * s;
+    out[3] = et * Math.cos(r);
+    return out;
+}
+function ln(out, a) {
+    var x = a[0], y = a[1], z = a[2], w = a[3];
+    var r = Math.sqrt(x * x + y * y + z * z);
+    var t = r > 0 ? Math.atan2(r, w) / r : 0;
+    out[0] = x * t;
+    out[1] = y * t;
+    out[2] = z * t;
+    out[3] = 0.5 * Math.log(x * x + y * y + z * z + w * w);
+    return out;
+}
+function pow(out, a, b) {
+    ln(out, a);
+    scale(out, out, b);
+    exp(out, out);
+    return out;
+}
+function slerp(out, a, b, t) {
+    // benchmarks:
+    //    http://jsperf.com/quaternion-slerp-implementations
+    var ax = a[0], ay = a[1], az = a[2], aw = a[3];
+    var bx = b[0], by = b[1], bz = b[2], bw = b[3];
+    var omega, cosom, sinom, scale0, scale1;
+    // calc cosine
+    cosom = ax * bx + ay * by + az * bz + aw * bw;
+    // adjust signs (if necessary)
+    if (cosom < 0.0) {
+        cosom = -cosom;
+        bx = -bx;
+        by = -by;
+        bz = -bz;
+        bw = -bw;
+    }
+    // calculate coefficients
+    if (1.0 - cosom > __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"]) {
+        // standard case (slerp)
+        omega = Math.acos(cosom);
+        sinom = Math.sin(omega);
+        scale0 = Math.sin((1.0 - t) * omega) / sinom;
+        scale1 = Math.sin(t * omega) / sinom;
+    } else {
+        // "from" and "to" quaternions are very close
+        //  ... so we can do a linear interpolation
+        scale0 = 1.0 - t;
+        scale1 = t;
+    }
+    // calculate final values
+    out[0] = scale0 * ax + scale1 * bx;
+    out[1] = scale0 * ay + scale1 * by;
+    out[2] = scale0 * az + scale1 * bz;
+    out[3] = scale0 * aw + scale1 * bw;
+    return out;
+}
+function random(out) {
+    // Implementation of http://planning.cs.uiuc.edu/node198.html
+    // TODO: Calling random 3 times is probably not the fastest solution
+    var u1 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]();
+    var u2 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]();
+    var u3 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]();
+    var sqrt1MinusU1 = Math.sqrt(1 - u1);
+    var sqrtU1 = Math.sqrt(u1);
+    out[0] = sqrt1MinusU1 * Math.sin(2.0 * Math.PI * u2);
+    out[1] = sqrt1MinusU1 * Math.cos(2.0 * Math.PI * u2);
+    out[2] = sqrtU1 * Math.sin(2.0 * Math.PI * u3);
+    out[3] = sqrtU1 * Math.cos(2.0 * Math.PI * u3);
+    return out;
+}
+function invert(out, a) {
+    var a0 = a[0], a1 = a[1], a2 = a[2], a3 = a[3];
+    var dot = a0 * a0 + a1 * a1 + a2 * a2 + a3 * a3;
+    var invDot = dot ? 1.0 / dot : 0;
+    // TODO: Would be faster to return [0,0,0,0] immediately if dot == 0
+    out[0] = -a0 * invDot;
+    out[1] = -a1 * invDot;
+    out[2] = -a2 * invDot;
+    out[3] = a3 * invDot;
+    return out;
+}
+function conjugate(out, a) {
+    out[0] = -a[0];
+    out[1] = -a[1];
+    out[2] = -a[2];
+    out[3] = a[3];
+    return out;
+}
+function fromMat3(out, m) {
+    // Algorithm in Ken Shoemake's article in 1987 SIGGRAPH course notes
+    // article "Quaternion Calculus and Fast Animation".
+    var fTrace = m[0] + m[4] + m[8];
+    var fRoot;
+    if (fTrace > 0.0) {
+        // |w| > 1/2, may as well choose w > 1/2
+        fRoot = Math.sqrt(fTrace + 1.0); // 2w
+        out[3] = 0.5 * fRoot;
+        fRoot = 0.5 / fRoot; // 1/(4w)
+        out[0] = (m[5] - m[7]) * fRoot;
+        out[1] = (m[6] - m[2]) * fRoot;
+        out[2] = (m[1] - m[3]) * fRoot;
+    } else {
+        // |w| <= 1/2
+        var i = 0;
+        if (m[4] > m[0]) i = 1;
+        if (m[8] > m[i * 3 + i]) i = 2;
+        var j = (i + 1) % 3;
+        var k = (i + 2) % 3;
+        fRoot = Math.sqrt(m[i * 3 + i] - m[j * 3 + j] - m[k * 3 + k] + 1.0);
+        out[i] = 0.5 * fRoot;
+        fRoot = 0.5 / fRoot;
+        out[3] = (m[j * 3 + k] - m[k * 3 + j]) * fRoot;
+        out[j] = (m[j * 3 + i] + m[i * 3 + j]) * fRoot;
+        out[k] = (m[k * 3 + i] + m[i * 3 + k]) * fRoot;
+    }
+    return out;
+}
+function fromEuler(out, x, y, z) {
+    var order = arguments.length > 4 && arguments[4] !== undefined ? arguments[4] : __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ANGLE_ORDER"];
+    var halfToRad = Math.PI / 360;
+    x *= halfToRad;
+    z *= halfToRad;
+    y *= halfToRad;
+    var sx = Math.sin(x);
+    var cx = Math.cos(x);
+    var sy = Math.sin(y);
+    var cy = Math.cos(y);
+    var sz = Math.sin(z);
+    var cz = Math.cos(z);
+    switch(order){
+        case "xyz":
+            out[0] = sx * cy * cz + cx * sy * sz;
+            out[1] = cx * sy * cz - sx * cy * sz;
+            out[2] = cx * cy * sz + sx * sy * cz;
+            out[3] = cx * cy * cz - sx * sy * sz;
+            break;
+        case "xzy":
+            out[0] = sx * cy * cz - cx * sy * sz;
+            out[1] = cx * sy * cz - sx * cy * sz;
+            out[2] = cx * cy * sz + sx * sy * cz;
+            out[3] = cx * cy * cz + sx * sy * sz;
+            break;
+        case "yxz":
+            out[0] = sx * cy * cz + cx * sy * sz;
+            out[1] = cx * sy * cz - sx * cy * sz;
+            out[2] = cx * cy * sz - sx * sy * cz;
+            out[3] = cx * cy * cz + sx * sy * sz;
+            break;
+        case "yzx":
+            out[0] = sx * cy * cz + cx * sy * sz;
+            out[1] = cx * sy * cz + sx * cy * sz;
+            out[2] = cx * cy * sz - sx * sy * cz;
+            out[3] = cx * cy * cz - sx * sy * sz;
+            break;
+        case "zxy":
+            out[0] = sx * cy * cz - cx * sy * sz;
+            out[1] = cx * sy * cz + sx * cy * sz;
+            out[2] = cx * cy * sz + sx * sy * cz;
+            out[3] = cx * cy * cz - sx * sy * sz;
+            break;
+        case "zyx":
+            out[0] = sx * cy * cz - cx * sy * sz;
+            out[1] = cx * sy * cz + sx * cy * sz;
+            out[2] = cx * cy * sz - sx * sy * cz;
+            out[3] = cx * cy * cz + sx * sy * sz;
+            break;
+        default:
+            throw new Error('Unknown angle order ' + order);
+    }
+    return out;
+}
+function str(a) {
+    return "quat(" + a[0] + ", " + a[1] + ", " + a[2] + ", " + a[3] + ")";
+}
+var clone = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["clone"];
+var fromValues = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fromValues"];
+var copy = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["copy"];
+var set = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["set"];
+var add = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["add"];
+var mul = multiply;
+var scale = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["scale"];
+var dot = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["dot"];
+var lerp = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["lerp"];
+var length = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["length"];
+var len = length;
+var squaredLength = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["squaredLength"];
+var sqrLen = squaredLength;
+var normalize = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["normalize"];
+var exactEquals = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["exactEquals"];
+function equals(a, b) {
+    return Math.abs(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec4$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["dot"](a, b)) >= 1 - __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"];
+}
+var rotationTo = function() {
+    var tmpvec3 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["create"]();
+    var xUnitVec3 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fromValues"](1, 0, 0);
+    var yUnitVec3 = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["fromValues"](0, 1, 0);
+    return function(out, a, b) {
+        var dot = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["dot"](a, b);
+        if (dot < -0.999999) {
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cross"](tmpvec3, xUnitVec3, a);
+            if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["len"](tmpvec3) < 0.000001) __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cross"](tmpvec3, yUnitVec3, a);
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["normalize"](tmpvec3, tmpvec3);
+            setAxisAngle(out, tmpvec3, Math.PI);
+            return out;
+        } else if (dot > 0.999999) {
+            out[0] = 0;
+            out[1] = 0;
+            out[2] = 0;
+            out[3] = 1;
+            return out;
+        } else {
+            __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["cross"](tmpvec3, a, b);
+            out[0] = tmpvec3[0];
+            out[1] = tmpvec3[1];
+            out[2] = tmpvec3[2];
+            out[3] = 1 + dot;
+            return normalize(out, out);
+        }
+    };
+}();
+var sqlerp = function() {
+    var temp1 = create();
+    var temp2 = create();
+    return function(out, a, b, c, d, t) {
+        slerp(temp1, a, d, t);
+        slerp(temp2, b, c, t);
+        slerp(out, temp1, temp2, 2 * t * (1 - t));
+        return out;
+    };
+}();
+var setAxes = function() {
+    var matr = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$mat3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["create"]();
+    return function(out, view, right, up) {
+        matr[0] = right[0];
+        matr[3] = right[1];
+        matr[6] = right[2];
+        matr[1] = up[0];
+        matr[4] = up[1];
+        matr[7] = up[2];
+        matr[2] = -view[0];
+        matr[5] = -view[1];
+        matr[8] = -view[2];
+        return normalize(out, fromMat3(out, matr));
+    };
+}();
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/quat.js [app-client] (ecmascript) <export * as quat>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "quat",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$quat$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/quat.js [app-client] (ecmascript)");
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec2.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "add",
+    ()=>add,
+    "angle",
+    ()=>angle,
+    "ceil",
+    ()=>ceil,
+    "clone",
+    ()=>clone,
+    "copy",
+    ()=>copy,
+    "create",
+    ()=>create,
+    "cross",
+    ()=>cross,
+    "dist",
+    ()=>dist,
+    "distance",
+    ()=>distance,
+    "div",
+    ()=>div,
+    "divide",
+    ()=>divide,
+    "dot",
+    ()=>dot,
+    "equals",
+    ()=>equals,
+    "exactEquals",
+    ()=>exactEquals,
+    "floor",
+    ()=>floor,
+    "forEach",
+    ()=>forEach,
+    "fromValues",
+    ()=>fromValues,
+    "inverse",
+    ()=>inverse,
+    "len",
+    ()=>len,
+    "length",
+    ()=>length,
+    "lerp",
+    ()=>lerp,
+    "max",
+    ()=>max,
+    "min",
+    ()=>min,
+    "mul",
+    ()=>mul,
+    "multiply",
+    ()=>multiply,
+    "negate",
+    ()=>negate,
+    "normalize",
+    ()=>normalize,
+    "random",
+    ()=>random,
+    "rotate",
+    ()=>rotate,
+    "round",
+    ()=>round,
+    "scale",
+    ()=>scale,
+    "scaleAndAdd",
+    ()=>scaleAndAdd,
+    "set",
+    ()=>set,
+    "signedAngle",
+    ()=>signedAngle,
+    "sqrDist",
+    ()=>sqrDist,
+    "sqrLen",
+    ()=>sqrLen,
+    "squaredDistance",
+    ()=>squaredDistance,
+    "squaredLength",
+    ()=>squaredLength,
+    "str",
+    ()=>str,
+    "sub",
+    ()=>sub,
+    "subtract",
+    ()=>subtract,
+    "transformMat2",
+    ()=>transformMat2,
+    "transformMat2d",
+    ()=>transformMat2d,
+    "transformMat3",
+    ()=>transformMat3,
+    "transformMat4",
+    ()=>transformMat4,
+    "zero",
+    ()=>zero
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/common.js [app-client] (ecmascript)");
+;
+function create() {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](2);
+    if (__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"] != Float32Array) {
+        out[0] = 0;
+        out[1] = 0;
+    }
+    return out;
+}
+function clone(a) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](2);
+    out[0] = a[0];
+    out[1] = a[1];
+    return out;
+}
+function fromValues(x, y) {
+    var out = new __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ARRAY_TYPE"](2);
+    out[0] = x;
+    out[1] = y;
+    return out;
+}
+function copy(out, a) {
+    out[0] = a[0];
+    out[1] = a[1];
+    return out;
+}
+function set(out, x, y) {
+    out[0] = x;
+    out[1] = y;
+    return out;
+}
+function add(out, a, b) {
+    out[0] = a[0] + b[0];
+    out[1] = a[1] + b[1];
+    return out;
+}
+function subtract(out, a, b) {
+    out[0] = a[0] - b[0];
+    out[1] = a[1] - b[1];
+    return out;
+}
+function multiply(out, a, b) {
+    out[0] = a[0] * b[0];
+    out[1] = a[1] * b[1];
+    return out;
+}
+function divide(out, a, b) {
+    out[0] = a[0] / b[0];
+    out[1] = a[1] / b[1];
+    return out;
+}
+function ceil(out, a) {
+    out[0] = Math.ceil(a[0]);
+    out[1] = Math.ceil(a[1]);
+    return out;
+}
+function floor(out, a) {
+    out[0] = Math.floor(a[0]);
+    out[1] = Math.floor(a[1]);
+    return out;
+}
+function min(out, a, b) {
+    out[0] = Math.min(a[0], b[0]);
+    out[1] = Math.min(a[1], b[1]);
+    return out;
+}
+function max(out, a, b) {
+    out[0] = Math.max(a[0], b[0]);
+    out[1] = Math.max(a[1], b[1]);
+    return out;
+}
+function round(out, a) {
+    out[0] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[0]);
+    out[1] = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["round"](a[1]);
+    return out;
+}
+function scale(out, a, b) {
+    out[0] = a[0] * b;
+    out[1] = a[1] * b;
+    return out;
+}
+function scaleAndAdd(out, a, b, scale) {
+    out[0] = a[0] + b[0] * scale;
+    out[1] = a[1] + b[1] * scale;
+    return out;
+}
+function distance(a, b) {
+    var x = b[0] - a[0], y = b[1] - a[1];
+    return Math.sqrt(x * x + y * y);
+}
+function squaredDistance(a, b) {
+    var x = b[0] - a[0], y = b[1] - a[1];
+    return x * x + y * y;
+}
+function length(a) {
+    var x = a[0], y = a[1];
+    return Math.sqrt(x * x + y * y);
+}
+function squaredLength(a) {
+    var x = a[0], y = a[1];
+    return x * x + y * y;
+}
+function negate(out, a) {
+    out[0] = -a[0];
+    out[1] = -a[1];
+    return out;
+}
+function inverse(out, a) {
+    out[0] = 1.0 / a[0];
+    out[1] = 1.0 / a[1];
+    return out;
+}
+function normalize(out, a) {
+    var x = a[0], y = a[1];
+    var len = x * x + y * y;
+    if (len > 0) {
+        //TODO: evaluate use of glm_invsqrt here?
+        len = 1 / Math.sqrt(len);
+    }
+    out[0] = a[0] * len;
+    out[1] = a[1] * len;
+    return out;
+}
+function dot(a, b) {
+    return a[0] * b[0] + a[1] * b[1];
+}
+function cross(out, a, b) {
+    var z = a[0] * b[1] - a[1] * b[0];
+    out[0] = out[1] = 0;
+    out[2] = z;
+    return out;
+}
+function lerp(out, a, b, t) {
+    var ax = a[0], ay = a[1];
+    out[0] = ax + t * (b[0] - ax);
+    out[1] = ay + t * (b[1] - ay);
+    return out;
+}
+function random(out, scale) {
+    scale = scale === undefined ? 1.0 : scale;
+    var r = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RANDOM"]() * 2.0 * Math.PI;
+    out[0] = Math.cos(r) * scale;
+    out[1] = Math.sin(r) * scale;
+    return out;
+}
+function transformMat2(out, a, m) {
+    var x = a[0], y = a[1];
+    out[0] = m[0] * x + m[2] * y;
+    out[1] = m[1] * x + m[3] * y;
+    return out;
+}
+function transformMat2d(out, a, m) {
+    var x = a[0], y = a[1];
+    out[0] = m[0] * x + m[2] * y + m[4];
+    out[1] = m[1] * x + m[3] * y + m[5];
+    return out;
+}
+function transformMat3(out, a, m) {
+    var x = a[0], y = a[1];
+    out[0] = m[0] * x + m[3] * y + m[6];
+    out[1] = m[1] * x + m[4] * y + m[7];
+    return out;
+}
+function transformMat4(out, a, m) {
+    var x = a[0];
+    var y = a[1];
+    out[0] = m[0] * x + m[4] * y + m[12];
+    out[1] = m[1] * x + m[5] * y + m[13];
+    return out;
+}
+function rotate(out, a, b, rad) {
+    //Translate point to the origin
+    var p0 = a[0] - b[0], p1 = a[1] - b[1], sinC = Math.sin(rad), cosC = Math.cos(rad);
+    //perform rotation and translate to correct position
+    out[0] = p0 * cosC - p1 * sinC + b[0];
+    out[1] = p0 * sinC + p1 * cosC + b[1];
+    return out;
+}
+function angle(a, b) {
+    var ax = a[0], ay = a[1], bx = b[0], by = b[1];
+    return Math.abs(Math.atan2(ay * bx - ax * by, ax * bx + ay * by));
+}
+function signedAngle(a, b) {
+    var ax = a[0], ay = a[1], bx = b[0], by = b[1];
+    return Math.atan2(ax * by - ay * bx, ax * bx + ay * by);
+}
+function zero(out) {
+    out[0] = 0.0;
+    out[1] = 0.0;
+    return out;
+}
+function str(a) {
+    return "vec2(" + a[0] + ", " + a[1] + ")";
+}
+function exactEquals(a, b) {
+    return a[0] === b[0] && a[1] === b[1];
+}
+function equals(a, b) {
+    var a0 = a[0], a1 = a[1];
+    var b0 = b[0], b1 = b[1];
+    return Math.abs(a0 - b0) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a0), Math.abs(b0)) && Math.abs(a1 - b1) <= __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$common$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["EPSILON"] * Math.max(1.0, Math.abs(a1), Math.abs(b1));
+}
+var len = length;
+var sub = subtract;
+var mul = multiply;
+var div = divide;
+var dist = distance;
+var sqrDist = squaredDistance;
+var sqrLen = squaredLength;
+var forEach = function() {
+    var vec = create();
+    return function(a, stride, offset, count, fn, arg) {
+        var i, l;
+        if (!stride) {
+            stride = 2;
+        }
+        if (!offset) {
+            offset = 0;
+        }
+        if (count) {
+            l = Math.min(count * stride + offset, a.length);
+        } else {
+            l = a.length;
+        }
+        for(i = offset; i < l; i += stride){
+            vec[0] = a[i];
+            vec[1] = a[i + 1];
+            fn(vec, vec, arg);
+            a[i] = vec[0];
+            a[i + 1] = vec[1];
+        }
+        return a;
+    };
+}();
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec2.js [app-client] (ecmascript) <export * as vec2>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "vec2",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec2$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec2.js [app-client] (ecmascript)");
+}),
+"[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec3.js [app-client] (ecmascript) <export * as vec3>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "vec3",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gl$2d$matrix$2f$esm$2f$vec3$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/gl-matrix/esm/vec3.js [app-client] (ecmascript)");
+}),
+]);
+
+//# sourceMappingURL=vs_code_workspace_react%20work_company%20portfolio_frontend_dcc0fa74._.js.map
