@@ -1,0 +1,3 @@
+module.exports=[95118,(a,b,c)=>{"use strict";b.exports=a.r(73116).vendored["react-ssr"].ReactDOM},4713,a=>{a.v("/_next/static/media/img1.5796be7d.jpg")},84570,a=>{a.v("/_next/static/media/img2.81409674.jpg")},11561,a=>{a.v("/_next/static/media/img3.363e90cc.jpg")},20467,a=>{a.v("/_next/static/media/img4.33409840.jpg")},93888,a=>{a.v("/_next/static/media/img5.02d779c4.jpg")},77174,a=>{a.v("/_next/static/media/img6.7e37534d.jpg")}];
+
+//# sourceMappingURL=vs_code_workspace_react%20work_company%20portfolio_frontend_b717fd66._.js.map
