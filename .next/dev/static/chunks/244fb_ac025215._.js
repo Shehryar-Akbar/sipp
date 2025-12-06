@@ -15461,7 +15461,8 @@ const configEnv = ("TURBOPACK compile-time value", {
             "pathname": ("TURBOPACK compile-time value", "**"),
             "search": ("TURBOPACK compile-time value", "")
         })
-    ])
+    ]),
+    "output": ("TURBOPACK compile-time value", "standalone")
 });
 if (typeof window === 'undefined') {
     ;
@@ -15816,7 +15817,8 @@ function getImageProps(imgProps) {
                     "pathname": ("TURBOPACK compile-time value", "**"),
                     "search": ("TURBOPACK compile-time value", "")
                 })
-            ])
+            ]),
+            "output": ("TURBOPACK compile-time value", "standalone")
         })
     });
     // Normally we don't care about undefined props because we pass to JSX,

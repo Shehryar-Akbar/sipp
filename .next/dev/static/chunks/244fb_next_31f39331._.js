@@ -2827,9 +2827,7 @@ const configEnv = ("TURBOPACK compile-time value", {
         ("TURBOPACK compile-time value", 384)
     ]),
     "qualities": ("TURBOPACK compile-time value", [
-        ("TURBOPACK compile-time value", 75),
-        ("TURBOPACK compile-time value", 70),
-        ("TURBOPACK compile-time value", 70)
+        ("TURBOPACK compile-time value", 75)
     ]),
     "path": ("TURBOPACK compile-time value", "/_next/image"),
     "loader": ("TURBOPACK compile-time value", "default"),
@@ -2842,7 +2840,8 @@ const configEnv = ("TURBOPACK compile-time value", {
             "pathname": ("TURBOPACK compile-time value", "**"),
             "search": ("TURBOPACK compile-time value", "")
         })
-    ])
+    ]),
+    "output": ("TURBOPACK compile-time value", "standalone")
 });
 if (typeof window === 'undefined') {
     ;
@@ -3184,9 +3183,7 @@ function getImageProps(imgProps) {
                 ("TURBOPACK compile-time value", 384)
             ]),
             "qualities": ("TURBOPACK compile-time value", [
-                ("TURBOPACK compile-time value", 75),
-                ("TURBOPACK compile-time value", 70),
-                ("TURBOPACK compile-time value", 70)
+                ("TURBOPACK compile-time value", 75)
             ]),
             "path": ("TURBOPACK compile-time value", "/_next/image"),
             "loader": ("TURBOPACK compile-time value", "default"),
@@ -3199,7 +3196,8 @@ function getImageProps(imgProps) {
                     "pathname": ("TURBOPACK compile-time value", "**"),
                     "search": ("TURBOPACK compile-time value", "")
                 })
-            ])
+            ]),
+            "output": ("TURBOPACK compile-time value", "standalone")
         })
     });
     // Normally we don't care about undefined props because we pass to JSX,

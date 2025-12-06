@@ -84,7 +84,7 @@ export default function index({ modal, projects }) {
                 style={{ backgroundColor: color }}
                 key={`modal_${index}`}
               >
-                <Image src={src} width={300} height={0} alt="image"  />
+                <Image src={src} width={300} height={0} alt="image"/>
               </div>
             );
           })}
@@ -93,14 +93,3 @@ export default function index({ modal, projects }) {
     </>
   );
 }
-
-{/* <Image
-  src={src}
-  width={100}
-  height={100}
-  alt="image"
-  style={{
-    width: "100%",
-    height: "auto",
-  }}
-/>; */}

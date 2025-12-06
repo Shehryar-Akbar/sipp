@@ -81,7 +81,6 @@ const Header = () => {
                       }`}
                     />
                   </Link>
-
                 </div>
               );
             })}
@@ -105,12 +104,12 @@ const Header = () => {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="md:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20  h-[60vh]!">
+          <div className="md:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]">
             {navLinks.map((link) => (
               <Link
                 key={link.name}
                 href={link.href}
-                className="block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0"
+                className="block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100"
                 onClick={() => {
                   setIsMobileMenuOpen(false);
                 }}
@@ -120,7 +119,7 @@ const Header = () => {
             ))}
             <Link
               href="/contact"
-              className="block mt-4 bg-linear-to-r from-blue-600 to-purple-600 text-white sm:text-xl max-sm:text-xl px-6 py-3 rounded-full font-medium text-center"
+              className="block mt-4 bg-linear-to-r from-blue-600 to-purple-600 text-white sm:text-xl max-sm:text-xl px-6 py-3 rounded-full font-medium text-center transition-all duration-300 hover:shadow-lg hover:scale-105 active:scale-95 hover:from-blue-700 hover:to-purple-700"
               onClick={() => setIsMobileMenuOpen(false)}
             >
               Get in Touch

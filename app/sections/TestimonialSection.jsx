@@ -176,7 +176,7 @@ const TestimonialSection = () => {
           </Swiper>
 
           {/* Custom Navigation Buttons */}
-          <button className="swiper-button-prev-custom absolute -left-4! sm:left-1 md:left-2 top-1/2 -translate-y-1/2 z-20 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 bg-[#3B82F6] rounded-full! shadow-lg flex items-center justify-center cursor-pointer hover:bg-gray-700 transition-colors">
+          <button className="swiper-button-prev-custom absolute -left-4! sm:left-1 md:left-2 top-1/2 -translate-y-5/6 z-20 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 bg-[#3B82F6] rounded-full! shadow-lg flex items-center justify-center cursor-pointer hover:bg-gray-700 transition-colors">
             <svg
               className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6 text-gray-700 dark:text-gray-300"
               fill="none"
@@ -191,7 +191,7 @@ const TestimonialSection = () => {
               />
             </svg>
           </button>
-          <button className="swiper-button-next-custom absolute -right-4! sm:right-1 md:right-2 top-1/2 -translate-y-1/2 z-20 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 bg-[#3B82F6] rounded-full! shadow-lg flex items-center justify-center cursor-pointer hover:bg-gray-700 transition-colors">
+          <button className="swiper-button-next-custom absolute -right-4! sm:right-1 md:right-2 top-1/2 -translate-y-5/6 z-20 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 bg-[#3B82F6] rounded-full! shadow-lg flex items-center justify-center cursor-pointer hover:bg-gray-700 transition-colors">
             <svg
               className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6 text-gray-700 dark:text-gray-300"
               fill="none"

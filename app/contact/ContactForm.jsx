@@ -314,7 +314,7 @@ const ContactForm = () => {
                           <h4 className="font-bold text-gray-900 mb-1">
                             {item.title}
                           </h4>
-                          <p className="text-sm text-gray-600">{item.desc}</p>
+                          <p className="text-sm text-gray-600 text-center">{item.desc}</p>
                         </div>
                       </div>
                     ))}

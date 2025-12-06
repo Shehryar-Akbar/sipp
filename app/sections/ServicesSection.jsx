@@ -35,7 +35,7 @@ const ServicesSection = () => {
                     digital files for fast jobs.
                   </p>
                 </div>
-                <Link href="service-single.html" className="theme-btn-s3">
+                <Link href={'/services'} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -52,7 +52,7 @@ const ServicesSection = () => {
                     to binding and finishing the final printed product.
                   </p>
                 </div>
-                <Link href="service-single.html" className="theme-btn-s3">
+                <Link href={'/services'} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -69,7 +69,7 @@ const ServicesSection = () => {
                     businesses and NGOs to quickly boost brand visibility.
                   </p>
                 </div>
-                <Link href="service-single.html" className="theme-btn-s3">
+                <Link href={'/services'} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -87,7 +87,7 @@ const ServicesSection = () => {
                     appeal.
                   </p>
                 </div>
-                <Link href="service-single.html" className="theme-btn-s3">
+                <Link href={'/services'} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -96,7 +96,7 @@ const ServicesSection = () => {
           <div className="service-view-more">
             <div className="row justify-content-center">
               <div className="col-lg-6 col-12">
-                <Link href="service.html" className="theme-btn-s4">
+                <Link href={'/services'} className="theme-btn-s4">
                   View More<i className="fi flaticon-right-arrow-1"></i>
                 </Link>
               </div>
@@ -104,7 +104,8 @@ const ServicesSection = () => {
           </div>
         </div>
       </div>
-      <div className="technut-service-shape-1"></div>
+      <div className="technut-service-shapeInitial page load
+-1"></div>
       <div className="technut-service-shape-2"></div>
       <div className="technut-service-shape-3">
         <svg width="101" height="84" viewBox="0 0 101 84" fill="none">

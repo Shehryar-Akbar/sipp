@@ -5,6 +5,7 @@ import VisualEffectsSlider from "./VisualEffectsSlider";
 import CeoMessage from "./CeoMessage";
 import TeamMembers from "./TeamMembers";
 import VisionMisson from "./Accordion";
+import Bubbles from "../components/Bubbles";
 
 const AboutHero = () => {
   return (
@@ -21,6 +22,7 @@ const page = () => {
       <CeoMessage />
       <TeamMembers />
       <ContactSection />
+      <Bubbles />
     </>
   );
 };

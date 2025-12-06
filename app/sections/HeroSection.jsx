@@ -53,7 +53,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40">
         <div
           className="hero-heading-container pointer-events-auto mx-auto text-center
-          lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-8"
+          lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20"
         >
           <h1 className="font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!">
             Best Printing Services in Afghanistan. We Print What You Think

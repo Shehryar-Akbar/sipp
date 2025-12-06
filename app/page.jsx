@@ -5,6 +5,7 @@ import ScrollStackDemo from "./components/ScrollStack";
 import NumberCount from "./sections/NumberCount";
 import ContactSection from "./sections/ContactSection";
 import TestimonialSection from "./sections/TestimonialSection";
+import Bubbles from "./components/Bubbles";
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <ServicesSection />
       <ContactSection />
       <TestimonialSection />
+      <Bubbles />
     </div>
   );
 }

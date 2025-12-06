@@ -110,7 +110,7 @@ export default function ScrollStackDemo() {
   return (
     <div className="w-full bg-gray-100">
       <ScrollStack>
-        <ScrollStackItem itemClassName="bg-blue-500 text-white">
+        <ScrollStackItem itemClassName="bg-[#f72585] text-white">
           <div className="flex justify-center items-center h-full relative">
             <div className="md:w-1/2">
               <h2 className="text-5xl! max-sm:text-2xl! leading-none max-sm:w-[70%] text-white font-bold mb-6">
@@ -129,7 +129,7 @@ export default function ScrollStackDemo() {
           </div>
         </ScrollStackItem>
 
-        <ScrollStackItem itemClassName="bg-purple-500 text-white">
+        <ScrollStackItem itemClassName="bg-[#7f00ff] text-white">
           <div className="flex justify-center items-center h-full relative">
             <div className="md:w-1/2">
               <h2 className="text-5xl! max-sm:text-2xl! text-white max-sm:w-[70%] leading-none font-bold mb-6">
@@ -149,7 +149,7 @@ export default function ScrollStackDemo() {
           </div>
         </ScrollStackItem>
 
-        <ScrollStackItem itemClassName="bg-pink-500 text-white">
+        <ScrollStackItem itemClassName="bg-[#4cc9f0] text-white">
           <div className="flex justify-center items-center h-full relative">
             <div className="md:w-1/2">
               <h2 className="text-5xl! max-sm:text-2xl! text-white leading-none max-sm:w-[60%] font-bold mb-6">
@@ -169,7 +169,7 @@ export default function ScrollStackDemo() {
           </div>
         </ScrollStackItem>
 
-        <ScrollStackItem itemClassName="bg-purple-600 text-white">
+        <ScrollStackItem itemClassName="bg-[#4361ee] text-white">
           <div className="flex justify-center items-center h-full relative">
             <div className="md:w-1/2">
               <h2 className="text-5xl! max-sm:text-2xl! text-white max-sm:w-[60%] leading-none font-bold mb-6">
