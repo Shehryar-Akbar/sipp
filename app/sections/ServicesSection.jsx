@@ -5,6 +5,7 @@ import Icon1 from "../../public/service/Icon1.svg";
 import Icon2 from "../../public/service/Icon2.svg";
 import Icon3 from "../../public/service/Icon3.svg";
 import Icon4 from "../../public/service/Icon4.svg";
+import { BookOpen, Gift, Package, Printer } from "lucide-react";
 
 const ServicesSection = () => {
   return (
@@ -25,17 +26,17 @@ const ServicesSection = () => {
             <div className="col-lg-3 col-md-6 col-12">
               <div className="technut-service-card">
                 <div className="image">
-                  <Image src={Icon1} alt="service Image one" />
+                  <Printer size={60} />
                 </div>
                 <div className="text">
                   <h2 className="leading-none!">Offset & Digital Printing</h2>
-                  <p className="leading-none!">
-                    Offset printing uses plates for cost-effective high-volume
-                    production, while digital printing prints directly from
-                    digital files for fast jobs.
+                  <p className="leading-none! text-xl! max-sm:text-lg! text-[1rem]">
+                    Offset printing uses plates for cheap mass production, while
+                    digital printing prints directly from digital files for fast
+                    jobs.
                   </p>
                 </div>
-                <Link href={'/services'} className="theme-btn-s3">
+                <Link href={"/services"} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -43,16 +44,16 @@ const ServicesSection = () => {
             <div className="col-lg-3 col-md-6 col-12">
               <div className="technut-service-card">
                 <div className="image">
-                  <Image src={Icon2} alt="service Image one" />
+                  <BookOpen size={60} />
                 </div>
                 <div className="text">
                   <h2 className="leading-none!">Book & Publication Printing</h2>
-                  <p className="leading-none!">
+                  <p className="leading-none! text-xl! max-sm:text-lg! text-[1rem]">
                     It encompasses the entire process from prepress preparation
                     to binding and finishing the final printed product.
                   </p>
                 </div>
-                <Link href={'/services'} className="theme-btn-s3">
+                <Link href={"/services"} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -60,16 +61,16 @@ const ServicesSection = () => {
             <div className="col-lg-3 col-md-6 col-12">
               <div className="technut-service-card">
                 <div className="image">
-                  <Image src={Icon3} alt="service Image one" />
+                  <Gift size={60} />
                 </div>
                 <div className="text">
                   <h2 className="leading-none!">Promotional Products</h2>
-                  <p className="leading-none!">
+                  <p className="leading-none! text-xl! max-sm:text-lg! text-[1rem]">
                     Promotional products are branded giveaway items used by
                     businesses and NGOs to quickly boost brand visibility.
                   </p>
                 </div>
-                <Link href={'/services'} className="theme-btn-s3">
+                <Link href={"/services"} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -77,17 +78,17 @@ const ServicesSection = () => {
             <div className="col-lg-3 col-md-6 col-12">
               <div className="technut-service-card">
                 <div className="image">
-                  <Image src={Icon4} alt="service Image one" />
+                  <Package size={60} />
                 </div>
                 <div className="text">
                   <h2 className="leading-none!">Packaging & Label Printing</h2>
-                  <p className="leading-none!">
-                    This service focuses on printing high-quality **boxes, bags,
-                    and labels** essential for product protection and market
+                  <p className="leading-none! text-xl! max-sm:text-lg! text-[1rem]">
+                    This service focuses on printing high-quality boxes, bags,
+                    and labels essential for product protection and market
                     appeal.
                   </p>
                 </div>
-                <Link href={'/services'} className="theme-btn-s3">
+                <Link href={"/services"} className="theme-btn-s3">
                   Explore
                 </Link>
               </div>
@@ -96,7 +97,7 @@ const ServicesSection = () => {
           <div className="service-view-more">
             <div className="row justify-content-center">
               <div className="col-lg-6 col-12">
-                <Link href={'/services'} className="theme-btn-s4">
+                <Link href={"/services"} className="theme-btn-s4">
                   View More<i className="fi flaticon-right-arrow-1"></i>
                 </Link>
               </div>
@@ -104,8 +105,10 @@ const ServicesSection = () => {
           </div>
         </div>
       </div>
-      <div className="technut-service-shapeInitial page load
--1"></div>
+      <div
+        className="technut-service-shapeInitial page load
+-1"
+      ></div>
       <div className="technut-service-shape-2"></div>
       <div className="technut-service-shape-3">
         <svg width="101" height="84" viewBox="0 0 101 84" fill="none">

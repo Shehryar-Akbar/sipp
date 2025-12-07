@@ -104,7 +104,7 @@ const ContactForm = ()=>{
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-xl text-gray-600",
+                                            className: "sm:text-xl! max-sm:text-lg! text-gray-600",
                                             children: "Fill out the form below and we'll get back to you within 24 hours"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -128,7 +128,7 @@ const ContactForm = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                             htmlFor: "first_name",
-                                                            className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                            className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                             children: "First Name *"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -159,7 +159,7 @@ const ContactForm = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                             htmlFor: "last_name",
-                                                            className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                            className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                             children: "Last Name *"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -199,7 +199,7 @@ const ContactForm = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                             htmlFor: "email",
-                                                            className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                            className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                             children: "Email Address *"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -230,7 +230,7 @@ const ContactForm = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                             htmlFor: "phone",
-                                                            className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                            className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                             children: "Phone Number"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -266,7 +266,7 @@ const ContactForm = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                     htmlFor: "company",
-                                                    className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                    className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                     children: "Company Name"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -296,7 +296,7 @@ const ContactForm = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                     htmlFor: "service_type",
-                                                    className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                    className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                     children: "Service Interested In *"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -343,7 +343,7 @@ const ContactForm = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                                     htmlFor: "message",
-                                                    className: "block text-sm font-semibold text-gray-900 mb-2",
+                                                    className: "block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2",
                                                     children: "Your Message *"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
@@ -412,7 +412,7 @@ const ContactForm = ()=>{
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                             type: "submit",
                                             disabled: loading,
-                                            className: "w-full rounded-full! bg-yellow-400 hover:bg-yellow-500 disabled:bg-gray-400 text-black font-semibold py-4 px-6 transition-all duration-300 flex items-center justify-center gap-2 shadow-lg hover:shadow-xl",
+                                            className: "w-full rounded-full! bg-yellow-400 hover:bg-yellow-500 disabled:bg-gray-400 text-black font-semibold py-4 px-6 transition-all duration-300 flex items-center justify-center gap-2 shadow-lg hover:shadow-xl max-sm:text-lg! sm:text-xl!",
                                             children: loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {

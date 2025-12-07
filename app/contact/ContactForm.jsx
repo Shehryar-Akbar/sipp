@@ -91,7 +91,7 @@ const ContactForm = () => {
                 <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
                   Get in Touch
                 </h2>
-                <p className="text-xl text-gray-600">
+                <p className="sm:text-xl! max-sm:text-lg! text-gray-600">
                   Fill out the form below and we'll get back to you within 24
                   hours
                 </p>
@@ -103,7 +103,7 @@ const ContactForm = () => {
                   <div>
                     <label
                       htmlFor="first_name"
-                      className="block text-sm font-semibold text-gray-900 mb-2"
+                      className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                     >
                       First Name *
                     </label>
@@ -121,7 +121,7 @@ const ContactForm = () => {
                   <div>
                     <label
                       htmlFor="last_name"
-                      className="block text-sm font-semibold text-gray-900 mb-2"
+                      className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                     >
                       Last Name *
                     </label>
@@ -143,7 +143,7 @@ const ContactForm = () => {
                   <div>
                     <label
                       htmlFor="email"
-                      className="block text-sm font-semibold text-gray-900 mb-2"
+                      className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                     >
                       Email Address *
                     </label>
@@ -161,7 +161,7 @@ const ContactForm = () => {
                   <div>
                     <label
                       htmlFor="phone"
-                      className="block text-sm font-semibold text-gray-900 mb-2"
+                      className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                     >
                       Phone Number
                     </label>
@@ -181,7 +181,7 @@ const ContactForm = () => {
                 <div>
                   <label
                     htmlFor="company"
-                    className="block text-sm font-semibold text-gray-900 mb-2"
+                    className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                   >
                     Company Name
                   </label>
@@ -200,7 +200,7 @@ const ContactForm = () => {
                 <div>
                   <label
                     htmlFor="service_type"
-                    className="block text-sm font-semibold text-gray-900 mb-2"
+                    className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                   >
                     Service Interested In *
                   </label>
@@ -225,7 +225,7 @@ const ContactForm = () => {
                 <div>
                   <label
                     htmlFor="message"
-                    className="block text-sm font-semibold text-gray-900 mb-2"
+                    className="block max-sm:text-lg! sm:text-xl! font-semibold text-gray-900 mb-2"
                   >
                     Your Message *
                   </label>
@@ -263,7 +263,7 @@ const ContactForm = () => {
                 <button
                   type="submit"
                   disabled={loading}
-                  className="w-full rounded-full! bg-yellow-400 hover:bg-yellow-500 disabled:bg-gray-400 text-black font-semibold py-4 px-6 transition-all duration-300 flex items-center justify-center gap-2 shadow-lg hover:shadow-xl"
+                  className="w-full rounded-full! bg-yellow-400 hover:bg-yellow-500 disabled:bg-gray-400 text-black font-semibold py-4 px-6 transition-all duration-300 flex items-center justify-center gap-2 shadow-lg hover:shadow-xl max-sm:text-lg! sm:text-xl!"
                 >
                   {loading ? (
                     <>

@@ -79,35 +79,35 @@ function AboutSection() {
                         className: "object-cover"
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                        lineNumber: 12,
+                        lineNumber: 11,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                    lineNumber: 11,
+                    lineNumber: 10,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "mt-10 md:mt-0",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight mb-5!",
+                            className: "text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!",
                             children: "Leading Printing Press in Kabul, Afghanistan"
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                            lineNumber: 22,
+                            lineNumber: 21,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-gray-600 mb-4 text-base sm:text-lg lg:text-xl leading-relaxed max-sm:leading-tight!",
+                            className: "text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight!",
                             children: "Strengths Innovation is one of the best printing services in Afghanistan, registered with the Afghan Investment Support Agency (AISA) since 2002. With over 14 years of dedication and professional excellence, we have become the most trusted name in commercial printing across Kabul and beyond."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                            lineNumber: 26,
+                            lineNumber: 25,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-gray-600 mb-8 text-base sm:text-lg lg:text-xl leading-relaxed max-sm:leading-tight!",
+                            className: "text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight!",
                             children: "Our state-of-the-art printing facility offers comprehensive solutions for all your printing needs—from corporate branding materials to large-scale commercial projects. We combine cutting-edge technology with skilled craftsmanship to deliver international quality standards at competitive prices."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
@@ -122,7 +122,7 @@ function AboutSection() {
                                     color: "text-purple-600"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                                    lineNumber: 42,
+                                    lineNumber: 43,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(FeatureItem, {
@@ -130,7 +130,7 @@ function AboutSection() {
                                     color: "text-purple-600"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                                    lineNumber: 43,
+                                    lineNumber: 47,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(FeatureItem, {
@@ -138,7 +138,7 @@ function AboutSection() {
                                     color: "text-purple-600"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                                    lineNumber: 44,
+                                    lineNumber: 51,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(FeatureItem, {
@@ -146,19 +146,19 @@ function AboutSection() {
                                     color: "text-purple-600"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                                    lineNumber: 45,
+                                    lineNumber: 55,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                            lineNumber: 41,
+                            lineNumber: 42,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                    lineNumber: 21,
+                    lineNumber: 20,
                     columnNumber: 9
                 }, this)
             ]
@@ -182,12 +182,12 @@ const FeatureItem = ({ text, color })=>/*#__PURE__*/ (0, __TURBOPACK__imported__
                     className: "w-5 h-5"
                 }, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                    lineNumber: 56,
+                    lineNumber: 69,
                     columnNumber: 7
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                lineNumber: 55,
+                lineNumber: 68,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -195,13 +195,13 @@ const FeatureItem = ({ text, color })=>/*#__PURE__*/ (0, __TURBOPACK__imported__
                 children: text
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-                lineNumber: 58,
+                lineNumber: 71,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/AboutSection.jsx",
-        lineNumber: 54,
+        lineNumber: 67,
         columnNumber: 3
     }, ("TURBOPACK compile-time value", void 0));
 }),
@@ -300,6 +300,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__
 var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon2$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon2$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon2.svg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon2.svg (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon3$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon3$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon3.svg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon3.svg (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon4$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon4$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon4.svg.mjs { IMAGE => "[project]/vs_code_workspace/react work/company portfolio/frontend/public/service/Icon4.svg (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/lucide-react/dist/esm/icons/book-open.js [app-rsc] (ecmascript) <export default as BookOpen>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$gift$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Gift$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/lucide-react/dist/esm/icons/gift.js [app-rsc] (ecmascript) <export default as Gift>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/lucide-react/dist/esm/icons/package.js [app-rsc] (ecmascript) <export default as Package>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$printer$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Printer$3e$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/lucide-react/dist/esm/icons/printer.js [app-rsc] (ecmascript) <export default as Printer>");
+;
 ;
 ;
 ;
@@ -328,7 +333,7 @@ const ServicesSection = ()=>{
                                                 children: "//"
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                lineNumber: 17,
+                                                lineNumber: 18,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             " OUR SERVICES ",
@@ -336,36 +341,36 @@ const ServicesSection = ()=>{
                                                 children: "//"
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                lineNumber: 17,
+                                                lineNumber: 18,
                                                 columnNumber: 50
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 16,
+                                        lineNumber: 17,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "Perfection Starts Here"
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 19,
+                                        lineNumber: 20,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                lineNumber: 15,
+                                lineNumber: 16,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                            lineNumber: 14,
+                            lineNumber: 15,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                        lineNumber: 13,
+                        lineNumber: 14,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -381,17 +386,16 @@ const ServicesSection = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "image",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon1$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon1$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                                                        alt: "service Image one"
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$printer$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Printer$3e$__["Printer"], {
+                                                        size: 60
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                        lineNumber: 28,
+                                                        lineNumber: 29,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 27,
+                                                    lineNumber: 28,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -402,41 +406,41 @@ const ServicesSection = ()=>{
                                                             children: "Offset & Digital Printing"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 31,
+                                                            lineNumber: 32,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "leading-none!",
-                                                            children: "Offset printing uses plates for cost-effective high-volume production, while digital printing prints directly from digital files for fast jobs."
+                                                            className: "leading-none! text-xl! max-sm:text-lg! text-[1rem]",
+                                                            children: "Offset printing uses plates for cheap mass production, while digital printing prints directly from digital files for fast jobs."
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 32,
+                                                            lineNumber: 33,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 30,
+                                                    lineNumber: 31,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: '/services',
+                                                    href: "/services",
                                                     className: "theme-btn-s3",
                                                     children: "Explore"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 38,
+                                                    lineNumber: 39,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                            lineNumber: 26,
+                                            lineNumber: 27,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 25,
+                                        lineNumber: 26,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -446,17 +450,16 @@ const ServicesSection = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "image",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon2$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon2$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                                                        alt: "service Image one"
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$book$2d$open$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BookOpen$3e$__["BookOpen"], {
+                                                        size: 60
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                        lineNumber: 46,
+                                                        lineNumber: 47,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 45,
+                                                    lineNumber: 46,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -467,41 +470,41 @@ const ServicesSection = ()=>{
                                                             children: "Book & Publication Printing"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 49,
+                                                            lineNumber: 50,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "leading-none!",
+                                                            className: "leading-none! text-xl! max-sm:text-lg! text-[1rem]",
                                                             children: "It encompasses the entire process from prepress preparation to binding and finishing the final printed product."
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 50,
+                                                            lineNumber: 51,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 48,
+                                                    lineNumber: 49,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: '/services',
+                                                    href: "/services",
                                                     className: "theme-btn-s3",
                                                     children: "Explore"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 55,
+                                                    lineNumber: 56,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                            lineNumber: 44,
+                                            lineNumber: 45,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 43,
+                                        lineNumber: 44,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -511,17 +514,16 @@ const ServicesSection = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "image",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon3$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon3$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                                                        alt: "service Image one"
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$gift$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Gift$3e$__["Gift"], {
+                                                        size: 60
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                        lineNumber: 63,
+                                                        lineNumber: 64,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 62,
+                                                    lineNumber: 63,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -532,41 +534,41 @@ const ServicesSection = ()=>{
                                                             children: "Promotional Products"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 66,
+                                                            lineNumber: 67,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "leading-none!",
+                                                            className: "leading-none! text-xl! max-sm:text-lg! text-[1rem]",
                                                             children: "Promotional products are branded giveaway items used by businesses and NGOs to quickly boost brand visibility."
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 67,
+                                                            lineNumber: 68,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 65,
+                                                    lineNumber: 66,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: '/services',
+                                                    href: "/services",
                                                     className: "theme-btn-s3",
                                                     children: "Explore"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 72,
+                                                    lineNumber: 73,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                            lineNumber: 61,
+                                            lineNumber: 62,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 60,
+                                        lineNumber: 61,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -576,17 +578,16 @@ const ServicesSection = ()=>{
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "image",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                        src: __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon4$2e$svg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$public$2f$service$2f$Icon4$2e$svg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                                                        alt: "service Image one"
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$package$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Package$3e$__["Package"], {
+                                                        size: 60
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 81,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 79,
+                                                    lineNumber: 80,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -597,47 +598,47 @@ const ServicesSection = ()=>{
                                                             children: "Packaging & Label Printing"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 83,
+                                                            lineNumber: 84,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0)),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "leading-none!",
-                                                            children: "This service focuses on printing high-quality **boxes, bags, and labels** essential for product protection and market appeal."
+                                                            className: "leading-none! text-xl! max-sm:text-lg! text-[1rem]",
+                                                            children: "This service focuses on printing high-quality boxes, bags, and labels essential for product protection and market appeal."
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                            lineNumber: 84,
+                                                            lineNumber: 85,
                                                             columnNumber: 19
                                                         }, ("TURBOPACK compile-time value", void 0))
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 82,
+                                                    lineNumber: 83,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0)),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                    href: '/services',
+                                                    href: "/services",
                                                     className: "theme-btn-s3",
                                                     children: "Explore"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 90,
+                                                    lineNumber: 91,
                                                     columnNumber: 17
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                            lineNumber: 78,
+                                            lineNumber: 79,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 77,
+                                        lineNumber: 78,
                                         columnNumber: 13
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                lineNumber: 24,
+                                lineNumber: 25,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -647,7 +648,7 @@ const ServicesSection = ()=>{
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "col-lg-6 col-12",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                            href: '/services',
+                                            href: "/services",
                                             className: "theme-btn-s4",
                                             children: [
                                                 "View More",
@@ -655,54 +656,54 @@ const ServicesSection = ()=>{
                                                     className: "fi flaticon-right-arrow-1"
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                                    lineNumber: 100,
+                                                    lineNumber: 101,
                                                     columnNumber: 28
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                            lineNumber: 99,
+                                            lineNumber: 100,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                        lineNumber: 98,
+                                        lineNumber: 99,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                    lineNumber: 97,
+                                    lineNumber: 98,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                                lineNumber: 96,
+                                lineNumber: 97,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                        lineNumber: 23,
+                        lineNumber: 24,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                lineNumber: 12,
+                lineNumber: 13,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "technut-service-shapeInitial page load -1"
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                lineNumber: 107,
+                lineNumber: 108,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "technut-service-shape-2"
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                lineNumber: 109,
+                lineNumber: 112,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -716,23 +717,23 @@ const ServicesSection = ()=>{
                         d: "M6.21538 35L65.2615 0L101 79.3333L0 84L6.21538 35Z"
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                        lineNumber: 112,
+                        lineNumber: 115,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                    lineNumber: 111,
+                    lineNumber: 114,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-                lineNumber: 110,
+                lineNumber: 113,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/ServicesSection.jsx",
-        lineNumber: 11,
+        lineNumber: 12,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -1132,11 +1133,6 @@ function App() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$sections$2f$TestimonialSection$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/page.jsx",
                 lineNumber: 19,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$components$2f$Bubbles$2e$jsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/page.jsx",
-                lineNumber: 20,
                 columnNumber: 7
             }, this)
         ]

@@ -1,8 +1,7 @@
 "use client";
 // import DarkVeil from './DarkVeil';
-import React from 'react';
-import Link from 'next/link';
-
+import React from "react";
+import Link from "next/link";
 
 const HeroSection = () => {
   return (
@@ -11,16 +10,17 @@ const HeroSection = () => {
       <div className="absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40">
         <div
           className="hero-heading-container pointer-events-auto mx-auto text-center
-          lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-8"
+          lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20"
         >
-          <h1 className="font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!">
-            Built on Ink, Paper, and Trust
+          <h1 className="font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-[2.4rem]! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!">
+            Comprehensive Printing Solutions Tailored to Bring Your Creative
+            Vision to Life
           </h1>
 
           <p className="text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7">
-            Your trusted partner for professional printing services in
-            Afghanistan. From brochures to books, business cards to banners, we
-            deliver excellence in every print.
+            From business cards to banners, we offer comprehensive printing
+            solutions. Exceptional quality with fast turnaround times and
+            competitive pricing.
           </p>
           <div className="flex flex-col sm:flex-row gap-2 justify-center max-sm:mt-8 md:mt-20!">
             <Link

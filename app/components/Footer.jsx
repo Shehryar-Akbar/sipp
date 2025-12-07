@@ -6,22 +6,20 @@ import { ChevronDown, ChevronUp } from "lucide-react";
 const Footer = () => {
   const [openSection, setOpenSection] = useState(null);
 
-  const productLinks = [
-    { label: "Overview" },
-    { label: "Features" },
-    { label: "Solutions" },
-    { label: "Tutorials" },
-    { label: "Pricing" },
-    { label: "Releases" },
+  const companyLinks = [
+    { label: "About Us", href: "/about" },
+    { label: "Our Services", href: "/services" },
+    { label: "Portfolio", href: "/portfolio" },
+    { label: "Contact", href: "/contact" },
   ];
 
-  const resourceLinks = [
-    { label: "Blog", href: "#" },
-    { label: "Newsletter", href: "#" },
-    { label: "Events", href: "#" },
-    { label: "Help centre", href: "#" },
-    { label: "Tutorials", href: "#" },
-    { label: "Support", href: "#" },
+  const serviceItems = [
+    "Offset Printing",
+    "Digital Printing",
+    "Corporate Identity",
+    "Web Design",
+    "Marketing Materials",
+    "Book Publication",
   ];
 
   const legalLinks = [
@@ -56,58 +54,58 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Product */}
+          {/* Company */}
           <div className="border-b border-gray-800 pb-4">
             <button
-              onClick={() => toggleSection("product")}
+              onClick={() => toggleSection("company")}
               className="flex justify-between items-center w-full py-2"
             >
-              <h3 className="font-semibold text-xl! text-white!">Product</h3>
-              {openSection === "product" ? (
+              <h3 className="font-semibold text-xl! text-white!">Company</h3>
+              {openSection === "company" ? (
                 <ChevronUp className="h-5 w-5" />
               ) : (
                 <ChevronDown className="h-5 w-5" />
               )}
             </button>
 
-            {openSection === "product" && (
+            {openSection === "company" && (
               <ul className="mt-4 space-y-3 pl-2">
-                {productLinks.map((link) => (
-                  <li
-                    key={link.label}
-                    className="text-gray-400! hover:text-white! text-xl! transition-colors duration-200"
-                  >
-                    {link.label}
+                {companyLinks.map((link) => (
+                  <li key={link.label}>
+                    <Link
+                      href={link.href}
+                      className="text-gray-400! hover:text-white! block py-1 text-xl! transition-colors duration-200"
+                    >
+                      {link.label}
+                    </Link>
                   </li>
                 ))}
               </ul>
             )}
           </div>
 
-          {/* Resources */}
+          {/* Services */}
           <div className="border-b border-gray-800 pb-4">
             <button
-              onClick={() => toggleSection("resources")}
+              onClick={() => toggleSection("services")}
               className="flex justify-between items-center w-full py-2"
             >
-              <h3 className="font-semibold text-xl! text-white!">Resources</h3>
-              {openSection === "resources" ? (
+              <h3 className="font-semibold text-xl! text-white!">Services</h3>
+              {openSection === "services" ? (
                 <ChevronUp className="h-5 w-5" />
               ) : (
                 <ChevronDown className="h-5 w-5" />
               )}
             </button>
 
-            {openSection === "resources" && (
+            {openSection === "services" && (
               <ul className="mt-4 space-y-3 pl-2">
-                {resourceLinks.map((link) => (
-                  <li key={link.label}>
-                    <Link
-                      href={link.href}
-                      className="text-gray-400! hover:text-white! block py-1 text-xl!"
-                    >
-                      {link.label}
-                    </Link>
+                {serviceItems.map((service) => (
+                  <li
+                    key={service}
+                    className="text-gray-400! text-xl! transition-colors duration-200"
+                  >
+                    {service}
                   </li>
                 ))}
               </ul>
@@ -118,7 +116,9 @@ const Footer = () => {
         {/* Desktop */}
         <div className="hidden lg:grid lg:grid-cols-4 gap-8 mb-12">
           <div>
-            <h2 className="text-2xl! font-bold mb-4 text-white!">Strength Innovations</h2>
+            <h2 className="text-2xl! font-bold mb-4 text-white!">
+              Strength Innovations
+            </h2>
             <p className="text-gray-400! text-xl!">
               Design amazing digital experiences that create more happy in the
               world.
@@ -127,26 +127,10 @@ const Footer = () => {
 
           <div>
             <h3 className="font-semibold  mb-4 text-2xl! text-white!">
-              Product
+              Company
             </h3>
             <ul className="space-y-3">
-              {productLinks.map((link) => (
-                <li
-                  key={link.label}
-                  className="text-gray-400! hover:text-white! text-xl! transition-colors duration-200"
-                >
-                  {link.label}
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div>
-            <h3 className="font-semibold mb-4 text-2xl! text-white!">
-              Resources
-            </h3>
-            <ul className="space-y-3">
-              {resourceLinks.map((link) => (
+              {companyLinks.map((link) => (
                 <li key={link.label}>
                   <Link
                     href={link.href}
@@ -154,6 +138,22 @@ const Footer = () => {
                   >
                     {link.label}
                   </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="font-semibold mb-4 text-2xl! text-white!">
+              Services
+            </h3>
+            <ul className="space-y-3">
+              {serviceItems.map((service) => (
+                <li
+                  key={service}
+                  className="text-gray-400! text-xl! transition-colors duration-200 hover:text-white! leading-none!"
+                >
+                  {service}
                 </li>
               ))}
             </ul>

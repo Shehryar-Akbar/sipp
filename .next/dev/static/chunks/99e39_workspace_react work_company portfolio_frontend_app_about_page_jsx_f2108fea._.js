@@ -7,7 +7,7 @@
   "static/chunks/244fb_motion-dom_dist_es_ebedb9d6._.js",
   "static/chunks/244fb_framer-motion_dist_es_74d7670d._.js",
   "static/chunks/244fb_motion-utils_dist_es_a3e5a52f._.js",
-  "static/chunks/vs_code_workspace_react work_company portfolio_frontend_fa813dba._.js"
+  "static/chunks/vs_code_workspace_react work_company portfolio_frontend_581dd4ca._.js"
 ],
     source: "dynamic"
 });

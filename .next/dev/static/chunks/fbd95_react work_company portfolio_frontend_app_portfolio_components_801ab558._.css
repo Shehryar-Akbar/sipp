@@ -69,13 +69,15 @@
 /* [project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/style.module.css [app-client] (css) */
 .style-module__4ONXzG__modalContainer {
   pointer-events: none;
+  z-index: 999;
+  will-change: left, top;
   background-color: #fff;
   justify-content: center;
   align-items: center;
   width: 400px;
   height: 350px;
   display: flex;
-  position: absolute;
+  position: fixed;
   overflow: hidden;
 }
 
@@ -100,8 +102,8 @@
 
 @media (max-width: 450px) {
   .style-module__4ONXzG__modalContainer {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
   }
 }
 

@@ -37,11 +37,11 @@ const HeroSection = ()=>{
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-8",
+                className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                         className: "font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!",
-                        children: "Let's Bring Your Ideas to Print"
+                        children: "Let’s Bring Your Vision to Life! Connect with SIPP in Kabul Today"
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/HeroSection.jsx",
                         lineNumber: 17,
@@ -49,7 +49,7 @@ const HeroSection = ()=>{
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7",
-                        children: "Your trusted partner for professional printing services in Afghanistan. From brochures to books, business cards to banners, we deliver excellence in every print."
+                        children: "Ready to start your project? Contact our team today for quotes or questions. We guide you from concept to completion with expert advice."
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/HeroSection.jsx",
                         lineNumber: 21,
@@ -185,6 +185,7 @@ const Address = ()=>{
                                                 className: "office-info-text",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                        className: " text-4xl! max-sm:text-3xl!",
                                                         children: "Address"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
@@ -192,6 +193,7 @@ const Address = ()=>{
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "sm:text-xl! max-sm:text-lg! leading-none",
                                                         children: "Shakardara District, Near Sufyan Bridge, Kabul Afghanistan"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
@@ -228,51 +230,53 @@ const Address = ()=>{
                                                         size: 50
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 28,
+                                                        lineNumber: 31,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                    lineNumber: 27,
+                                                    lineNumber: 30,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                lineNumber: 26,
+                                                lineNumber: 29,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "office-info-text",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                        className: " text-4xl! max-sm:text-3xl!",
                                                         children: "Email Us"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 32,
+                                                        lineNumber: 35,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        children: "info info@sipp.af"
+                                                        className: "sm:text-xl! max-sm:text-lg! leading-none",
+                                                        children: "info@sipp.af"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 33,
+                                                        lineNumber: 36,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                lineNumber: 31,
+                                                lineNumber: 34,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                        lineNumber: 25,
+                                        lineNumber: 28,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 27,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -288,51 +292,53 @@ const Address = ()=>{
                                                         size: 50
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 42,
+                                                        lineNumber: 46,
                                                         columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                    lineNumber: 41,
+                                                    lineNumber: 45,
                                                     columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                lineNumber: 40,
+                                                lineNumber: 44,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "office-info-text",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                                        className: " text-4xl! max-sm:text-3xl!",
                                                         children: "Call Now"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 46,
+                                                        lineNumber: 50,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "sm:text-xl! max-sm:text-lg! leading-none",
                                                         children: "+93 (0) 70 214 63 10"
                                                     }, void 0, false, {
                                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                        lineNumber: 47,
+                                                        lineNumber: 51,
                                                         columnNumber: 23
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                                lineNumber: 45,
+                                                lineNumber: 49,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                        lineNumber: 39,
+                                        lineNumber: 43,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/Address.jsx",
-                                    lineNumber: 38,
+                                    lineNumber: 42,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]

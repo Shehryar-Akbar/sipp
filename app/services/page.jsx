@@ -11,7 +11,6 @@ import DesignServicesSection from './components/DesignServicesSection';
 import FinishingServicesSection from './components/FinishingServicesSection';
 import PackagingSection from './components/PackagingSection';
 import WebServicesSection from './components/WebServicesSection';
-import Bubbles from '../components/Bubbles';
 
 const ServicesPage = () => {
   return (
@@ -26,7 +25,6 @@ const ServicesPage = () => {
       <FinishingServicesSection />
       <PackagingSection />
       <WebServicesSection />
-      <Bubbles />
     </div>
   );
 };

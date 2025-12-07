@@ -19,26 +19,26 @@ export default function CeoMessage() {
         </div>
 
         {/* CEO Message */}
-        <div className="max-sm:px-4 max-sm:text-justify">
-          <h2 className="text-3xl sm:text-4xl max-sm:text-center md:text-5xl font-extrabold text-gray-900 mb-6">
+        <div className="max-sm:px-4">
+          <h2 className="text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!">
             A Message From Our CEO
           </h2>
 
-          <p className="text-gray-700 text-lg sm:text-xl leading-relaxed mb-6">
+          <p className="text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight! xl:pr-4">
             At our company, we believe in building long-term relationships
             through trust, quality, and innovation. For more than a decade,
             we’ve been dedicated to helping businesses grow through exceptional
             service and unmatched craftsmanship.
           </p>
 
-          <p className="text-gray-700 text-lg sm:text-xl leading-relaxed mb-6">
+          <p className="text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight!">
             Our success has always come from our commitment to excellence.
             Every project, no matter the scale, receives the highest level of
             attention and care. We continue to push boundaries and raise the
             standard for what’s possible.
           </p>
 
-          <p className="text-gray-900 text-xl sm:text-2xl font-semibold">
+          <p className="text-gray-900 text-xl sm:text-2xl! font-semibold">
             Fawad Shaheer Sulaimankhel
           </p>
         </div>

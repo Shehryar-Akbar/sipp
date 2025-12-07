@@ -17,7 +17,6 @@ export default function App() {
       <ServicesSection />
       <ContactSection />
       <TestimonialSection />
-      <Bubbles />
     </div>
   );
 }

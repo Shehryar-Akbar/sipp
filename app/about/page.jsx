@@ -6,6 +6,7 @@ import CeoMessage from "./CeoMessage";
 import TeamMembers from "./TeamMembers";
 import VisionMisson from "./Accordion";
 import Bubbles from "../components/Bubbles";
+import LogoMarquee from "../components/ClientsSection";
 
 const AboutHero = () => {
   return (
@@ -17,12 +18,11 @@ const page = () => {
   return (
     <>
       <AboutHero />
-      <VisionMisson />
-      <ServicesSection />
       <CeoMessage />
+      <VisionMisson />
       <TeamMembers />
+      <LogoMarquee />
       <ContactSection />
-      <Bubbles />
     </>
   );
 };

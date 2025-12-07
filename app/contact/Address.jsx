@@ -16,8 +16,11 @@ const Address = () => {
                       </div>
                     </div>
                     <div className="office-info-text">
-                      <h2>Address</h2>
-                      <p>Shakardara District, Near Sufyan Bridge, Kabul Afghanistan</p>
+                      <h2 className=" text-4xl! max-sm:text-3xl!">Address</h2>
+                      <p className="sm:text-xl! max-sm:text-lg! leading-none">
+                        Shakardara District, Near Sufyan Bridge, Kabul
+                        Afghanistan
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -29,9 +32,10 @@ const Address = () => {
                       </div>
                     </div>
                     <div className="office-info-text">
-                      <h2>Email Us</h2>
-                      <p>info
-                        info@sipp.af</p>
+                      <h2 className=" text-4xl! max-sm:text-3xl!">Email Us</h2>
+                      <p className="sm:text-xl! max-sm:text-lg! leading-none">
+                        info@sipp.af
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -43,8 +47,10 @@ const Address = () => {
                       </div>
                     </div>
                     <div className="office-info-text">
-                      <h2>Call Now</h2>
-                      <p>+93 (0) 70 214 63 10</p>
+                      <h2 className=" text-4xl! max-sm:text-3xl!">Call Now</h2>
+                      <p className="sm:text-xl! max-sm:text-lg! leading-none">
+                        +93 (0) 70 214 63 10
+                      </p>
                     </div>
                   </div>
                 </div>

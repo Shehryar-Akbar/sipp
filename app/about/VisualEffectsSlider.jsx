@@ -3,13 +3,33 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import * as THREE from "three";
 import { gsap } from "gsap";
-import { ArrowRight } from "lucide-react";
 import img1 from "../../public/about/img1.jpg";
 import img2 from "../../public/about/img2.jpg";
 import img3 from "../../public/about/img3.jpg";
 import img4 from "../../public/about/img4.jpg";
 import img5 from "../../public/about/img5.jpg";
 import img6 from "../../public/about/img6.jpg";
+
+// Preload images function - runs immediately
+const preloadImages = (imagePaths) => {
+  if (typeof window === "undefined" || typeof document === "undefined") return;
+
+  imagePaths.forEach((path) => {
+    // Add preload link to head
+    const link = document.createElement("link");
+    link.rel = "preload";
+    link.as = "image";
+    link.href = path;
+    if (link.fetchPriority !== undefined) {
+      link.fetchPriority = "high";
+    }
+    document.head.appendChild(link);
+
+    // Also preload using Image object for browser cache
+    const img = new Image();
+    img.src = path;
+  });
+};
 
 const SLIDER_CONFIG = {
   settings: {
@@ -176,6 +196,12 @@ export default function VisualEffectsSlider() {
   const [slideProgress, setSlideProgress] = useState(0);
   const [touchStart, setTouchStart] = useState(0);
 
+  // Preload images as early as possible
+  useEffect(() => {
+    const imagePaths = slides.map((slide) => slide.media);
+    preloadImages(imagePaths);
+  }, []);
+
   useEffect(() => {
     if (!canvasRef.current) return;
 
@@ -188,7 +214,13 @@ export default function VisualEffectsSlider() {
         alpha: false,
       });
 
-      renderer.setSize(window.innerWidth, window.innerHeight);
+      // Use visual viewport height on mobile to account for browser UI
+      const initialWidth = window.innerWidth;
+      const initialHeight = window.visualViewport
+        ? window.visualViewport.height
+        : window.innerHeight;
+
+      renderer.setSize(initialWidth, initialHeight);
       renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
 
       const material = new THREE.ShaderMaterial({
@@ -197,7 +229,12 @@ export default function VisualEffectsSlider() {
           uTexture2: { value: null },
           uProgress: { value: 0.0 },
           uResolution: {
-            value: new THREE.Vector2(window.innerWidth, window.innerHeight),
+            value: new THREE.Vector2(
+              window.innerWidth,
+              window.visualViewport
+                ? window.visualViewport.height
+                : window.innerHeight
+            ),
           },
           uTexture1Size: { value: new THREE.Vector2(1, 1) },
           uTexture2Size: { value: new THREE.Vector2(1, 1) },
@@ -232,25 +269,64 @@ export default function VisualEffectsSlider() {
       rendererRef.current = renderer;
       materialRef.current = material;
 
-      // Load textures
+      // Load textures with optimized loading
       const loader = new THREE.TextureLoader();
-      const loadedTextures = await Promise.all(
+
+      // Preload images first to ensure they're in browser cache
+      // Prioritize first two images since they're shown immediately
+      const preloadPromises = slides.map((slide, index) => {
+        return new Promise((resolve) => {
+          const img = new Image();
+          img.crossOrigin = "anonymous";
+          img.onload = () => resolve();
+          img.onerror = () => resolve(); // Continue even if one fails
+          img.src = slide.media;
+          // Set loading priority for first two images
+          if (index < 2 && img.loading !== undefined) {
+            img.loading = "eager";
+          }
+        });
+      });
+
+      // Load first two images with priority
+      await Promise.all(preloadPromises.slice(0, 2));
+
+      // Load remaining images in background (don't await)
+      Promise.all(preloadPromises.slice(2)).catch(() => {
+        // Silently handle background loading errors
+      });
+
+      // Now load textures (should be faster since images are cached)
+      const loadedTextures = await Promise.allSettled(
         slides.map(
           (slide) =>
-            new Promise((resolve) => {
-              loader.load(slide.media, (texture) => {
-                texture.minFilter = texture.magFilter = THREE.LinearFilter;
-                texture.userData = {
-                  size: new THREE.Vector2(
-                    texture.image.width,
-                    texture.image.height
-                  ),
-                };
-                resolve(texture);
-              });
+            new Promise((resolve, reject) => {
+              loader.load(
+                slide.media,
+                (texture) => {
+                  texture.minFilter = texture.magFilter = THREE.LinearFilter;
+                  texture.userData = {
+                    size: new THREE.Vector2(
+                      texture.image.width,
+                      texture.image.height
+                    ),
+                  };
+                  resolve(texture);
+                },
+                undefined,
+                (error) => {
+                  console.warn("Error loading texture:", error);
+                  reject(error);
+                }
+              );
             })
         )
-      );
+      ).then((results) => {
+        // Filter out failed textures and return only successful ones
+        return results
+          .filter((result) => result.status === "fulfilled")
+          .map((result) => result.value);
+      });
 
       texturesRef.current = loadedTextures;
 
@@ -260,6 +336,13 @@ export default function VisualEffectsSlider() {
         material.uniforms.uTexture1Size.value = loadedTextures[0].userData.size;
         material.uniforms.uTexture2Size.value = loadedTextures[1].userData.size;
         setIsLoaded(true);
+      } else if (loadedTextures.length > 0) {
+        // Fallback: use first texture for both if we only have one
+        material.uniforms.uTexture1.value = loadedTextures[0];
+        material.uniforms.uTexture2.value = loadedTextures[0];
+        material.uniforms.uTexture1Size.value = loadedTextures[0].userData.size;
+        material.uniforms.uTexture2Size.value = loadedTextures[0].userData.size;
+        setIsLoaded(true);
       }
 
       const animate = () => {
@@ -268,21 +351,89 @@ export default function VisualEffectsSlider() {
       };
       animate();
 
+      let isDisposed = false;
+
       const handleResize = () => {
-        renderer.setSize(window.innerWidth, window.innerHeight);
-        material.uniforms.uResolution.value.set(
-          window.innerWidth,
-          window.innerHeight
-        );
+        // Check if components are still valid
+        if (isDisposed || !rendererRef.current || !materialRef.current) {
+          return;
+        }
+
+        try {
+          // Use visual viewport on mobile to account for browser UI
+          const width = window.innerWidth;
+          const height = window.visualViewport
+            ? window.visualViewport.height
+            : window.innerHeight;
+
+          // Ensure minimum height to prevent black gaps - use the container's actual height
+          const container = canvasRef.current?.parentElement;
+          const containerHeight = container
+            ? Math.max(container.offsetHeight, height, window.innerHeight)
+            : Math.max(height, window.innerHeight);
+
+          rendererRef.current.setSize(width, containerHeight);
+
+          // Check if material is still valid and has uniforms
+          if (
+            materialRef.current.uniforms &&
+            materialRef.current.uniforms.uResolution
+          ) {
+            materialRef.current.uniforms.uResolution.value.set(
+              width,
+              containerHeight
+            );
+          }
+        } catch (error) {
+          console.warn("Error updating canvas size:", error);
+        }
       };
+
+      // Handle scroll events on mobile to update canvas size
+      let scrollTimeout;
+      const handleScroll = () => {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(() => {
+          handleResize();
+        }, 100);
+      };
+
       window.addEventListener("resize", handleResize);
+      window.addEventListener("scroll", handleScroll, { passive: true });
+      // Also listen to visual viewport changes on mobile
+      if (window.visualViewport) {
+        window.visualViewport.addEventListener("resize", handleResize);
+        window.visualViewport.addEventListener("scroll", handleResize);
+      }
 
       return () => {
+        isDisposed = true;
         window.removeEventListener("resize", handleResize);
-        if (animationRef.current) cancelAnimationFrame(animationRef.current);
-        renderer.dispose();
-        geometry.dispose();
-        material.dispose();
+        window.removeEventListener("scroll", handleScroll);
+        if (window.visualViewport) {
+          window.visualViewport.removeEventListener("resize", handleResize);
+          window.visualViewport.removeEventListener("scroll", handleResize);
+        }
+        if (scrollTimeout) clearTimeout(scrollTimeout);
+        if (animationRef.current) {
+          cancelAnimationFrame(animationRef.current);
+          animationRef.current = null;
+        }
+        if (rendererRef.current) {
+          rendererRef.current.dispose();
+          rendererRef.current = null;
+        }
+        if (geometry) {
+          geometry.dispose();
+        }
+        if (materialRef.current) {
+          materialRef.current.dispose();
+          materialRef.current = null;
+        }
+        loadedTextures.forEach((texture) => {
+          if (texture) texture.dispose();
+        });
+        texturesRef.current = [];
       };
     };
 
@@ -310,7 +461,12 @@ export default function VisualEffectsSlider() {
   }, [isLoaded, currentSlide, isTransitioning]);
 
   const navigateToSlide = (targetIndex) => {
-    if (isTransitioning || targetIndex === currentSlide || !materialRef.current)
+    if (
+      isTransitioning ||
+      targetIndex === currentSlide ||
+      !materialRef.current ||
+      !materialRef.current.uniforms
+    )
       return;
 
     setIsTransitioning(true);
@@ -320,31 +476,51 @@ export default function VisualEffectsSlider() {
     const currentTexture = texturesRef.current[currentSlide];
     const targetTexture = texturesRef.current[targetIndex];
 
-    materialRef.current.uniforms.uTexture1.value = currentTexture;
-    materialRef.current.uniforms.uTexture2.value = targetTexture;
-    materialRef.current.uniforms.uTexture1Size.value =
-      currentTexture.userData.size;
-    materialRef.current.uniforms.uTexture2Size.value =
-      targetTexture.userData.size;
+    if (!currentTexture || !targetTexture) return;
 
-    setCurrentSlide(targetIndex);
+    try {
+      materialRef.current.uniforms.uTexture1.value = currentTexture;
+      materialRef.current.uniforms.uTexture2.value = targetTexture;
+      materialRef.current.uniforms.uTexture1Size.value =
+        currentTexture.userData.size;
+      materialRef.current.uniforms.uTexture2Size.value =
+        targetTexture.userData.size;
 
-    gsap.fromTo(
-      materialRef.current.uniforms.uProgress,
-      { value: 0 },
-      {
-        value: 1,
-        duration: SLIDER_CONFIG.settings.transitionDuration,
-        ease: "power2.inOut",
-        onComplete: () => {
-          materialRef.current.uniforms.uProgress.value = 0;
-          materialRef.current.uniforms.uTexture1.value = targetTexture;
-          materialRef.current.uniforms.uTexture1Size.value =
-            targetTexture.userData.size;
-          setIsTransitioning(false);
-        },
+      setCurrentSlide(targetIndex);
+
+      const progressUniform = materialRef.current.uniforms.uProgress;
+      if (!progressUniform) {
+        setIsTransitioning(false);
+        return;
       }
-    );
+
+      gsap.fromTo(
+        progressUniform,
+        { value: 0 },
+        {
+          value: 1,
+          duration: SLIDER_CONFIG.settings.transitionDuration,
+          ease: "power2.inOut",
+          onComplete: () => {
+            // Check if material is still valid before updating
+            if (
+              materialRef.current &&
+              materialRef.current.uniforms &&
+              materialRef.current.uniforms.uProgress
+            ) {
+              materialRef.current.uniforms.uProgress.value = 0;
+              materialRef.current.uniforms.uTexture1.value = targetTexture;
+              materialRef.current.uniforms.uTexture1Size.value =
+                targetTexture.userData.size;
+            }
+            setIsTransitioning(false);
+          },
+        }
+      );
+    } catch (error) {
+      console.warn("Error navigating to slide:", error);
+      setIsTransitioning(false);
+    }
   };
 
   const handleClick = () => {
@@ -371,13 +547,25 @@ export default function VisualEffectsSlider() {
   };
 
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-black cursor-pointer">
+    <div
+      className="relative w-screen h-screen overflow-hidden bg-black cursor-pointer"
+      style={{ minHeight: "100vh" }}
+    >
       <canvas
         ref={canvasRef}
-        className="block w-full h-full"
+        className="block"
         onClick={handleClick}
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          pointerEvents: "auto",
+        }}
       />
 
       <span className="absolute top-1/2 left-8 -translate-y-1/2 font-mono text-xs font-semibold text-white z-10 tracking-wider uppercase max-sm:hidden!">
@@ -424,13 +612,12 @@ export default function VisualEffectsSlider() {
           lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20"
         >
           <h1 className="font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!">
-            Good people, great equipment, & dedication to doing it right
+            Built on Strength and Driven by Innovation! Discover the SIPP Story
           </h1>
 
           <p className="text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7">
-            Your trusted partner for professional printing services in
-            Afghanistan. From brochures to books, business cards to banners, we
-            deliver excellence in every print.
+            Founded on strength and innovation, SIPP is Kabul's trusted printing
+            name. Our team combines expertise with state of the art equipment.
           </p>
           <div className="flex flex-col sm:flex-row gap-2 justify-center max-sm:mt-8 md:mt-20!">
             <Link

@@ -77,9 +77,10 @@ const AccordionItem = ({ title, content, color, isOpen, onClick }) => {
           transition-all 
           duration-[${config.duration}s] 
           ease-[${config.ease.join(",")}]
-          ${isSelected
-            ? "flex-grow basis-[600px] min-w-[600px] shadow-2xl z-10 -translate-y-1"
-            : "flex-none basis-[110px] min-w-[110px]"
+          ${
+            isSelected
+              ? "grow basis-[600px] min-w-[600px] shadow-2xl z-10 -translate-y-1"
+              : "flex-none basis-[110px] min-w-[110px]"
           }
         `}
         style={{
@@ -99,7 +100,7 @@ const AccordionItem = ({ title, content, color, isOpen, onClick }) => {
           variants={summaryVariants}
           animate={isSelected ? "open" : "closed"}
         >
-          <span className="text-2xl font-extrabold tracking-widest">
+          <span className="text-5xl! font-extrabold tracking-widest">
             {title}
           </span>
         </motion.div>
@@ -111,13 +112,10 @@ const AccordionItem = ({ title, content, color, isOpen, onClick }) => {
           variants={desktopContentVariants}
           animate={isSelected ? "open" : "closed"}
         >
-          <h3
-            className="text-[3.2rem] font-black mb-6"
-            style={{ color: color }}
-          >
+          <h3 className="text-5xl! font-black mb-10!" style={{ color: color }}>
             {title}
           </h3>
-          <p className="text-xl text-gray-600 leading-relaxed max-w-xl">
+          <p className="text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! sm:leading-tight! max-sm:leading-none! max-w-xl">
             {content}
           </p>
         </motion.div>
@@ -189,10 +187,8 @@ const Accordion = () => {
   ];
 
   return (
-    <div className="min-h-full py-16 flex flex-col justify-center items-center bg-gray-50 p-8 font-inter">
-      <h2
-        className="text-6xl font-extrabold mb-12 text-center"
-      >
+    <div className="min-h-full py-16 mt-8 flex flex-col justify-center items-center bg-gray-50 p-8 font-inter">
+      <h2 className="text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!">
         Our Mission & Vision
       </h2>
 

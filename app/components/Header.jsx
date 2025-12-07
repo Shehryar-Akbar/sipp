@@ -32,7 +32,7 @@ const Header = () => {
   return (
     <nav
       className={`fixed! w-full! z-50! transition-all duration-300 ${
-        isScrolled
+        isScrolled || isMobileMenuOpen
           ? "backdrop-blur-sm bg-[#402099] py-4"
           : "bg-transparent py-6 text-neutral-900"
       }`}

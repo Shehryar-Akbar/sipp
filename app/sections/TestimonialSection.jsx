@@ -69,10 +69,10 @@ const TestimonialSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 min-w-[83%]!">
         {/* Section Header */}
         <div className="text-center mb-8 sm:mb-10 md:mb-12">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 sm:mb-4">
+          <h2 className="text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!">
             What Our Clients Say
           </h2>
-          <p className="text-base leading-none! sm:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-2 sm:px-0">
+          <p className="text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight!">
             Don't just take our word for it. Here's what our clients have to say
             about their experience working with us.
           </p>

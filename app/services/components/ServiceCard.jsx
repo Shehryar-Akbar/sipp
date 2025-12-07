@@ -18,7 +18,7 @@ const ServiceCard = ({ service }) => {
         <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
           {service.name}
         </h3>
-        <p className="text-sm md:text-base text-gray-600 leading-relaxed">
+        <p className="text-lg! md:text-base text-gray-600 leading-tight!">
           {service.description}
         </p>
       </div>

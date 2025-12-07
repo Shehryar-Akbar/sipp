@@ -24,15 +24,15 @@ const HeroSection = ()=>{
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                         className: "font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!",
-                        children: "Built on Ink, Paper, and Trust"
+                        children: "Comprehensive Printing Solutions Tailored to Bring Your Creative Vision to Life"
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                        lineNumber: 16,
+                        lineNumber: 15,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7",
-                        children: "Your trusted partner for professional printing services in Afghanistan. From brochures to books, business cards to banners, we deliver excellence in every print."
+                        children: "From business cards to banners, we offer comprehensive printing solutions. Exceptional quality with fast turnaround times and competitive pricing."
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
                         lineNumber: 20,
@@ -57,17 +57,17 @@ const HeroSection = ()=>{
                 ]
             }, void 0, true, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                lineNumber: 12,
+                lineNumber: 11,
                 columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-            lineNumber: 11,
+            lineNumber: 10,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-        lineNumber: 9,
+        lineNumber: 8,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -1229,11 +1229,6 @@ const ServicesPage = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$services$2f$components$2f$WebServicesSection$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/page.jsx",
                 lineNumber: 28,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$components$2f$Bubbles$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/page.jsx",
-                lineNumber: 29,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

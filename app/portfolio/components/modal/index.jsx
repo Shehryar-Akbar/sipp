@@ -27,6 +27,8 @@ export default function index({ modal, projects }) {
   const cursorLabel = useRef(null);
 
   useEffect(() => {
+    if (!modalContainer.current) return;
+
     //Move Container
     let xMoveContainer = gsap.quickTo(modalContainer.current, "left", {
       duration: 0.8,
@@ -37,33 +39,78 @@ export default function index({ modal, projects }) {
       ease: "power3",
     });
     //Move cursor
-    let xMoveCursor = gsap.quickTo(cursor.current, "left", {
-      duration: 0.5,
-      ease: "power3",
-    });
-    let yMoveCursor = gsap.quickTo(cursor.current, "top", {
-      duration: 0.5,
-      ease: "power3",
-    });
+    let xMoveCursor = cursor.current
+      ? gsap.quickTo(cursor.current, "left", {
+          duration: 0.5,
+          ease: "power3",
+        })
+      : null;
+    let yMoveCursor = cursor.current
+      ? gsap.quickTo(cursor.current, "top", {
+          duration: 0.5,
+          ease: "power3",
+        })
+      : null;
     //Move cursor label
-    let xMoveCursorLabel = gsap.quickTo(cursorLabel.current, "left", {
-      duration: 0.45,
-      ease: "power3",
-    });
-    let yMoveCursorLabel = gsap.quickTo(cursorLabel.current, "top", {
-      duration: 0.45,
-      ease: "power3",
-    });
+    let xMoveCursorLabel = cursorLabel.current
+      ? gsap.quickTo(cursorLabel.current, "left", {
+          duration: 0.45,
+          ease: "power3",
+        })
+      : null;
+    let yMoveCursorLabel = cursorLabel.current
+      ? gsap.quickTo(cursorLabel.current, "top", {
+          duration: 0.45,
+          ease: "power3",
+        })
+      : null;
 
-    window.addEventListener("mousemove", (e) => {
-      const { pageX, pageY } = e;
-      xMoveContainer(pageX);
-      yMoveContainer(pageY);
-      xMoveCursor(pageX);
-      yMoveCursor(pageY);
-      xMoveCursorLabel(pageX);
-      yMoveCursorLabel(pageY);
-    });
+    const handleMouseMove = (e) => {
+      // Use clientX/clientY for fixed positioning (viewport-relative)
+      let { clientX, clientY } = e;
+
+      if (!modalContainer.current) return;
+
+      // Get modal container dimensions
+      const computedStyle = window.getComputedStyle(modalContainer.current);
+      const modalWidth = parseFloat(computedStyle.width) || 400;
+      const modalHeight = parseFloat(computedStyle.height) || 350;
+
+      // Get viewport dimensions
+      const viewportWidth = window.innerWidth;
+      const viewportHeight = window.innerHeight;
+
+      // Since modal is centered with -50% transform, calculate bounds
+      const halfWidth = modalWidth / 2;
+      const halfHeight = modalHeight / 2;
+
+      // Only constrain if modal would overflow viewport
+      // Otherwise, use cursor position directly
+      if (clientX < halfWidth) {
+        clientX = halfWidth;
+      } else if (clientX > viewportWidth - halfWidth) {
+        clientX = viewportWidth - halfWidth;
+      }
+
+      if (clientY < halfHeight) {
+        clientY = halfHeight;
+      } else if (clientY > viewportHeight - halfHeight) {
+        clientY = viewportHeight - halfHeight;
+      }
+
+      xMoveContainer(clientX);
+      yMoveContainer(clientY);
+      if (xMoveCursor) xMoveCursor(e.pageX);
+      if (yMoveCursor) yMoveCursor(e.pageY);
+      if (xMoveCursorLabel) xMoveCursorLabel(e.pageX);
+      if (yMoveCursorLabel) yMoveCursorLabel(e.pageY);
+    };
+
+    window.addEventListener("mousemove", handleMouseMove);
+
+    return () => {
+      window.removeEventListener("mousemove", handleMouseMove);
+    };
   }, []);
 
   return (
@@ -84,7 +131,13 @@ export default function index({ modal, projects }) {
                 style={{ backgroundColor: color }}
                 key={`modal_${index}`}
               >
-                <Image src={src} width={300} height={0} alt="image"/>
+                <Image
+                  src={src}
+                  width={300}
+                  height={300}
+                  alt="image"
+                  style={{ height: "auto" }}
+                />
               </div>
             );
           })}

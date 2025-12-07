@@ -633,11 +633,11 @@ const HeroSection = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20",
+                    className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-16",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!",
-                            children: "Best Printing Services in Afghanistan. We Print What You Think"
+                            children: "Where Strength Meets Innovation! Kabul’s Premier Printing Press for Quality Results"
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
                             lineNumber: 58,
@@ -645,10 +645,10 @@ const HeroSection = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7",
-                            children: "Your trusted partner for professional printing services in Afghanistan. From brochures to books, business cards to banners, we deliver excellence in every print."
+                            children: "Welcome to SIPP, where technology meets craftsmanship. We deliver premium printing solutions that transform your ideas into impactful results."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                            lineNumber: 62,
+                            lineNumber: 63,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -663,13 +663,13 @@ const HeroSection = ()=>{
                                             className: "ml-2"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                                            lineNumber: 72,
+                                            lineNumber: 73,
                                             columnNumber: 27
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                                    lineNumber: 68,
+                                    lineNumber: 69,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -678,13 +678,13 @@ const HeroSection = ()=>{
                                     children: "View Our Work"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                                    lineNumber: 74,
+                                    lineNumber: 75,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                            lineNumber: 67,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -707,24 +707,24 @@ const HeroSection = ()=>{
                     className: "custom-class"
                 }, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                    lineNumber: 86,
+                    lineNumber: 87,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                lineNumber: 85,
+                lineNumber: 86,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute bottom-16 right-8 z-20 max-sm:hidden! pointer-events-auto border-[3px] border-orange-400 rounded-2xl p-4 max-sm:bottom-4 max-sm:right-4!",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$components$2f$SplitMenu$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                    lineNumber: 94,
+                    lineNumber: 95,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/HeroSection.jsx",
-                lineNumber: 93,
+                lineNumber: 94,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -1728,7 +1728,7 @@ const TestimonialSection = ()=>{
                     className: "text-center mb-8 sm:mb-10 md:mb-12",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 sm:mb-4",
+                            className: "text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!",
                             children: "What Our Clients Say"
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/TestimonialSection.jsx",
@@ -1736,7 +1736,7 @@ const TestimonialSection = ()=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-base leading-none! sm:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto px-2 sm:px-0",
+                            className: "text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight!",
                             children: "Don't just take our word for it. Here's what our clients have to say about their experience working with us."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/sections/TestimonialSection.jsx",

@@ -1,11 +1,6 @@
 {
   "app": {
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/_not-found/page": [],
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/about/page": [],
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/page": [],
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/page": [],
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page": [],
-    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/page": []
+    "[project]/vs_code_workspace/react work/company portfolio/frontend/app/terms/page": []
   },
   "appUsingSizeAdjust": false,
   "pages": {},

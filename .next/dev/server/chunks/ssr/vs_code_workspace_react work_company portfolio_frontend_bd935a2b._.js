@@ -7,54 +7,67 @@ __turbopack_context__.s([
     ()=>__TURBOPACK__default__export__
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
-(()=>{
-    const e = new Error("Cannot find module './components/DarkVeil'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
+// import DarkVeil from './DarkVeil';
 var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/vs_code_workspace/react work/company portfolio/frontend/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)");
 "use client";
 ;
 ;
 ;
 const HeroSection = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "relative bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white py-16 md:py-24 px-4",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(DarkVeil, {}, void 0, false, {
-                fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                lineNumber: 8,
-                columnNumber: 7
-            }, ("TURBOPACK compile-time value", void 0)),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "hero-heading-container pointer-events-auto mx-auto text-center border   lg:max-w-[80%] 2xl:max-w-[60%] max-sm:px-4 max-sm:pt-8",
+        className: "h-screen! w-screen! relative overflow-hidden! bg-linear-to-r from-[#4CC9F0] via-[#4361CC] to-[#4CC9F0] bg-size-[400%_100%] animate-gradient-x",
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40",
+            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "hero-heading-container pointer-events-auto mx-auto text-center   lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "text-4xl md:text-6xl font-bold mb-6 leading-tight",
-                        children: "Professional Printing Services"
+                        className: "font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-[2.4rem]! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!",
+                        children: "Comprehensive Printing Solutions Tailored to Bring Your Creative Vision to Life"
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                        lineNumber: 11,
-                        columnNumber: 9
+                        lineNumber: 15,
+                        columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-lg md:text-xl text-blue-100 max-w-3xl mx-auto",
-                        children: "Complete printing solutions in Afghanistan. From design to delivery, we bring your vision to life."
+                        className: "text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7",
+                        children: "From business cards to banners, we offer comprehensive printing solutions. Exceptional quality with fast turnaround times and competitive pricing."
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                        lineNumber: 14,
-                        columnNumber: 9
+                        lineNumber: 20,
+                        columnNumber: 11
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex flex-col sm:flex-row gap-2 justify-center max-sm:mt-8 md:mt-20!",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                            href: "/contact",
+                            className: "border border-white text-white px-20 py-4 max-sm:py-3! max-sm:w-[80%]! max-sm:px-16 rounded-full font-bold text-lg hover:bg-white hover:text-blue-600! transition-all inline-flex items-center justify-center shadow-xl backdrop-blur-sm bg-white/10",
+                            children: "Get in touch"
+                        }, void 0, false, {
+                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
+                            lineNumber: 26,
+                            columnNumber: 13
+                        }, ("TURBOPACK compile-time value", void 0))
+                    }, void 0, false, {
+                        fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
+                        lineNumber: 25,
+                        columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-                lineNumber: 9,
-                columnNumber: 7
+                lineNumber: 11,
+                columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
-        ]
-    }, void 0, true, {
+        }, void 0, false, {
+            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
+            lineNumber: 10,
+            columnNumber: 7
+        }, ("TURBOPACK compile-time value", void 0))
+    }, void 0, false, {
         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/HeroSection.jsx",
-        lineNumber: 7,
+        lineNumber: 8,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -104,7 +117,7 @@ const ServiceCard = ({ service })=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-sm md:text-base text-gray-600 leading-relaxed",
+                        className: "text-lg! md:text-base text-gray-600 leading-tight!",
                         children: service.description
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/ServiceCard.jsx",
@@ -301,15 +314,15 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__
 ;
 const ServiceSection = ({ title, subtitle, services, bgColor })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: `py-12 md:py-20 px-4 ${bgColor}`,
+        className: `py-12 md:py-20 px-4 ${bgColor} `,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "max-w-7xl mx-auto",
+            className: "max-w-7xl mx-auto ",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "text-center mb-8 md:mb-12",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "text-5xl! md:text-5xl font-bold text-gray-900 mb-3 md:mb-4",
+                            className: "text-3xl! sm:text-4xl! md:text-5xl! font-extrabold leading-none mb-5!",
                             children: title
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/ServiceSection.jsx",
@@ -317,7 +330,7 @@ const ServiceSection = ({ title, subtitle, services, bgColor })=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "text-base md:text-xl text-gray-600 max-w-3xl mx-auto",
+                            className: "text-gray-600 mb-4 text-base sm:text-lg! lg:text-xl! leading-none! max-sm:leading-tight! xl:pr-4",
                             children: subtitle
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/components/ServiceSection.jsx",
@@ -950,7 +963,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__
 ;
 const ServicesPage = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "bg-white",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$services$2f$components$2f$HeroSection$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/services/page.jsx",

@@ -11,7 +11,7 @@ const TeamMembers = () => {
         <div className="row align-items-center">
           <div className="col-lg-12 col-12">
             <div className="team-left-contant">
-              <div className="wpo-section-title pr-0! mr-0! max-sm:text-center!">
+              <div className="wpo-section-title pr-0! mr-0! mb-8! text-center!">
                 <h2>Awesome team members</h2>
               </div>
             </div>

@@ -126,6 +126,7 @@ function index({ modal, projects }) {
     const cursor = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
     const cursorLabel = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
+        if (!modalContainer.current) return;
         //Move Container
         let xMoveContainer = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(modalContainer.current, "left", {
             duration: 0.8,
@@ -136,32 +137,60 @@ function index({ modal, projects }) {
             ease: "power3"
         });
         //Move cursor
-        let xMoveCursor = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursor.current, "left", {
+        let xMoveCursor = cursor.current ? __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursor.current, "left", {
             duration: 0.5,
             ease: "power3"
-        });
-        let yMoveCursor = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursor.current, "top", {
+        }) : null;
+        let yMoveCursor = cursor.current ? __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursor.current, "top", {
             duration: 0.5,
             ease: "power3"
-        });
+        }) : null;
         //Move cursor label
-        let xMoveCursorLabel = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursorLabel.current, "left", {
+        let xMoveCursorLabel = cursorLabel.current ? __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursorLabel.current, "left", {
             duration: 0.45,
             ease: "power3"
-        });
-        let yMoveCursorLabel = __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursorLabel.current, "top", {
+        }) : null;
+        let yMoveCursorLabel = cursorLabel.current ? __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$gsap$2f$index$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["default"].quickTo(cursorLabel.current, "top", {
             duration: 0.45,
             ease: "power3"
-        });
-        window.addEventListener("mousemove", (e)=>{
-            const { pageX, pageY } = e;
-            xMoveContainer(pageX);
-            yMoveContainer(pageY);
-            xMoveCursor(pageX);
-            yMoveCursor(pageY);
-            xMoveCursorLabel(pageX);
-            yMoveCursorLabel(pageY);
-        });
+        }) : null;
+        const handleMouseMove = (e)=>{
+            // Use clientX/clientY for fixed positioning (viewport-relative)
+            let { clientX, clientY } = e;
+            if (!modalContainer.current) return;
+            // Get modal container dimensions
+            const computedStyle = window.getComputedStyle(modalContainer.current);
+            const modalWidth = parseFloat(computedStyle.width) || 400;
+            const modalHeight = parseFloat(computedStyle.height) || 350;
+            // Get viewport dimensions
+            const viewportWidth = window.innerWidth;
+            const viewportHeight = window.innerHeight;
+            // Since modal is centered with -50% transform, calculate bounds
+            const halfWidth = modalWidth / 2;
+            const halfHeight = modalHeight / 2;
+            // Only constrain if modal would overflow viewport
+            // Otherwise, use cursor position directly
+            if (clientX < halfWidth) {
+                clientX = halfWidth;
+            } else if (clientX > viewportWidth - halfWidth) {
+                clientX = viewportWidth - halfWidth;
+            }
+            if (clientY < halfHeight) {
+                clientY = halfHeight;
+            } else if (clientY > viewportHeight - halfHeight) {
+                clientY = viewportHeight - halfHeight;
+            }
+            xMoveContainer(clientX);
+            yMoveContainer(clientY);
+            if (xMoveCursor) xMoveCursor(e.pageX);
+            if (yMoveCursor) yMoveCursor(e.pageY);
+            if (xMoveCursorLabel) xMoveCursorLabel(e.pageX);
+            if (yMoveCursorLabel) yMoveCursorLabel(e.pageY);
+        };
+        window.addEventListener("mousemove", handleMouseMove);
+        return ()=>{
+            window.removeEventListener("mousemove", handleMouseMove);
+        };
     }, []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -185,27 +214,30 @@ function index({ modal, projects }) {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             src: src,
                             width: 300,
-                            height: 0,
-                            alt: "image"
+                            height: 300,
+                            alt: "image",
+                            style: {
+                                height: "auto"
+                            }
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/index.jsx",
-                            lineNumber: 87,
+                            lineNumber: 134,
                             columnNumber: 17
                         }, this)
                     }, `modal_${index}`, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/index.jsx",
-                        lineNumber: 82,
+                        lineNumber: 129,
                         columnNumber: 15
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/index.jsx",
-                lineNumber: 78,
+                lineNumber: 125,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/components/modal/index.jsx",
-            lineNumber: 71,
+            lineNumber: 118,
             columnNumber: 7
         }, this)
     }, void 0, false);
@@ -402,11 +434,11 @@ const ContactHero = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute inset-0 flex items-center justify-center z-20 pointer-events-none max-sm:items-start max-sm:mt-16 max-xl:items-start! max-xl:mt-40",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-8",
+                    className: "hero-heading-container pointer-events-auto mx-auto text-center lg:max-w-[90%] 2xl:max-w-[75%] max-sm:px-4 max-sm:pt-20",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "font-bold text-white text-center leading-none drop-shadow-2xl mb-6 max-sm:text-5xl! sm:text-5xl! md:text-6xl! lg:text-8xl max-xl:text-7xl max-sm:text-left! xl:text-8xl!",
-                            children: "These are the ideas we've brought to life in ink and paper"
+                            children: "Showcasing Excellence in Every Print! Our Work Speaks Volumes About Quality"
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
                             lineNumber: 81,
@@ -414,10 +446,10 @@ const ContactHero = ()=>{
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-lg! sm:text-xl! md:text-3xl! max-sm:text-2xl! max-sm:text-left! max-sm:leading-[0.9]! text-white/80! lg:w-11/12  my-8! mx-auto drop-shadow-xl leading-7",
-                            children: "Your trusted partner for professional printing services in Afghanistan. From brochures to books, business cards to banners, we deliver excellence in every print."
+                            children: "Explore our completed projects showcasing our commitment to excellence. Each piece represents our promise to deliver superior quality printing."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                            lineNumber: 85,
+                            lineNumber: 86,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -428,12 +460,12 @@ const ContactHero = ()=>{
                                 children: "View Our Work"
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                                lineNumber: 91,
+                                lineNumber: 92,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                            lineNumber: 90,
+                            lineNumber: 91,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -469,7 +501,7 @@ function ProjectsGallery() {
                         children: "Ink, Paper, Perfection! See Our Finest Work."
                     }, void 0, false, {
                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                        lineNumber: 110,
+                        lineNumber: 111,
                         columnNumber: 9
                     }, this),
                     projects.map((project, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$portfolio$2f$components$2f$project$2f$index$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -479,13 +511,13 @@ function ProjectsGallery() {
                             setModal: setModal
                         }, index, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                            lineNumber: 115,
+                            lineNumber: 116,
                             columnNumber: 11
                         }, this))
                 ]
             }, void 0, true, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                lineNumber: 109,
+                lineNumber: 110,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$portfolio$2f$components$2f$modal$2f$index$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -493,7 +525,7 @@ function ProjectsGallery() {
                 projects: projects
             }, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                lineNumber: 125,
+                lineNumber: 126,
                 columnNumber: 7
             }, this)
         ]
@@ -504,12 +536,12 @@ const page = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ContactHero, {}, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                lineNumber: 133,
+                lineNumber: 134,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(ProjectsGallery, {}, void 0, false, {
                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/portfolio/page.jsx",
-                lineNumber: 134,
+                lineNumber: 135,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
