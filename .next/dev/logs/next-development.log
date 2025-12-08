@@ -1,11 +1,12 @@
-[00:00:00.866] Server  LOG      ✓ Ready in 580ms
-[00:00:03.828] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:00.703] Server  LOG      ✓ Ready in 491ms
+[00:00:06.075] Server  LOG      ○ Compiling / ...
+[00:00:06.275] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: 13 repetitive deprecation warnings omitted.
 Run in verbose mode to see all warnings.
 
 
-[00:00:03.829] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.275] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 1, column 14 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/helpers/_functions.scss:1:14:
 Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
@@ -23,7 +24,7 @@ app/global.scss 7:9                    root stylesheet
 
 
 
-[00:00:03.829] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 1, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:1:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -37,7 +38,7 @@ app/global.scss 2:9  root stylesheet
 
 
 
-[00:00:03.829] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 10, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:10:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -51,7 +52,7 @@ app/global.scss 11:9  root stylesheet
 
 
 
-[00:00:03.829] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 136, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:136:26:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -67,7 +68,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.829] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 136, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:136:26:
 lighten() is deprecated. Suggestions:
@@ -85,7 +86,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 143, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:143:26:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -101,7 +102,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 143, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:143:26:
 lighten() is deprecated. Suggestions:
@@ -119,7 +120,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 180, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:180:22:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -135,7 +136,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.276] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 180, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:180:22:
 transparentize() is deprecated. Suggestions:
@@ -153,7 +154,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 2, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:2:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -167,7 +168,7 @@ app/global.scss 3:9  root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 218, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:218:22:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -183,7 +184,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.830] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 218, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:218:22:
 transparentize() is deprecated. Suggestions:
@@ -201,7 +202,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:03.831] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 3, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:3:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -215,7 +216,7 @@ app/global.scss 4:9  root stylesheet
 
 
 
-[00:00:03.831] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 356, column 20 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/components/_buttons.scss:356:20:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -231,7 +232,7 @@ app/global.scss 11:9                      root stylesheet
 
 
 
-[00:00:03.831] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 356, column 20 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/components/_buttons.scss:356:20:
 darken() is deprecated. Suggestions:
@@ -249,7 +250,7 @@ app/global.scss 11:9                      root stylesheet
 
 
 
-[00:00:03.831] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:06.277] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 6, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:6:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -263,13 +264,13 @@ app/global.scss 7:9  root stylesheet
 
 
 
-[00:00:04.469] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.116] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: 13 repetitive deprecation warnings omitted.
 Run in verbose mode to see all warnings.
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 1, column 14 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/helpers/_functions.scss:1:14:
 Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
@@ -287,7 +288,7 @@ app/global.scss 7:9                    root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 1, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:1:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -301,7 +302,7 @@ app/global.scss 2:9  root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 10, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:10:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -315,7 +316,7 @@ app/global.scss 11:9  root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 136, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:136:26:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -331,7 +332,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 136, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:136:26:
 lighten() is deprecated. Suggestions:
@@ -349,7 +350,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 143, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:143:26:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -365,7 +366,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 143, column 26 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:143:26:
 lighten() is deprecated. Suggestions:
@@ -383,7 +384,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 180, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:180:22:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -399,7 +400,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.117] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 180, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:180:22:
 transparentize() is deprecated. Suggestions:
@@ -417,7 +418,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 2, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:2:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -431,7 +432,7 @@ app/global.scss 3:9  root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 218, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:218:22:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -447,7 +448,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 218, column 22 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/base/_base.scss:218:22:
 transparentize() is deprecated. Suggestions:
@@ -465,7 +466,7 @@ app/global.scss 7:9              root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 3, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:3:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
@@ -479,7 +480,7 @@ app/global.scss 4:9  root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 356, column 20 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/components/_buttons.scss:356:20:
 Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
@@ -495,7 +496,7 @@ app/global.scss 11:9                      root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 356, column 20 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/scss/components/_buttons.scss:356:20:
 darken() is deprecated. Suggestions:
@@ -513,7 +514,7 @@ app/global.scss 11:9                      root stylesheet
 
 
 
-[00:00:04.470] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
+[00:00:07.118] Server  WARN     ⚠ ./vs_code_workspace/react work/company portfolio/frontend/app/global.scss
 Issue while running loader
 SassWarning: Deprecation Warning on line 6, column 8 of file:///home/akbar/vs_code_workspace/react%20work/company%20portfolio/frontend/app/global.scss:6:8:
 Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
