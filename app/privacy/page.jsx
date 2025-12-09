@@ -1,3 +1,8 @@
+import { generateMetadata } from "../seo/seo";
+import { seoConfig } from "../seo/seoConfig";
+
+export const metadata = generateMetadata(seoConfig.privacy)
+
 export default function PrivacyPolicy() {
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">

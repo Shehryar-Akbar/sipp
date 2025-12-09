@@ -110,7 +110,7 @@ const Header = ()=>{
     const [isScrolled, setIsScrolled] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const [isClient, setIsClient] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const pathname = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["usePathname"])(); // Get current path from Next.js
+    const pathname = (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["usePathname"])();
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
         "Header.useEffect": ()=>{
             setIsClient(true);
@@ -153,28 +153,22 @@ const Header = ()=>{
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex items-center space-x-2",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                    href: "/",
-                                    className: `text-xl font-bold ${isScrolled ? "text-white!" : "text-white!"}`,
-                                    children: "LOGO"
-                                }, void 0, false, {
-                                    fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                    lineNumber: 44,
-                                    columnNumber: 15
-                                }, ("TURBOPACK compile-time value", void 0))
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                href: "/",
+                                className: `text-xl font-bold ${isScrolled ? "text-white!" : "text-white!"}`,
+                                children: "LOGO"
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                lineNumber: 43,
+                                lineNumber: 44,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 42,
+                            lineNumber: 43,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "hidden md:flex space-x-8",
+                            className: "hidden lg:flex space-x-8",
                             children: navLinks.map((link)=>{
                                 const isActive = isClient && pathname === link.href;
                                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -188,28 +182,28 @@ const Header = ()=>{
                                                 className: `vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white! transition-all duration-300 ${isActive ? "opacity-100" : "opacity-0 group-hover:opacity-100"}`
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                                lineNumber: 76,
+                                                lineNumber: 75,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                        lineNumber: 61,
+                                        lineNumber: 60,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, link.name, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                    lineNumber: 60,
+                                    lineNumber: 59,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0));
                             })
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 56,
+                            lineNumber: 55,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "hidden md:flex",
+                            className: "hidden lg:flex",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$app$2f$components$2f$CtaButton$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 isScrolled: isScrolled
                             }, void 0, false, {
@@ -223,7 +217,7 @@ const Header = ()=>{
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "md:hidden flex items-center gap-2",
+                            className: "lg:hidden flex items-center gap-2",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>setIsMobileMenuOpen(!isMobileMenuOpen),
                                 children: isMobileMenuOpen ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
@@ -256,14 +250,12 @@ const Header = ()=>{
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 isMobileMenuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "md:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]",
+                    className: "lg:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]",
                     children: [
                         navLinks.map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 href: link.href,
                                 className: "block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100",
-                                onClick: ()=>{
-                                    setIsMobileMenuOpen(false);
-                                },
+                                onClick: ()=>setIsMobileMenuOpen(false),
                                 children: link.name
                             }, link.name, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
@@ -277,7 +269,7 @@ const Header = ()=>{
                             children: "Get in Touch"
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 120,
+                            lineNumber: 119,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
@@ -500,6 +492,10 @@ const Footer = ()=>{
         {
             label: "Contact",
             href: "/contact"
+        },
+        {
+            label: "Clients",
+            href: "/clients"
         }
     ];
     const serviceItems = [
@@ -541,10 +537,10 @@ const Footer = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-4xl! font-bold mb-2 text-white!",
-                                    children: "Strength Innovations"
+                                    children: "Strength Innovation"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 48,
+                                    lineNumber: 49,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -552,13 +548,13 @@ const Footer = ()=>{
                                     children: "Design amazing digital experiences that create more happy in the world."
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 52,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 47,
+                            lineNumber: 48,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -573,26 +569,26 @@ const Footer = ()=>{
                                             children: "Company"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 63,
+                                            lineNumber: 64,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         openSection === "company" ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__["ChevronUp"], {
                                             className: "h-5 w-5"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 65,
+                                            lineNumber: 66,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$down$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronDown$3e$__["ChevronDown"], {
                                             className: "h-5 w-5"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 67,
+                                            lineNumber: 68,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 59,
+                                    lineNumber: 60,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 openSection === "company" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -604,23 +600,23 @@ const Footer = ()=>{
                                                 children: link.label
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                                lineNumber: 75,
+                                                lineNumber: 76,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, link.label, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 74,
+                                            lineNumber: 75,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 72,
+                                    lineNumber: 73,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 58,
+                            lineNumber: 59,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -635,26 +631,26 @@ const Footer = ()=>{
                                             children: "Services"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 93,
+                                            lineNumber: 94,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         openSection === "services" ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$up$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronUp$3e$__["ChevronUp"], {
                                             className: "h-5 w-5"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 95,
+                                            lineNumber: 96,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$down$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronDown$3e$__["ChevronDown"], {
                                             className: "h-5 w-5"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 97,
+                                            lineNumber: 98,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 89,
+                                    lineNumber: 90,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 openSection === "services" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -664,24 +660,24 @@ const Footer = ()=>{
                                             children: service
                                         }, service, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 104,
+                                            lineNumber: 105,
                                             columnNumber: 19
                                         }, ("TURBOPACK compile-time value", void 0)))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 102,
+                                    lineNumber: 103,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 88,
+                            lineNumber: 89,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                    lineNumber: 46,
+                    lineNumber: 47,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -694,7 +690,7 @@ const Footer = ()=>{
                                     children: "Strength Innovations"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 119,
+                                    lineNumber: 120,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -702,13 +698,13 @@ const Footer = ()=>{
                                     children: "Design amazing digital experiences that create more happy in the world."
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 122,
+                                    lineNumber: 123,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 118,
+                            lineNumber: 119,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -718,7 +714,7 @@ const Footer = ()=>{
                                     children: "Company"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 129,
+                                    lineNumber: 130,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -730,23 +726,23 @@ const Footer = ()=>{
                                                 children: link.label
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                                lineNumber: 135,
+                                                lineNumber: 136,
                                                 columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, link.label, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 134,
+                                            lineNumber: 135,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 132,
+                                    lineNumber: 133,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 128,
+                            lineNumber: 129,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -756,7 +752,7 @@ const Footer = ()=>{
                                     children: "Services"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 147,
+                                    lineNumber: 148,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -766,18 +762,18 @@ const Footer = ()=>{
                                             children: service
                                         }, service, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 152,
+                                            lineNumber: 153,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)))
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 150,
+                                    lineNumber: 151,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 146,
+                            lineNumber: 147,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -792,7 +788,7 @@ const Footer = ()=>{
                                             children: "t"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 165,
+                                            lineNumber: 166,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -800,20 +796,12 @@ const Footer = ()=>{
                                             children: "i"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 166,
-                                            columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            "aria-hidden": "true",
-                                            children: "k"
-                                        }, void 0, false, {
-                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 167,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "t"
+                                            children: "k"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 168,
@@ -821,7 +809,7 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "o"
+                                            children: "t"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 169,
@@ -829,16 +817,24 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "k"
+                                            children: "o"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 170,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            "aria-hidden": "true",
+                                            children: "k"
+                                        }, void 0, false, {
+                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
+                                            lineNumber: 171,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 164,
+                                    lineNumber: 165,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -851,7 +847,7 @@ const Footer = ()=>{
                                             children: "i"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 173,
+                                            lineNumber: 174,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -859,7 +855,7 @@ const Footer = ()=>{
                                             children: "n"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 174,
+                                            lineNumber: 175,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -867,7 +863,7 @@ const Footer = ()=>{
                                             children: "s"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 175,
+                                            lineNumber: 176,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -875,20 +871,12 @@ const Footer = ()=>{
                                             children: "t"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 176,
-                                            columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            "aria-hidden": "true",
-                                            children: "a"
-                                        }, void 0, false, {
-                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 177,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "g"
+                                            children: "a"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 178,
@@ -896,7 +884,7 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "r"
+                                            children: "g"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 179,
@@ -904,7 +892,7 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "a"
+                                            children: "r"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 180,
@@ -912,16 +900,24 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "m"
+                                            children: "a"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 181,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            "aria-hidden": "true",
+                                            children: "m"
+                                        }, void 0, false, {
+                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
+                                            lineNumber: 182,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 172,
+                                    lineNumber: 173,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -934,7 +930,7 @@ const Footer = ()=>{
                                             children: "f"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 184,
+                                            lineNumber: 185,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -942,7 +938,7 @@ const Footer = ()=>{
                                             children: "a"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 185,
+                                            lineNumber: 186,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -950,7 +946,7 @@ const Footer = ()=>{
                                             children: "c"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 186,
+                                            lineNumber: 187,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -958,20 +954,12 @@ const Footer = ()=>{
                                             children: "e"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 187,
-                                            columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            "aria-hidden": "true",
-                                            children: "b"
-                                        }, void 0, false, {
-                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 188,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "o"
+                                            children: "b"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 189,
@@ -987,16 +975,24 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "k"
+                                            children: "o"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 191,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            "aria-hidden": "true",
+                                            children: "k"
+                                        }, void 0, false, {
+                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
+                                            lineNumber: 192,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 183,
+                                    lineNumber: 184,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1009,7 +1005,7 @@ const Footer = ()=>{
                                             children: "y"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 194,
+                                            lineNumber: 195,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1017,20 +1013,12 @@ const Footer = ()=>{
                                             children: "o"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                            lineNumber: 195,
-                                            columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0)),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            "aria-hidden": "true",
-                                            children: "u"
-                                        }, void 0, false, {
-                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 196,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "t"
+                                            children: "u"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 197,
@@ -1038,7 +1026,7 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "u"
+                                            children: "t"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 198,
@@ -1046,7 +1034,7 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "b"
+                                            children: "u"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 199,
@@ -1054,35 +1042,43 @@ const Footer = ()=>{
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             "aria-hidden": "true",
-                                            children: "e"
+                                            children: "b"
                                         }, void 0, false, {
                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
                                             lineNumber: 200,
+                                            columnNumber: 15
+                                        }, ("TURBOPACK compile-time value", void 0)),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            "aria-hidden": "true",
+                                            children: "e"
+                                        }, void 0, false, {
+                                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
+                                            lineNumber: 201,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 193,
+                                    lineNumber: 194,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 163,
+                            lineNumber: 164,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                    lineNumber: 117,
+                    lineNumber: 118,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("hr", {
                     className: "border-gray-800 mb-8"
                 }, void 0, false, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                    lineNumber: 205,
+                    lineNumber: 206,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1093,7 +1089,7 @@ const Footer = ()=>{
                             children: "© 2025 SIPP. All rights reserved."
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 207,
+                            lineNumber: 208,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1104,29 +1100,29 @@ const Footer = ()=>{
                                     children: link.label
                                 }, link.label, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                                    lineNumber: 212,
+                                    lineNumber: 213,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                            lineNumber: 210,
+                            lineNumber: 211,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-                    lineNumber: 206,
+                    lineNumber: 207,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-            lineNumber: 44,
+            lineNumber: 45,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Footer.jsx",
-        lineNumber: 43,
+        lineNumber: 44,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

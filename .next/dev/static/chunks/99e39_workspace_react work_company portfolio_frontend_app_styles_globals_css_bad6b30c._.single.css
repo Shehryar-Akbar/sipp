@@ -87,11 +87,9 @@
     --color-green-800: #016630;
     --color-blue-50: #eff6ff;
     --color-blue-100: #dbeafe;
-    --color-blue-400: #54a2ff;
     --color-blue-500: #3080ff;
     --color-blue-600: #155dfc;
     --color-blue-700: #1447e6;
-    --color-blue-800: #193cb8;
     --color-indigo-50: #eef2ff;
     --color-indigo-900: #312c85;
     --color-purple-600: #9810fa;
@@ -110,7 +108,6 @@
     --color-black: #000;
     --color-white: #fff;
     --spacing: .25rem;
-    --container-xs: 20rem;
     --container-xl: 36rem;
     --container-4xl: 56rem;
     --container-6xl: 72rem;
@@ -139,7 +136,6 @@
     --text-7xl--line-height: 1;
     --text-8xl: 6rem;
     --text-8xl--line-height: 1;
-    --font-weight-light: 300;
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
@@ -182,11 +178,9 @@
       --color-green-800: lab(37.4616% -36.7971 22.9692);
       --color-blue-50: lab(96.492% -1.14644 -5.11479);
       --color-blue-100: lab(92.0301% -2.24757 -11.6453);
-      --color-blue-400: lab(65.0361% -1.42065 -56.9802);
       --color-blue-500: lab(54.1736% 13.3369 -74.6839);
       --color-blue-600: lab(44.0605% 29.0279 -86.0352);
       --color-blue-700: lab(36.9089% 35.0961 -85.6872);
-      --color-blue-800: lab(30.2514% 27.7853 -70.2699);
       --color-indigo-50: lab(95.4818% .411302 -6.78529);
       --color-indigo-900: lab(23.3911% 24.6978 -50.4718);
       --color-purple-600: lab(43.0295% 75.21 -86.5669);
@@ -637,10 +631,6 @@
     margin-top: calc(var(--spacing) * 4);
   }
 
-  .mt-8 {
-    margin-top: calc(var(--spacing) * 8);
-  }
-
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
@@ -901,10 +891,6 @@
     max-width: var(--container-xl);
   }
 
-  .max-w-xs {
-    max-width: var(--container-xs);
-  }
-
   .min-w-\[83\%\]\! {
     min-width: 83% !important;
   }
@@ -1134,10 +1120,6 @@
     scroll-behavior: smooth;
   }
 
-  .rounded {
-    border-radius: .25rem;
-  }
-
   .rounded-2xl {
     border-radius: var(--radius-2xl);
   }
@@ -1285,10 +1267,6 @@
 
   .bg-gray-200 {
     background-color: var(--color-gray-200);
-  }
-
-  .bg-gray-900 {
-    background-color: var(--color-gray-900);
   }
 
   .bg-green-50 {
@@ -1505,16 +1483,8 @@
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
 
-  .bg-cover {
-    background-size: cover;
-  }
-
   .bg-size-\[400\%_100\%\] {
     background-size: 400% 100%;
-  }
-
-  .bg-center {
-    background-position: center;
   }
 
   .fill-yellow-400 {
@@ -1613,6 +1583,10 @@
     padding-block: calc(var(--spacing) * 20);
   }
 
+  .py-24 {
+    padding-block: calc(var(--spacing) * 24);
+  }
+
   .pt-6 {
     padding-top: calc(var(--spacing) * 6);
   }
@@ -1685,11 +1659,6 @@
   .text-4xl\! {
     font-size: var(--text-4xl) !important;
     line-height: var(--tw-leading, var(--text-4xl--line-height)) !important;
-  }
-
-  .text-5xl {
-    font-size: var(--text-5xl);
-    line-height: var(--tw-leading, var(--text-5xl--line-height));
   }
 
   .text-5xl\! {
@@ -1785,11 +1754,6 @@
     font-weight: var(--font-weight-extrabold);
   }
 
-  .font-light {
-    --tw-font-weight: var(--font-weight-light);
-    font-weight: var(--font-weight-light);
-  }
-
   .font-medium {
     --tw-font-weight: var(--font-weight-medium);
     font-weight: var(--font-weight-medium);
@@ -1826,10 +1790,6 @@
 
   .text-black {
     color: var(--color-black);
-  }
-
-  .text-blue-400 {
-    color: var(--color-blue-400);
   }
 
   .text-blue-500 {
@@ -1918,10 +1878,6 @@
 
   .uppercase {
     text-transform: uppercase;
-  }
-
-  .underline {
-    text-decoration-line: underline;
   }
 
   .opacity-0 {
@@ -2160,12 +2116,6 @@
   @media (hover: hover) {
     .hover\:text-blue-600\!:hover {
       color: var(--color-blue-600) !important;
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:text-blue-800:hover {
-      color: var(--color-blue-800);
     }
   }
 
@@ -2916,12 +2866,6 @@
   }
 
   @media (min-width: 48rem) {
-    .md\:p-16 {
-      padding: calc(var(--spacing) * 16);
-    }
-  }
-
-  @media (min-width: 48rem) {
     .md\:px-8 {
       padding-inline: calc(var(--spacing) * 8);
     }
@@ -3014,6 +2958,12 @@
     .md\:text-base {
       font-size: var(--text-base);
       line-height: var(--tw-leading, var(--text-base--line-height));
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .lg\:flex {
+      display: flex;
     }
   }
 

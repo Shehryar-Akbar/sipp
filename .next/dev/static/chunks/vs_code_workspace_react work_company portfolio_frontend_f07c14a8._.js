@@ -145,7 +145,7 @@ const ContactForm = ()=>{
                                                             onChange: handleChange,
                                                             required: true,
                                                             className: "w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all",
-                                                            placeholder: "John"
+                                                            placeholder: "Ahmad"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
                                                             lineNumber: 110,
@@ -176,7 +176,7 @@ const ContactForm = ()=>{
                                                             onChange: handleChange,
                                                             required: true,
                                                             className: "w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all",
-                                                            placeholder: "Doe"
+                                                            placeholder: "Jan"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
                                                             lineNumber: 128,
@@ -216,7 +216,7 @@ const ContactForm = ()=>{
                                                             onChange: handleChange,
                                                             required: true,
                                                             className: "w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all",
-                                                            placeholder: "john@example.com"
+                                                            placeholder: "Ahmad@gmail.com"
                                                         }, void 0, false, {
                                                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/contact/ContactForm.jsx",
                                                             lineNumber: 150,

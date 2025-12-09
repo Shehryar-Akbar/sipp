@@ -187,7 +187,7 @@ const Accordion = () => {
   ];
 
   return (
-    <div className="min-h-full py-16 mt-8 flex flex-col justify-center items-center bg-gray-50 p-8 font-inter">
+    <div className="min-h-full py-24 flex flex-col justify-center items-center p-8 font-inter">
       <h2 className="text-3xl! sm:text-4xl! md:text-5xl! lg:text-6xl! font-extrabold leading-none mb-5!">
         Our Mission & Vision
       </h2>

@@ -108,7 +108,7 @@ const ScrollStack = ({ children, className = "", stackGap = 20 }) => {
 // Demo component
 export default function ScrollStackDemo() {
   return (
-    <div className="w-full bg-gray-100">
+    <div className="w-full">
       <ScrollStack>
         <ScrollStackItem itemClassName="bg-[#f72585] text-white">
           <div className="flex justify-center items-center h-full relative">

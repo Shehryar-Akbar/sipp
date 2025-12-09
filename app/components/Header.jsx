@@ -9,7 +9,7 @@ const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isClient, setIsClient] = useState(false);
-  const pathname = usePathname(); // Get current path from Next.js
+  const pathname = usePathname();
 
   useEffect(() => {
     setIsClient(true);
@@ -39,21 +39,20 @@ const Header = () => {
     >
       <div className="max-w-11/12 mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="flex justify-between items-center">
+          {/* Logo */}
           <div className="flex items-center space-x-2">
-            <div>
-              <Link
-                href="/"
-                className={`text-xl font-bold ${
-                  isScrolled ? "text-white!" : "text-white!"
-                }`}
-              >
-                LOGO
-              </Link>
-            </div>
+            <Link
+              href="/"
+              className={`text-xl font-bold ${
+                isScrolled ? "text-white!" : "text-white!"
+              }`}
+            >
+              LOGO
+            </Link>
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex space-x-8">
+          <div className="hidden lg:flex space-x-8">
             {navLinks.map((link) => {
               const isActive = isClient && pathname === link.href;
               return (
@@ -72,7 +71,7 @@ const Header = () => {
                   >
                     {link.name}
 
-                    {/* Vibrating underline with rounded edges */}
+                    {/* Underline Animation */}
                     <span
                       className={`vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white! transition-all duration-300 ${
                         isActive
@@ -86,12 +85,13 @@ const Header = () => {
             })}
           </div>
 
-          <div className="hidden md:flex">
+          {/* Desktop CTA Button */}
+          <div className="hidden lg:flex">
             <CtaButton isScrolled={isScrolled} />
           </div>
 
           {/* Mobile Menu Button */}
-          <div className="md:hidden flex items-center gap-2">
+          <div className="lg:hidden flex items-center gap-2">
             <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
               {isMobileMenuOpen ? (
                 <X className="text-white!" />
@@ -104,19 +104,18 @@ const Header = () => {
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="md:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]">
+          <div className="lg:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]">
             {navLinks.map((link) => (
               <Link
                 key={link.name}
                 href={link.href}
                 className="block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100"
-                onClick={() => {
-                  setIsMobileMenuOpen(false);
-                }}
+                onClick={() => setIsMobileMenuOpen(false)}
               >
                 {link.name}
               </Link>
             ))}
+
             <Link
               href="/contact"
               className="block mt-4 bg-linear-to-r from-blue-600 to-purple-600 text-white sm:text-xl max-sm:text-xl px-6 py-3 rounded-full font-medium text-center transition-all duration-300 hover:shadow-lg hover:scale-105 active:scale-95 hover:from-blue-700 hover:to-purple-700"

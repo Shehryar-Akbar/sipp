@@ -3,12 +3,6 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import * as THREE from "three";
 import { gsap } from "gsap";
-import img1 from "../../public/about/img1.jpg";
-import img2 from "../../public/about/img2.jpg";
-import img3 from "../../public/about/img3.jpg";
-import img4 from "../../public/about/img4.jpg";
-import img5 from "../../public/about/img5.jpg";
-import img6 from "../../public/about/img6.jpg";
 
 // Preload images function - runs immediately
 const preloadImages = (imagePaths) => {
@@ -70,12 +64,12 @@ const SLIDER_CONFIG = {
 };
 
 const slides = [
-  { title: "Ethereal Glow", media: img1.src },
-  { title: "Rose Mirage", media: img2.src },
-  { title: "Velvet Mystique", media: img3.src },
-  { title: "Golden Hour", media: img4.src },
-  { title: "Midnight Dreams", media: img5.src },
-  { title: "Silver Light", media: img6.src },
+  { title: "Ethereal Glow", media: "/about/img1.jpg" },
+  { title: "Rose Mirage", media: "/about/img2.jpg" },
+  { title: "Velvet Mystique", media: "/about/img3.jpg" },
+  { title: "Golden Hour", media: "/about/img4.jpg" },
+  { title: "Midnight Dreams", media: "/about/img5.jpg" },
+  { title: "Silver Light", media: "/about/img6.jpg" },
 ];
 
 const vertexShader = `

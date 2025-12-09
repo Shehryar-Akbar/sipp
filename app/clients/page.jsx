@@ -1,6 +1,10 @@
 import React from "react";
 import Link from "next/link";
 import LogoMarquee from "../components/ClientsSection";
+import { generateMetadata } from "../seo/seo";
+import { seoConfig } from "../seo/seoConfig";
+
+export const metadata = generateMetadata(seoConfig.clients);
 
 const HeroSection = () => {
   return (

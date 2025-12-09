@@ -8,6 +8,8 @@
   "/page": "/",
   "/portfolio/page": "/portfolio",
   "/privacy/page": "/privacy",
+  "/robots.txt/route": "/robots.txt",
   "/services/page": "/services",
+  "/sitemap.xml/route": "/sitemap.xml",
   "/terms/page": "/terms"
 }

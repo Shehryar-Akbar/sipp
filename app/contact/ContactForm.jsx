@@ -115,7 +115,7 @@ const ContactForm = () => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all"
-                      placeholder="John"
+                      placeholder="Ahmad"
                     />
                   </div>
                   <div>
@@ -133,7 +133,7 @@ const ContactForm = () => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all"
-                      placeholder="Doe"
+                      placeholder="Jan"
                     />
                   </div>
                 </div>
@@ -155,7 +155,7 @@ const ContactForm = () => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 bg-gray-50 border-2 border-gray-200 rounded-full! focus:border-yellow-500 focus:bg-white focus:outline-none transition-all"
-                      placeholder="john@example.com"
+                      placeholder="Ahmad@gmail.com"
                     />
                   </div>
                   <div>

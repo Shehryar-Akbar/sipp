@@ -2,7 +2,7 @@ import Image from "next/image";
 import ceo from "../../public/team/ceo.jpg";
 export default function CeoMessage() {
   return (
-    <section className="py-16 px-4 md:py-24 md:px-8 bg-gray-50">
+    <section className="py-16 px-4 md:py-24 md:px-8">
       <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
 
         {/* CEO Image */}

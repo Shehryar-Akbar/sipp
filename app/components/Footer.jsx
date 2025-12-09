@@ -11,6 +11,7 @@ const Footer = () => {
     { label: "Our Services", href: "/services" },
     { label: "Portfolio", href: "/portfolio" },
     { label: "Contact", href: "/contact" },
+    { label: "Clients", href: "/clients" },
   ];
 
   const serviceItems = [
@@ -46,7 +47,7 @@ const Footer = () => {
         <div className="lg:hidden space-y-6 mb-8">
           <div>
             <h2 className="text-4xl! font-bold mb-2 text-white!">
-              Strength Innovations
+              Strength Innovation
             </h2>
             <p className="text-white! text-xl!">
               Design amazing digital experiences that create more happy in the

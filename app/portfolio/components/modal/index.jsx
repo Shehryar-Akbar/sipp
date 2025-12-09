@@ -137,6 +137,7 @@ export default function index({ modal, projects }) {
                   height={300}
                   alt="image"
                   style={{ height: "auto" }}
+                  unoptimized={true}
                 />
               </div>
             );
