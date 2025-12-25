@@ -23,10 +23,10 @@ const ProjectHero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-2 justify-center max-sm:mt-8 md:mt-20!">
             <Link
-              href="/portfolio"
+              href="/contact"
               className="border border-white text-white px-20 py-4 max-sm:py-3! max-sm:w-[80%]! max-sm:px-16 rounded-full font-bold text-lg hover:bg-white hover:text-blue-600! transition-all inline-flex items-center justify-center shadow-xl backdrop-blur-sm bg-white/10"
             >
-              View Our Work
+              Start Your project
             </Link>
           </div>
         </div>

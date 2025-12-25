@@ -31,7 +31,7 @@ const Header = () => {
 
   return (
     <nav
-      className={`fixed! w-full! z-50! transition-all duration-300 ${
+      className={`fixed w-full z-50 transition-all duration-300 ${
         isScrolled || isMobileMenuOpen
           ? "backdrop-blur-sm bg-[#402099] py-4"
           : "bg-transparent py-6 text-neutral-900"
@@ -44,8 +44,9 @@ const Header = () => {
             <Link
               href="/"
               className={`text-xl font-bold ${
-                isScrolled ? "text-white!" : "text-white!"
+                isScrolled ? "text-white" : "text-white"
               }`}
+              onClick={() => setIsMobileMenuOpen(false)}
             >
               LOGO
             </Link>
@@ -62,18 +63,18 @@ const Header = () => {
                     className={`relative font-medium text-xl transition-colors ${
                       isScrolled
                         ? isActive
-                          ? "text-white!"
-                          : "text-white!"
+                          ? "text-white"
+                          : "text-white"
                         : isActive
-                        ? "text-white!"
-                        : "text-white!"
+                        ? "text-white"
+                        : "text-white"
                     }`}
                   >
                     {link.name}
 
                     {/* Underline Animation */}
                     <span
-                      className={`vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white! transition-all duration-300 ${
+                      className={`vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white transition-all duration-300 ${
                         isActive
                           ? "opacity-100"
                           : "opacity-0 group-hover:opacity-100"
@@ -90,39 +91,50 @@ const Header = () => {
             <CtaButton isScrolled={isScrolled} />
           </div>
 
-          {/* Mobile Menu Button */}
-          <div className="lg:hidden flex items-center gap-2">
-            <button onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
-              {isMobileMenuOpen ? (
-                <X className="text-white!" />
-              ) : (
-                <Menu className="text-white!" />
-              )}
-            </button>
-          </div>
+          {/* Mobile Menu Button - Only show when menu is closed */}
+          {!isMobileMenuOpen && (
+            <div className="lg:hidden flex items-center gap-2">
+              <button onClick={() => setIsMobileMenuOpen(true)}>
+                <Menu className="text-white" />
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="lg:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]">
-            {navLinks.map((link) => (
+          <div className="lg:hidden fixed inset-0 top-0 left-0 right-0 bg-[#402099] rounded-b-[50px] shadow-xl px-4 pt-8 pb-8 h-[80vh] z-50 animate-slideDown">
+            {/* Close Button Inside Menu */}
+            <div className="flex justify-end mb-8">
+              <button
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="p-2 hover:bg-gray-100 rounded-full transition-colors"
+              >
+                <X className="text-white w-6 h-6" />
+              </button>
+            </div>
+
+            {/* Menu Links */}
+            <div className="flex flex-col space-y-2 bg-white rounded-[4rem] shadow-md p-4 h-[50vh] justify-center">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.name}
+                  href={link.href}
+                  className="block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  {link.name}
+                </Link>
+              ))}
+
               <Link
-                key={link.name}
-                href={link.href}
+                href="/contact"
                 className="block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                {link.name}
+                Get in Touch
               </Link>
-            ))}
-
-            <Link
-              href="/contact"
-              className="block mt-4 bg-linear-to-r from-blue-600 to-purple-600 text-white sm:text-xl max-sm:text-xl px-6 py-3 rounded-full font-medium text-center transition-all duration-300 hover:shadow-lg hover:scale-105 active:scale-95 hover:from-blue-700 hover:to-purple-700"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              Get in Touch
-            </Link>
+            </div>
           </div>
         )}
       </div>

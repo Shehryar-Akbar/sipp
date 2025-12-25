@@ -1,9 +1,8 @@
 (globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
     script: typeof document === "object" ? document.currentScript : undefined,
     chunks: [
-  "static/chunks/fbd95_react work_company portfolio_frontend_app_portfolio_components_801ab558._.css",
-  "static/chunks/244fb_ac025215._.js",
-  "static/chunks/fbd95_react work_company portfolio_frontend_app_portfolio_components_deed998d._.js"
+  "static/chunks/244fb_next_dist_17189ab8._.js",
+  "static/chunks/64db4_frontend_app_portfolio_components_AnimatedBackground_jsx_edb88902._.js"
 ],
     source: "dynamic"
 });

@@ -144,7 +144,7 @@ const Header = ()=>{
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
-        className: `fixed! w-full! z-50! transition-all duration-300 ${isScrolled || isMobileMenuOpen ? "backdrop-blur-sm bg-[#402099] py-4" : "bg-transparent py-6 text-neutral-900"}`,
+        className: `fixed w-full z-50 transition-all duration-300 ${isScrolled || isMobileMenuOpen ? "backdrop-blur-sm bg-[#402099] py-4" : "bg-transparent py-6 text-neutral-900"}`,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "max-w-11/12 mx-auto px-4 sm:px-6 lg:px-8 relative",
             children: [
@@ -155,7 +155,8 @@ const Header = ()=>{
                             className: "flex items-center space-x-2",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 href: "/",
-                                className: `text-xl font-bold ${isScrolled ? "text-white!" : "text-white!"}`,
+                                className: `text-xl font-bold ${isScrolled ? "text-white" : "text-white"}`,
+                                onClick: ()=>setIsMobileMenuOpen(false),
                                 children: "LOGO"
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
@@ -175,31 +176,31 @@ const Header = ()=>{
                                     className: "group",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                         href: link.href,
-                                        className: `relative font-medium text-xl transition-colors ${isScrolled ? isActive ? "text-white!" : "text-white!" : isActive ? "text-white!" : "text-white!"}`,
+                                        className: `relative font-medium text-xl transition-colors ${isScrolled ? isActive ? "text-white" : "text-white" : isActive ? "text-white" : "text-white"}`,
                                         children: [
                                             link.name,
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: `vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white! transition-all duration-300 ${isActive ? "opacity-100" : "opacity-0 group-hover:opacity-100"}`
+                                                className: `vibrating-line absolute left-0 -bottom-1 w-full h-1 rounded-full bg-white transition-all duration-300 ${isActive ? "opacity-100" : "opacity-0 group-hover:opacity-100"}`
                                             }, void 0, false, {
                                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                                lineNumber: 75,
+                                                lineNumber: 76,
                                                 columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                        lineNumber: 60,
+                                        lineNumber: 61,
                                         columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, link.name, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                    lineNumber: 59,
+                                    lineNumber: 60,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0));
                             })
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 55,
+                            lineNumber: 56,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -208,40 +209,34 @@ const Header = ()=>{
                                 isScrolled: isScrolled
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                lineNumber: 90,
+                                lineNumber: 91,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 89,
+                            lineNumber: 90,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        !isMobileMenuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "lg:hidden flex items-center gap-2",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                onClick: ()=>setIsMobileMenuOpen(!isMobileMenuOpen),
-                                children: isMobileMenuOpen ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
-                                    className: "text-white!"
+                                onClick: ()=>setIsMobileMenuOpen(true),
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {
+                                    className: "text-white"
                                 }, void 0, false, {
                                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                    lineNumber: 97,
-                                    columnNumber: 17
-                                }, ("TURBOPACK compile-time value", void 0)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__["Menu"], {
-                                    className: "text-white!"
-                                }, void 0, false, {
-                                    fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                    lineNumber: 99,
+                                    lineNumber: 98,
                                     columnNumber: 17
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                                lineNumber: 95,
-                                columnNumber: 13
+                                lineNumber: 97,
+                                columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 94,
-                            columnNumber: 11
+                            lineNumber: 96,
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
@@ -250,32 +245,63 @@ const Header = ()=>{
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 isMobileMenuOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "lg:hidden mt-4 bg-white rounded-[50px] shadow-xl px-4 pt-20 h-[60vh]",
+                    className: "lg:hidden fixed inset-0 top-0 left-0 right-0 bg-[#402099] rounded-b-[50px] shadow-xl px-4 pt-8 pb-8 h-[80vh] z-50 animate-slideDown",
                     children: [
-                        navLinks.map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                href: link.href,
-                                className: "block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100",
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex justify-end mb-8",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>setIsMobileMenuOpen(false),
-                                children: link.name
-                            }, link.name, false, {
+                                className: "p-2 hover:bg-gray-100 rounded-full transition-colors",
+                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
+                                    className: "text-white w-6 h-6"
+                                }, void 0, false, {
+                                    fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
+                                    lineNumber: 113,
+                                    columnNumber: 17
+                                }, ("TURBOPACK compile-time value", void 0))
+                            }, void 0, false, {
                                 fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
                                 lineNumber: 109,
                                 columnNumber: 15
-                            }, ("TURBOPACK compile-time value", void 0))),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                            href: "/contact",
-                            className: "block mt-4 bg-linear-to-r from-blue-600 to-purple-600 text-white sm:text-xl max-sm:text-xl px-6 py-3 rounded-full font-medium text-center transition-all duration-300 hover:shadow-lg hover:scale-105 active:scale-95 hover:from-blue-700 hover:to-purple-700",
-                            onClick: ()=>setIsMobileMenuOpen(false),
-                            children: "Get in Touch"
+                            }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                            lineNumber: 119,
+                            lineNumber: 108,
+                            columnNumber: 13
+                        }, ("TURBOPACK compile-time value", void 0)),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "flex flex-col space-y-2 bg-white rounded-[4rem] shadow-md p-4 h-[50vh] justify-center",
+                            children: [
+                                navLinks.map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                        href: link.href,
+                                        className: "block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100",
+                                        onClick: ()=>setIsMobileMenuOpen(false),
+                                        children: link.name
+                                    }, link.name, false, {
+                                        fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
+                                        lineNumber: 120,
+                                        columnNumber: 17
+                                    }, ("TURBOPACK compile-time value", void 0))),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$vs_code_workspace$2f$react__work$2f$company__portfolio$2f$frontend$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "/contact",
+                                    className: "block py-3 text-gray-700 hover:text-blue-600 text-center sm:text-2xl max-sm:text-2xl font-medium border-b border-gray-100 last:border-0 transition-all duration-300 hover:scale-105 hover:bg-blue-50 active:scale-95 active:bg-blue-100",
+                                    onClick: ()=>setIsMobileMenuOpen(false),
+                                    children: "Get in Touch"
+                                }, void 0, false, {
+                                    fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
+                                    lineNumber: 130,
+                                    columnNumber: 15
+                                }, ("TURBOPACK compile-time value", void 0))
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
+                            lineNumber: 118,
                             columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/vs_code_workspace/react work/company portfolio/frontend/app/components/Header.jsx",
-                    lineNumber: 107,
+                    lineNumber: 106,
                     columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             ]
